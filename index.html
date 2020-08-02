@@ -22,9 +22,56 @@
   <!-- <script src="js/scripts.js"></script> -->
   <div>
     Pokemon: <select class="selectpicker" data-live-search="true" id="pokemonSelect"></select><br>
-    Form: <select class="selectpicker" id="pokemonFormSelect">
+    Form: <select class="selectpicker" id="pokemonFormSelect" disabled>
       <option value="Normal">Normal</option>
-    </select>
+    </select><br>
+
+    <div>Level Up Moves
+      <table>
+        <thead>
+          <tr>
+            <th>Move</th>
+            <th>Level</th>
+          </tr>
+        </thead>
+        <tbody id="levelUpMoveTable"></tbody>
+      </table>
+    </div>
+    <br>
+    <div>Egg Moves
+      <table>
+        <thead>
+          <tr>
+            <th>Move</th>
+            <th>Level</th>
+          </tr>
+        </thead>
+        <tbody id="eggMoveTable"></tbody>
+      </table>
+    </div>
+    <br>
+    <div>Tutor Moves
+      <table>
+        <thead>
+          <tr>
+            <th>Move</th>
+          </tr>
+        </thead>
+        <tbody id="tutorMoveTable"></tbody>
+      </table>
+    </div>
+    <br>
+    <div>TM/HM/TR Moves
+      <table>
+        <thead>
+          <tr>
+            <th>Move</th>
+          </tr>
+        </thead>
+        <tbody id="machineMoveTable"></tbody>
+      </table>
+    </div>
+
   </div>
 
 
