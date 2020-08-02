@@ -4,7 +4,7 @@ var pokemon = null;
 $(document).ready(function () {
     $.getJSON("js/pokemonMoveList.json", function (data) {
         pokemonData = data;
-        pokemon = pokemon.Pokemon[0];
+        pokemon = pokemonData.Pokemon[0];
 
         var pokemonSelect = $("#pokemonSelect");
         pokemonData.Pokemon.forEach(p => {
@@ -14,7 +14,7 @@ $(document).ready(function () {
         pokemonSelect.change(OnSelectPokemon);
         $("#pokemonFormSelect").change(OnSelectForm);
 
-        RefreshTables("Normal");
+        RefreshTables(pokemon.DefaultForm);
     });
 });
 
