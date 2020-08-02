@@ -53,7 +53,7 @@ function RefreshTables(form) {
     levelUpMoveTable.empty();
     eggMoveTable.empty();
     tutorMoveTable.empty();
-    machineMoveTable.empty;
+    machineMoveTable.empty();
 
     if (pokemon != null && (pokemon.DefaultForm = form || pokemon.AltForms.includes(form))) {
         pokemon.LevelUpMoveLists.find(list => list.Form == form)
