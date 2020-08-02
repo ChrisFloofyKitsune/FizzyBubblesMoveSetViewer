@@ -12,6 +12,8 @@ $(document).ready(function () {
         pokemonSelect.selectpicker("refresh");
         pokemonSelect.change(OnSelectPokemon);
         $("#pokemonFormSelect").change(OnSelectForm);
+
+        RefreshTables("Normal");
     });
 });
 
