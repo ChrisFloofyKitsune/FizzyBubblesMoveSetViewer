@@ -8,7 +8,7 @@ $(document).ready(function () {
 
         var pokemonSelect = $("#pokemonSelect");
         pokemonData.Pokemon.forEach(p => {
-            pokemonSelect.append(new Option(pokemon.Name + " #" + pokemon.DexNum, pokemon.DexNum));
+            pokemonSelect.append(new Option(p.Name + " #" + p.DexNum, p.DexNum));
         });
         pokemonSelect.selectpicker("refresh");
         pokemonSelect.change(OnSelectPokemon);
@@ -19,7 +19,7 @@ $(document).ready(function () {
 });
 
 function OnSelectPokemon() {
-    pokemon = pokemonData.Pokemon.find(pokemon => pokemon.DexNum == this.value);
+    pokemon = pokemonData.Pokemon.find(p => p.DexNum == this.value);
 
     var formSelect = $("#pokemonFormSelect");
     formSelect.empty();
