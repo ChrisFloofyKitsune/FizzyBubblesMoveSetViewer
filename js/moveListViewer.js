@@ -51,7 +51,7 @@ function OnSelectForm()
     tutorMoveTable.empty();
     machineMoveTable.empty;
 
-    if (pokemon != null && pokemon.AltForms.includes(form))
+    if (pokemon != null && (pokemon.DefaultForm = form || pokemon.AltForms.includes(form)))
     {
         pokemon.LevelUpMoveLists.find(list => list.Form == form)
             .LevelUpMoves.forEach(move => {
