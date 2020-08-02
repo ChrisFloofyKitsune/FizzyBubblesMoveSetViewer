@@ -11,7 +11,7 @@ $(document).ready(function () {
         });
         pokemonSelect.selectpicker("refresh");
         pokemonSelect.change(OnSelectPokemon);
-        $("#pokemonFormSelect").change(RefreshTables);
+        $("#pokemonFormSelect").change(OnSelectForm);
     });
 });
 
@@ -33,12 +33,15 @@ function OnSelectPokemon() {
     formSelect.selectpicker("refresh");
     formSelect.val(pokemon.DefaultForm);
 
-    RefreshTables();
+    RefreshTables(DefaultForm);
 }
 
-function RefreshTables() {
-    var form = this.value;
+function OnSelectForm()
+{
+    RefreshTables(this.value);
+}
 
+function RefreshTables(form) {
     var levelUpMoveTable = $("#levelUpMoveTable");
     var eggMoveTable = $("#eggMoveTable");
     var tutorMoveTable = $("#tutorMoveTable");
