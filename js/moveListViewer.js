@@ -4,9 +4,10 @@ var pokemon = null;
 $(document).ready(function () {
     $.getJSON("js/pokemonMoveList.json", function (data) {
         pokemonData = data;
+        pokemon = pokemon.Pokemon[0];
 
         var pokemonSelect = $("#pokemonSelect");
-        pokemonData.Pokemon.forEach(pokemon => {
+        pokemonData.Pokemon.forEach(p => {
             pokemonSelect.append(new Option(pokemon.Name + " #" + pokemon.DexNum, pokemon.DexNum));
         });
         pokemonSelect.selectpicker("refresh");
