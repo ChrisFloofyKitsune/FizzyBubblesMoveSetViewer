@@ -15,7 +15,7 @@ $(document).ready(function()
 
 function OnSelectPokemon()
 {
-    var pokemon = pokemonData.Pokemon.find(pokemon => pokemon.DexNum = this.value);
+    var pokemon = pokemonData.Pokemon.find(pokemon => pokemon.DexNum == this.value);
 
     var formSelect = $("#pokmonFormSelect");
     formSelect.empty();
