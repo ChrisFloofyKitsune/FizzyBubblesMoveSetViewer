@@ -6,7 +6,7 @@ $(document).ready(function()
         pokemonData = data;
 
         var pokemonSelect = $("#pokemonSelect");
-        pokemonData.array.forEach(pokemon => {
+        pokemonData.forEach(pokemon => {
            pokemonSelect.append(new Option(pokemon.Name, pokemon.DexNum)); 
         });
     });
