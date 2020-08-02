@@ -7,7 +7,7 @@ $(document).ready(function()
 
         var pokemonSelect = $("#pokemonSelect");
         pokemonData.Pokemon.forEach(pokemon => {
-           pokemonSelect.append(new Option("#" + pokemon.DexNum + " " + pokemon.Name, pokemon.DexNum)); 
+           pokemonSelect.append(new Option(pokemon.Name + " #" + pokemon.DexNum, pokemon.DexNum)); 
         });
         pokemonSelect.change(OnSelectPokemon);
     });
@@ -15,5 +15,20 @@ $(document).ready(function()
 
 function OnSelectPokemon()
 {
-    alert(this.value);
+    var pokemon = pokemonData.Pokemon.find(p.DexNum = this.value);
+
+    var formSelect = $("#pokmonFormSelect");
+    formSelect.empty();
+    formSelect.append(new Option(pokemon.DefaultForm, pokemon.DefaultForm));
+    if (pokemon.AltForms.length == 0)
+    {
+        formSelect.prop("disabled", true);
+    }
+    else
+    {
+        pokemon.AltForms.forEach(form => {
+            formSelect.append(new Option(form, form));
+        })
+        formSelect.prop("disabled", false)
+    }
 }
