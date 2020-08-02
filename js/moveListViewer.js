@@ -33,7 +33,7 @@ function OnSelectPokemon() {
     formSelect.selectpicker("refresh");
     formSelect.val(pokemon.DefaultForm);
 
-    RefreshTables(DefaultForm);
+    RefreshTables(pokemon.DefaultForm);
 }
 
 function OnSelectForm()
