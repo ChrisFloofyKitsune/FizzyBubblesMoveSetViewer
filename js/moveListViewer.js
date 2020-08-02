@@ -9,6 +9,7 @@ $(document).ready(function()
         pokemonData.Pokemon.forEach(pokemon => {
            pokemonSelect.append(new Option(pokemon.Name + " #" + pokemon.DexNum, pokemon.DexNum)); 
         });
+        pokemonSelect.selectpicker("refresh");
         pokemonSelect.change(OnSelectPokemon);
     });
 });
@@ -31,4 +32,5 @@ function OnSelectPokemon()
         })
         formSelect.prop("disabled", false)
     }
+    formSelect.selectpicker("refresh");
 }
