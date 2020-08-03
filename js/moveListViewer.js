@@ -23,8 +23,6 @@ function OnSelectPokemon() {
 
     var formSelect = $("#pokemonFormSelect");
     formSelect.empty();
-    formSelect.selectpicker("refresh");
-
     formSelect.append(new Option(pokemon.DefaultForm, pokemon.DefaultForm));
     if (pokemon.AltForms.length == 0) {
         formSelect.prop("disabled", true);
@@ -59,7 +57,7 @@ function RefreshTables(form) {
     tutorMoveTable.empty();
     machineMoveTable.empty();
 
-    if (pokemon != null && (pokemon.DefaultForm = form || pokemon.AltForms.includes(form))) {
+    if (pokemon != null && (pokemon.DefaultForm == form || pokemon.AltForms.includes(form))) {
         pokemon.LevelUpMoveLists.find(list => list.Form == form)
             .LevelUpMoves.forEach(move => {
                 levelUpMoveTable.append("<tr><td>" + move.Name + "</td><td>" + move.Level + "</td></tr>");
