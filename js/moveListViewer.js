@@ -23,6 +23,8 @@ function OnSelectPokemon() {
 
     var formSelect = $("#pokemonFormSelect");
     formSelect.empty();
+    formSelect.selectpicker("refresh");
+
     formSelect.append(new Option(pokemon.DefaultForm, pokemon.DefaultForm));
     if (pokemon.AltForms.length == 0) {
         formSelect.prop("disabled", true);
@@ -34,7 +36,9 @@ function OnSelectPokemon() {
         formSelect.prop("disabled", false)
     }
     formSelect.selectpicker("refresh");
+
     formSelect.val(pokemon.DefaultForm);
+    formSelect.selectpicker("refresh");
 
     RefreshTables(pokemon.DefaultForm);
 }
