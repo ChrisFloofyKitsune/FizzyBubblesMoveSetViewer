@@ -291,8 +291,8 @@ function LoadTableInformation(table, moves, isLevelUpTable = false) {
 
             var moveInfo = moveDex.find(mi => mi.Name == move.Name);
 
-            console.log(move.Name);
-            console.log(moveInfo);
+            //console.log(move.Name);
+            //console.log(moveInfo);
 
             var newHTML = "<tr>";
 
