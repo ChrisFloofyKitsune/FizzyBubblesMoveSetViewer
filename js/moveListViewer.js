@@ -109,6 +109,16 @@ const specialCaseHumpies = [
         dexNum: 892,
         form: "Rapid Strike Style",
         result: "892"
+    },
+    {
+        dexNum: 29,
+        form: "Normal",
+        result: "032f"
+    },
+    {
+        dexNum: 32,
+        form: "Normal",
+        result: "029m"
     }
 ];
 
