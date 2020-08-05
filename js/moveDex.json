@@ -36,7 +36,7 @@
     "BattleEffect": "The user smashes into the target at high speed. This move always goes first.",
     "SecondaryEffect": "Has increased Speed Priority",
     "EffectRate": "-- %",
-    "SpeedPriority": "MaxMove Power:",
+    "SpeedPriority": "1",
     "CriticalHitRate": "4.17%",
     "Target": "Selected Target",
     "MakesPhysicalContact": "Yes"
@@ -302,7 +302,7 @@
     "BattleEffect": "The user lunges at the target at a speed that makes it almost invisible. This move always goes first.",
     "SecondaryEffect": "Has increased Speed Priority",
     "EffectRate": "-- %",
-    "SpeedPriority": "MaxMove Power:",
+    "SpeedPriority": "1",
     "CriticalHitRate": "4.17%",
     "Target": "Selected Target",
     "MakesPhysicalContact": "Yes"
@@ -1184,7 +1184,7 @@
     "BattleEffect": "The user strikes the target with tough punches as fast as bullets. This move always goes first.",
     "SecondaryEffect": "Has increased Speed Priority",
     "EffectRate": "-- %",
-    "SpeedPriority": "MaxMove Power:",
+    "SpeedPriority": "1",
     "CriticalHitRate": "4.17%",
     "Target": "Selected Target",
     "MakesPhysicalContact": "Yes"
@@ -2850,7 +2850,7 @@
     "BattleEffect": "The user charges the target at blinding speed. This move always goes first.",
     "SecondaryEffect": "Has increased Speed Priority",
     "EffectRate": "-- %",
-    "SpeedPriority": "MaxMove Power:",
+    "SpeedPriority": "2",
     "CriticalHitRate": "4.17%",
     "Target": "Selected Target",
     "MakesPhysicalContact": "Yes"
@@ -5188,7 +5188,7 @@
     "BattleEffect": "The user flash-freezes chunks of ice and hurls them at the target. This move always goes first.",
     "SecondaryEffect": "Has increased Speed Priority",
     "EffectRate": "-- %",
-    "SpeedPriority": "MaxMove Power:",
+    "SpeedPriority": "1",
     "CriticalHitRate": "4.17%",
     "Target": "Selected Target",
     "MakesPhysicalContact": "No"
@@ -5888,7 +5888,7 @@
     "BattleEffect": "The user throws a punch at blinding speed. This move always goes first.",
     "SecondaryEffect": "Has increased Speed Priority",
     "EffectRate": "-- %",
-    "SpeedPriority": "MaxMove Power:",
+    "SpeedPriority": "1",
     "CriticalHitRate": "4.17%",
     "Target": "Selected Target",
     "MakesPhysicalContact": "Yes"
@@ -8002,7 +8002,7 @@
     "BattleEffect": "The user lunges at the target at a speed that makes it almost invisible. This move always goes first.",
     "SecondaryEffect": "Has increased Speed Priority",
     "EffectRate": "-- %",
-    "SpeedPriority": "MaxMove Power:",
+    "SpeedPriority": "1",
     "CriticalHitRate": "4.17%",
     "Target": "Selected Target",
     "MakesPhysicalContact": "Yes"
@@ -8016,7 +8016,7 @@
     "BattleEffect": "The user protects itself and its allies from priority moves.",
     "SecondaryEffect": "Protects ally Pokémon from moves with increased Speed Priority",
     "EffectRate": "-- %",
-    "SpeedPriority": "Effect Rate:",
+    "SpeedPriority": "3",
     "CriticalHitRate": "None",
     "Target": "Ally",
     "MakesPhysicalContact": "No"
@@ -8926,7 +8926,7 @@
     "BattleEffect": "The user extends its shadow and attacks the target from behind. This move always goes first.",
     "SecondaryEffect": "Has increased Speed Priority",
     "EffectRate": "-- %",
-    "SpeedPriority": "MaxMove Power:",
+    "SpeedPriority": "1",
     "CriticalHitRate": "4.17%",
     "Target": "Selected Target",
     "MakesPhysicalContact": "Yes"
@@ -10956,7 +10956,7 @@
     "BattleEffect": "The user creates a bizarre area in which slower Pokémon get to move first for five turns.",
     "SecondaryEffect": "Inverts the turn order in each Speed Priority bracked for 5 turns.",
     "EffectRate": "-- %",
-    "SpeedPriority": "Speed Priority",
+    "SpeedPriority": "-7",
     "CriticalHitRate": "None",
     "Target": "Field",
     "MakesPhysicalContact": "No"
@@ -11124,7 +11124,7 @@
     "BattleEffect": "The user whirls its fists to send a wave of pure vacuum at the target. This move always goes first.",
     "SecondaryEffect": "Has increased Speed Priority",
     "EffectRate": "-- %",
-    "SpeedPriority": "MaxMove Power:",
+    "SpeedPriority": "1",
     "CriticalHitRate": "4.17%",
     "Target": "Selected Target",
     "MakesPhysicalContact": "No"
