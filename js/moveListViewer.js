@@ -179,8 +179,8 @@ function FetchHumpyLink() {
 
     //console.log(imgText);
 
-    $("#pokemonImage").attr("src", `http://www.upnetwork.net/fb/sprites/pk${imgText}.gif`);
-    $("#pokemonImageShiny").attr("src", `http://www.upnetwork.net/fb/sprites/sh${imgText}.gif`);
+    $("#pokemonImage").attr("src", `https://www.upnetwork.net/fb/sprites/pk${imgText}.gif`);
+    $("#pokemonImageShiny").attr("src", `https://www.upnetwork.net/fb/sprites/sh${imgText}.gif`);
 }
 
 const normalLevelUpHeader =
