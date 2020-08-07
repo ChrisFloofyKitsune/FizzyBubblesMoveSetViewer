@@ -302,7 +302,7 @@
     },
     {
         "Name": "Aura Break",
-        "GameText": "The effects of â€œAuraâ€ Abilities are reversed to lower the power of affected moves.",
+        "GameText": "The effects of Aura Abilities are reversed to lower the power of affected moves.",
         "Link": "https://www.serebii.net/abilitydex/aurabreak.shtml",
         "Pokemon": [
             {
@@ -10018,7 +10018,7 @@
     },
     {
         "Name": "Tinted Lens",
-        "GameText": "The Pokémon can use â€œnot very effectiveâ€ moves to deal regular damage.",
+        "GameText": "The Pokémon can use not very effective moves to deal regular damage.",
         "EffectDetail": "The power of “not very effective” moves is doubled.",
         "Link": "https://www.serebii.net/abilitydex/tintedlens.shtml",
         "Pokemon": [
