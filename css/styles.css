@@ -5,3 +5,21 @@
 .table-moves-super-expand {
     visibility: hidden;
 }
+
+.table-type-weaknesses table {
+    width: auto;
+    white-space: nowrap;
+}
+
+.table-type-weaknesses td, .table-type-weaknesses th {
+    text-align: center;
+    vertical-align: middle;
+    min-width: 2rem;
+    max-width: 2rem;
+    display: inline-table;
+}
+.table-type-weaknesses th {
+    line-height: 4rem;
+    min-height: 4rem;
+    max-height: 4rem;
+}

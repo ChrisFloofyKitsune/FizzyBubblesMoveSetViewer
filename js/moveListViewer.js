@@ -1,20 +1,52 @@
 var pokemonList = null;
 var moveDex = null;
 var abilityDex = null;
+var pokemonToTypeList = null;
+var typeEffectivenessData = null;
 
 var pokemon = null;
 var currentForm = null;
 
 var expanded = false;
 var superExpanded = false;
+var showTypeWeaknessess = false;
 
 $(document).ready(function () {
 
+    var jsonLoads = [];
     console.log("Loading Pokemon List");
-    $.getJSON("js/pokemonMoveList.json", function (data) {
+    jsonLoads.push($.getJSON("js/pokemonMoveList.json", function (data) {
         console.log("Loaded Pokemon List");
-
         pokemonList = data.Pokemon;
+    }));
+
+    console.log("Loading Move Dex");
+    $.getJSON("js/moveDex.json", function (data) {
+        console.log("Loaded Move Dex");
+        moveDex = data;
+    });
+
+    console.log("Loading Ability Dex");
+    jsonLoads.push($.getJSON("js/abilityDex.json", function (data) {
+        console.log("Loaded Ability Dex");
+        abilityDex = data;
+    }));
+
+    console.log("Loading Pokemon To Type List");
+    jsonLoads.push($.getJSON("js/pokemonToTypeList.json", function (data) {
+        console.log("Loaded Pokemon To Type List");
+        pokemonToTypeList = data;
+    }));
+
+    console.log("Loading Type Effectiveness Data");
+    jsonLoads.push($.getJSON("js/typeEffectiveness.json", function (data) {
+        console.log("Loaded Type Effectiveness Data");
+        typeEffectivenessData = data;
+    }));
+
+    $.when(...jsonLoads).then(function () {
+        console.log("All Data Loaded! Booting up FizzyDex...");
+
         pokemon = pokemonList[0];
         currentForm = pokemon.DefaultForm;
 
@@ -31,6 +63,7 @@ $(document).ready(function () {
 
         $("#pokemonFormSelect").change(OnSelectForm);
 
+        $("#expandTableCheckbox").attr("disabled", false);
         $("#expandTableCheckbox").change(function () {
             $("#superExpandTableCheckbox").attr("disabled", !this.checked);
             expanded = this.checked;
@@ -42,7 +75,15 @@ $(document).ready(function () {
             RefreshTables();
         });
 
-        window.onhashchange = function() {
+        $("#showTypeWeaknessesCheckbox").attr("disabled", false);
+        $(".table-type-weaknesses").attr("hidden", true);
+        $("#showTypeWeaknessesCheckbox").change(function () {
+            showTypeWeaknessess = this.checked;
+            $(".table-type-weaknesses").attr("hidden", !this.checked);
+            RefreshTables();
+        });
+
+        window.onhashchange = function () {
             LoadURLHash();
             pokemonSelect.val(pokemon.DexNum);
             pokemonSelect.selectpicker("refresh");
@@ -52,18 +93,6 @@ $(document).ready(function () {
 
         UpdateFormSelect(currentForm);
         RefreshTables(currentForm);
-    });
-
-    console.log("Loading Move Dex");
-    $.getJSON("js/moveDex.json", function (data) {
-        console.log("Loaded Move Dex");
-        moveDex = data;
-    });
-
-    console.log("Loading Ability Dex");
-    $.getJSON("js/abilityDex.json", function (data) {
-        console.log("Loaded Ability Dex");
-        abilityDex = data;
     });
 });
 
@@ -155,9 +184,17 @@ function LoadURLHash() {
                 pokemon = pokemonList[num - 1] ?? pokemon;
 
                 match = document.location.hash.match(/Form=(.*?)(?:&|$)/);
-                var form = (match == null) ? null : match[1];
-                if (form != null && (pokemon.DefaultForm == form || pokemon.AltForms.includes(form)))
-                    currentForm = form;
+                var form = (match == null) ? null : decodeURIComponent(match[1]);
+                //console.log(form);
+                if (form != null) {
+                    if (pokemon.DefaultForm.toUpperCase() === form.toUpperCase())
+                        currentForm = pokemon.DefaultForm;
+                    else
+                        currentForm = pokemon.AltForms
+                            .find(f => f.toUpperCase() === form.toUpperCase()) ?? pokemon.DefaultForm;
+                }
+                else
+                    currentForm = pokemon.DefaultForm;
             }
         }
     }
@@ -327,6 +364,8 @@ function RefreshTables(form = null) {
     $("#pokemonName").text(pokemon.Name);
     FetchHumpyLink();
 
+    CreateTypeList();
+
     {
         let abilities = abilityDex.filter(a => a.Pokemon.some(p => p.DexNum == pokemon.DexNum));
         if (abilities.some(a => a.Pokemon.some(p => p.DexNum == pokemon.DexNum && p.Form != undefined))) {
@@ -345,7 +384,6 @@ function RefreshTables(form = null) {
             abilityTable.append(newHTML);
         });
     }
-
 
     if (pokemon.DefaultForm == currentForm || pokemon.AltForms.includes(currentForm)) {
         CreateMoveTable(levelUpMoveTable, pokemon.LevelUpMoveLists.find(list => list.Form == currentForm).LevelUpMoves, true);
@@ -401,4 +439,104 @@ function CreateMoveTable(table, moves, isLevelUpTable = false) {
             table.append(newHTML);
         });
     }
+}
+
+function CreateTypeList() {
+    var typeList = $("#pokemonTypeList");
+    typeList.empty();
+
+    var typeEntries = pokemonToTypeList.find(item => item.DexNum == pokemon.DexNum).Forms;
+    if (pokemon.AltForms.length > 0 && typeEntries.length > 1) {
+        if (currentForm == pokemon.DefaultForm)
+            typeEntries = typeEntries.filter(item => !pokemon.AltForms.some(altForm => item.Form.includes(altForm)));
+        else
+            typeEntries = typeEntries.filter(item => item.Form.includes(currentForm));
+    }
+    //console.log(typeEntries);
+    typeEntries.forEach(f => {
+        typeList.append(`<h6>${(typeEntries.length > 1) ? `${f.Form} Form ` : ""}Type: <img src=img/${f.PrimaryType.toLowerCase()}.png>${(f.SecondaryType) ? `<img src="img/${f.SecondaryType.toLowerCase()}.png"` : ""}</h6>`);
+        if (showTypeWeaknessess)
+            typeList.append(CreateTypeEffectivenessChart(f.PrimaryType, f.SecondaryType ?? null));
+    });
+}
+
+function CreateTypeEffectivenessChart(primaryType, secondaryType) {
+    var table = $(
+        `<div class="table-responsive table-type-weaknesses">
+            <table class="table table-sm table-dark table-striped table-bordered">
+            <thead>
+                <tr>
+                    <th><img src="img/unknown90.png"></th>
+                    <th><img src="img/unknown90.png"></th>
+                    <th><img src="img/unknown90.png"></th>
+                    <th><img src="img/unknown90.png"></th>
+                    <th><img src="img/unknown90.png"></th>
+                    <th><img src="img/unknown90.png"></th>
+                    <th><img src="img/unknown90.png"></th>
+                    <th><img src="img/unknown90.png"></th>
+                    <th><img src="img/unknown90.png"></th>
+                    <th><img src="img/unknown90.png"></th>
+                    <th><img src="img/unknown90.png"></th>
+                    <th><img src="img/unknown90.png"></th>
+                    <th><img src="img/unknown90.png"></th>
+                    <th><img src="img/unknown90.png"></th>
+                    <th><img src="img/unknown90.png"></th>
+                    <th><img src="img/unknown90.png"></th>
+                    <th><img src="img/unknown90.png"></th>
+                    <th><img src="img/unknown90.png"></th>
+                </tr>
+                </thead>
+                <tbody>
+                    <td>x?</td>
+                    <td>x?</td>
+                    <td>x?</td>
+                    <td>x?</td>
+                    <td>x?</td>
+                    <td>x?</td>
+                    <td>x?</td>
+                    <td>x?</td>
+                    <td>x?</td>
+                    <td>x?</td>
+                    <td>x?</td>
+                    <td>x?</td>
+                    <td>x?</td>
+                    <td>x?</td>
+                    <td>x?</td>
+                    <td>x?</td>
+                    <td>x?</td>
+                    <td>x?</td>
+                </tbody>
+            </table>
+        </div>`
+    );
+
+    console.log(primaryType);
+    console.log(secondaryType);
+
+    table.find("th img").each(function (index, e) {
+        $(e).attr("src", "img/" + typeEffectivenessData.Types[index].toLowerCase() + "90.png");
+    });
+    table.find("td").each(function (index, e) {
+        let currType = typeEffectivenessData.Types[index];
+        let typeVal = (typeEffectivenessData[primaryType][currType] ?? 1) * (secondaryType ? (typeEffectivenessData[secondaryType][currType] ?? 1) : 1);
+        let element = $(e);
+        if (typeVal != 1) {
+            element.addClass("font-weight-bold");
+            
+            if (typeVal == 0)
+                e.style.backgroundColor = "black";
+            else if (typeVal == 0.25)
+                element.addClass("bg-danger");
+            else if (typeVal == 0.5)
+                element.addClass("bg-warning");
+            else if (typeVal == 2)
+                element.addClass("bg-success")
+            else if (typeVal == 4)
+                element.addClass("bg-primary")
+        }
+
+        element.text("×" + (typeVal == 0.5 ? "½" : (typeVal == 0.25 ? "¼" : typeVal)));
+    });
+
+    return table;
 }
