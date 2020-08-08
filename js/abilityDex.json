@@ -11026,5 +11026,16 @@
                 "Form": "Galarian"
             }
         ]
+    },
+    {
+        "Name": "Unseen Fist",
+        "GameText": "The Pokémon can deal damage with moves that make physical contact, even if the target is protected.",
+        "Link": "https://www.serebii.net/abilitydex/unseenfist.shtml",
+        "Pokemon": [
+            {
+                "Name": "Urshifu",
+                "DexNum": 892
+            }
+        ]
     }
 ]
