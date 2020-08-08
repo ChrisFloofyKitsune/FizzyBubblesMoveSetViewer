@@ -195,7 +195,7 @@
         "DexNum": 19,
         "Forms": [
             {
-                "Form": "Alolan",
+                "Form": "Alola",
                 "PrimaryType": "Dark",
                 "SecondaryType": "Normal"
             },
@@ -210,7 +210,7 @@
         "DexNum": 20,
         "Forms": [
             {
-                "Form": "Alolan",
+                "Form": "Alola",
                 "PrimaryType": "Dark",
                 "SecondaryType": "Normal"
             },
@@ -277,7 +277,7 @@
         "DexNum": 26,
         "Forms": [
             {
-                "Form": "Alolan",
+                "Form": "Alola",
                 "PrimaryType": "Electric",
                 "SecondaryType": "Psychic"
             },
@@ -292,7 +292,7 @@
         "DexNum": 27,
         "Forms": [
             {
-                "Form": "Alolan",
+                "Form": "Alola",
                 "PrimaryType": "Ice",
                 "SecondaryType": "Steel"
             },
@@ -307,7 +307,7 @@
         "DexNum": 28,
         "Forms": [
             {
-                "Form": "Alolan",
+                "Form": "Alola",
                 "PrimaryType": "Ice",
                 "SecondaryType": "Steel"
             },
@@ -404,7 +404,7 @@
         "DexNum": 37,
         "Forms": [
             {
-                "Form": "Alolan",
+                "Form": "Alola",
                 "PrimaryType": "Ice"
             },
             {
@@ -418,7 +418,7 @@
         "DexNum": 38,
         "Forms": [
             {
-                "Form": "Alolan",
+                "Form": "Alola",
                 "PrimaryType": "Ice",
                 "SecondaryType": "Fairy"
             },
@@ -554,7 +554,7 @@
         "DexNum": 50,
         "Forms": [
             {
-                "Form": "Alolan",
+                "Form": "Alola",
                 "PrimaryType": "Ground",
                 "SecondaryType": "Steel"
             },
@@ -569,7 +569,7 @@
         "DexNum": 51,
         "Forms": [
             {
-                "Form": "Alolan",
+                "Form": "Alola",
                 "PrimaryType": "Ground",
                 "SecondaryType": "Steel"
             },
@@ -584,7 +584,7 @@
         "DexNum": 52,
         "Forms": [
             {
-                "Form": "Alolan",
+                "Form": "Alola",
                 "PrimaryType": "Dark"
             },
             {
@@ -602,7 +602,7 @@
         "DexNum": 53,
         "Forms": [
             {
-                "Form": "Alolan",
+                "Form": "Alola",
                 "PrimaryType": "Dark"
             },
             {
@@ -822,7 +822,7 @@
         "DexNum": 74,
         "Forms": [
             {
-                "Form": "Alolan",
+                "Form": "Alola",
                 "PrimaryType": "Rock",
                 "SecondaryType": "Electric"
             },
@@ -838,7 +838,7 @@
         "DexNum": 75,
         "Forms": [
             {
-                "Form": "Alolan",
+                "Form": "Alola",
                 "PrimaryType": "Rock",
                 "SecondaryType": "Electric"
             },
@@ -854,7 +854,7 @@
         "DexNum": 76,
         "Forms": [
             {
-                "Form": "Alolan",
+                "Form": "Alola",
                 "PrimaryType": "Rock",
                 "SecondaryType": "Electric"
             },
@@ -1009,7 +1009,7 @@
         "DexNum": 88,
         "Forms": [
             {
-                "Form": "Alolan",
+                "Form": "Alola",
                 "PrimaryType": "Poison",
                 "SecondaryType": "Dark"
             },
@@ -1024,7 +1024,7 @@
         "DexNum": 89,
         "Forms": [
             {
-                "Form": "Alolan",
+                "Form": "Alola",
                 "PrimaryType": "Poison",
                 "SecondaryType": "Dark"
             },
@@ -1175,7 +1175,7 @@
         "DexNum": 103,
         "Forms": [
             {
-                "Form": "Alolan",
+                "Form": "Alola",
                 "PrimaryType": "Grass",
                 "SecondaryType": "Dragon"
             },
@@ -1201,7 +1201,7 @@
         "DexNum": 105,
         "Forms": [
             {
-                "Form": "Alolan",
+                "Form": "Alola",
                 "PrimaryType": "Fire",
                 "SecondaryType": "Ghost"
             },
