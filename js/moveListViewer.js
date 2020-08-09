@@ -16,37 +16,37 @@ $(document).ready(function () {
 
     var jsonLoads = [];
     console.log("Loading Pokemon List");
-    jsonLoads.push($.getJSON("js/pokemonMoveList.json", function (data) {
+    jsonLoads.push($.getJSON("js/pokemonMoveList-min.json", function (data) {
         console.log("Loaded Pokemon List");
         pokemonList = data.Pokemon;
     }));
 
     console.log("Loading Move Dex");
-    $.getJSON("js/moveDex.json", function (data) {
+    $.getJSON("js/moveDex-min.json", function (data) {
         console.log("Loaded Move Dex");
         moveDex = data;
     });
 
     console.log("Loading Ability Dex");
-    jsonLoads.push($.getJSON("js/abilityDex.json", function (data) {
+    jsonLoads.push($.getJSON("js/abilityDex-min.json", function (data) {
         console.log("Loaded Ability Dex");
         abilityDex = data;
     }));
 
     console.log("Loading Pokemon To Type List");
-    jsonLoads.push($.getJSON("js/pokemonToTypeList.json", function (data) {
+    jsonLoads.push($.getJSON("js/pokemonToTypeList-min.json", function (data) {
         console.log("Loaded Pokemon To Type List");
         pokemonToTypeList = data;
     }));
 
     console.log("Loading Type Effectiveness Data");
-    jsonLoads.push($.getJSON("js/typeEffectiveness.json", function (data) {
+    jsonLoads.push($.getJSON("js/typeEffectiveness-min.json", function (data) {
         console.log("Loaded Type Effectiveness Data");
         typeEffectivenessData = data;
     }));
 
     console.log("Loading Pokemon External Links");
-    jsonLoads.push($.getJSON("js/pokemonExternalLinks.json", function (data) {
+    jsonLoads.push($.getJSON("js/pokemonExternalLinks-min.json", function (data) {
         console.log("Loaded Pokemon External Links");
         pokemonExternalLinks = data;
     }));
