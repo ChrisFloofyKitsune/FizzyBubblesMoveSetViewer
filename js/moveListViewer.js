@@ -188,7 +188,7 @@ function LoadURLHash() {
             //console.log(match);
             var num = parseInt(match[1]);
             if (num != NaN) {
-                pokemon = pokemonList[num - 1] ?? pokemon;
+                pokemon = pokemonList[num - 1] || pokemon;
 
                 match = document.location.hash.match(/Form=(.*?)(?:&|$)/);
                 var form = (match == null) ? null : decodeURIComponent(match[1]);
@@ -198,7 +198,7 @@ function LoadURLHash() {
                         currentForm = pokemon.DefaultForm;
                     else
                         currentForm = pokemon.AltForms
-                            .find(f => f.toUpperCase() === form.toUpperCase()) ?? pokemon.DefaultForm;
+                            .find(f => f.toUpperCase() === form.toUpperCase()) || pokemon.DefaultForm;
                 }
                 else
                     currentForm = pokemon.DefaultForm;
@@ -387,7 +387,7 @@ function RefreshTables(form = null) {
                 `<tr>
                 <td>${a.Name}</td>
                 <td>${a.GameText}</td>
-                <td>${a.EffectDetail ?? ""}</td>
+                <td>${a.EffectDetail || ""}</td>
                 <td><a href="${a.Link}" target="_blank"><i class="fas fa-external-link-alt"></i></a></td>
             </tr>`
             abilityTable.append(newHTML);
@@ -465,7 +465,7 @@ function CreateTypeList() {
     typeEntries.forEach(f => {
         typeList.append(`<h6>${(typeEntries.length > 1) ? `${f.Form} Form ` : ""}Type: <img src=img/${f.PrimaryType.toLowerCase()}.png>${(f.SecondaryType) ? `<img src="img/${f.SecondaryType.toLowerCase()}.png"` : ""}</h6>`);
         if (showTypeWeaknessess)
-            typeList.append(CreateTypeEffectivenessChart(f.PrimaryType, f.SecondaryType ?? null));
+            typeList.append(CreateTypeEffectivenessChart(f.PrimaryType, f.SecondaryType || null));
     });
 }
 
@@ -527,7 +527,7 @@ function CreateTypeEffectivenessChart(primaryType, secondaryType) {
     });
     table.find("td").each(function (index, e) {
         let currType = typeEffectivenessData.Types[index];
-        let typeVal = (typeEffectivenessData[primaryType][currType] ?? 1) * (secondaryType ? (typeEffectivenessData[secondaryType][currType] ?? 1) : 1);
+        let typeVal = (typeEffectivenessData[primaryType][currType] || 1) * (secondaryType ? (typeEffectivenessData[secondaryType][currType] || 1) : 1);
         let element = $(e);
         if (typeVal != 1) {
             element.addClass("font-weight-bold");
