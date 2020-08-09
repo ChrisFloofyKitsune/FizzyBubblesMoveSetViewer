@@ -3,6 +3,7 @@ var moveDex = null;
 var abilityDex = null;
 var pokemonToTypeList = null;
 var typeEffectivenessData = null;
+var pokemonExternalLinks = null;
 
 var pokemon = null;
 var currentForm = null;
@@ -42,6 +43,12 @@ $(document).ready(function () {
     jsonLoads.push($.getJSON("js/typeEffectiveness.json", function (data) {
         console.log("Loaded Type Effectiveness Data");
         typeEffectivenessData = data;
+    }));
+
+    console.log("Loading Pokemon External Links");
+    jsonLoads.push($.getJSON("js/pokemonExternalLinks.json", function (data) {
+        console.log("Loaded Pokemon External Links");
+        pokemonExternalLinks = data;
     }));
 
     $.when(...jsonLoads).then(function () {
@@ -329,6 +336,8 @@ function RefreshTables(form = null) {
         currentForm = form;
 
     document.location.hash = (`Name=${pokemon.Name}&DexNum=${pokemon.DexNum}` + ((currentForm != "Normal") ? `&Form=${currentForm}` : ""));
+
+    $("#pokemonExternalLink").attr("href", pokemonExternalLinks.find(l => l.DexNum == pokemon.DexNum).Link);
 
     if (!expanded) {
         $("#levelUpMoveHeader").html(normalLevelUpHeader);
