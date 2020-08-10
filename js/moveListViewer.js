@@ -519,8 +519,8 @@ function CreateTypeEffectivenessChart(primaryType, secondaryType) {
         </div>`
     );
 
-    console.log(primaryType);
-    console.log(secondaryType);
+    //console.log(primaryType);
+    //onsole.log(secondaryType);
 
     table.find("th img").each(function (index, e) {
         $(e).attr("src", "img/" + typeEffectivenessData.Types[index].toLowerCase() + "90.png");
