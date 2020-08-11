@@ -5993,22 +5993,22 @@
         "DexNum": 555,
         "Forms": [
             {
-                "Form": "Galarian",
-                "PrimaryType": "Ice"
-            },
-            {
                 "Form": "Normal",
                 "PrimaryType": "Fire"
-            },
-            {
-                "Form": "Galarian Zen Mode",
-                "PrimaryType": "Ice",
-                "SecondaryType": "Fire"
             },
             {
                 "Form": "Zen Mode",
                 "PrimaryType": "Fire",
                 "SecondaryType": "Psychic"
+            },
+            {
+                "Form": "Galarian",
+                "PrimaryType": "Ice"
+            },
+            {
+                "Form": "Galarian Zen Mode",
+                "PrimaryType": "Ice",
+                "SecondaryType": "Fire"
             }
         ]
     },

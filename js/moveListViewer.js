@@ -527,7 +527,8 @@ function CreateTypeEffectivenessChart(primaryType, secondaryType) {
     });
     table.find("td").each(function (index, e) {
         let currType = typeEffectivenessData.Types[index];
-        let typeVal = (typeEffectivenessData[primaryType][currType] || 1) * (secondaryType ? (typeEffectivenessData[secondaryType][currType] || 1) : 1);
+        let typeVal = (typeEffectivenessData[primaryType][currType] != undefined ? typeEffectivenessData[primaryType][currType] : 1)
+            * (secondaryType ? (typeEffectivenessData[secondaryType][currType] != undefined ? typeEffectivenessData[secondaryType][currType] : 1) : 1);
         let element = $(e);
         if (typeVal != 1) {
             element.addClass("font-weight-bold");
