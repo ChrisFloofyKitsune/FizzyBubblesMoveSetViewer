@@ -10362,11 +10362,6 @@
         "DexNum": 412,
         "Forms": [
             {
-                "FormName": "Normal",
-                "PrimaryType": "Bug",
-                "MoveSet": "Normal"
-            },
-            {
                 "FormName": "Plant Cloak",
                 "PrimaryType": "Bug",
                 "HumpySpriteCode": "412"
@@ -10405,7 +10400,7 @@
             },
             {
                 "Stage1DexNum": 412,
-                "Stage1Form": "Normal",
+                "Stage1Form": "Any",
                 "Stage2Method": "Level 20 (Male)",
                 "Stage2DexNum": 414,
                 "Stage2Form": "Normal"
@@ -22384,11 +22379,6 @@
         "DexNum": 869,
         "Forms": [
             {
-                "FormName": "Normal",
-                "PrimaryType": "Fairy",
-                "MoveSet": "Vanilla Cream"
-            },
-            {
                 "FormName": "Vanilla Cream",
                 "PrimaryType": "Fairy",
                 "MoveSet": "Vanilla Cream",
@@ -22508,7 +22498,7 @@
         ],
         "FormChanges": [
             {
-                "StartForm": "Normal",
+                "StartForm": "Any",
                 "ChangeMethod": "Gigantamax",
                 "EndForm": "Gigantamax"
             }
