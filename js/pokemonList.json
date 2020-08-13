@@ -589,7 +589,6 @@
                 "PrimaryType": "Normal",
                 "SecondaryType": "Flying",
                 "Ability1": "No Guard",
-                "ExtraSignatureZMove": "10,000,000 Volt Thunderbolt",
                 "IsSuperForm": true
             }
         ],
@@ -854,7 +853,7 @@
                 "PrimaryType": "Electric",
                 "Ability1": "Static",
                 "Hidden Ability": "Lightning Rod",
-                "ExtraSignatureMove": "Meteor Mash",
+                "ExtraSignatureZMove": "10,000,000 Volt Thunderbolt",
                 "HumpySpriteCode": "025partner"
             },
             {
@@ -862,7 +861,7 @@
                 "PrimaryType": "Electric",
                 "Ability1": "Static",
                 "Hidden Ability": "Lightning Rod",
-                "ExtraSignatureMove": "Icicle Crash",
+                "ExtraSignatureZMove": "10,000,000 Volt Thunderbolt",
                 "HumpySpriteCode": "025world"
             },
             {
@@ -870,7 +869,7 @@
                 "PrimaryType": "Electric",
                 "Ability1": "Static",
                 "Hidden Ability": "Lightning Rod",
-                "ExtraSignatureMove": "Draining Kiss",
+                "ExtraSignatureMove": "Meteor Mash",
                 "HumpySpriteCode": "025rock"
             },
             {
@@ -878,7 +877,7 @@
                 "PrimaryType": "Electric",
                 "Ability1": "Static",
                 "Hidden Ability": "Lightning Rod",
-                "ExtraSignatureMove": "Electric Terrain",
+                "ExtraSignatureMove": "Icicle Crash",
                 "HumpySpriteCode": "025belle"
             },
             {
@@ -886,7 +885,7 @@
                 "PrimaryType": "Electric",
                 "Ability1": "Static",
                 "Hidden Ability": "Lightning Rod",
-                "ExtraSignatureMove": "Flying Press",
+                "ExtraSignatureMove": "Draining Kiss",
                 "HumpySpriteCode": "025pop"
             },
             {
@@ -894,6 +893,7 @@
                 "PrimaryType": "Electric",
                 "Ability1": "Static",
                 "Hidden Ability": "Lightning Rod",
+                "ExtraSignatureMove": "Electric Terrain",
                 "HumpySpriteCode": "025phd"
             },
             {
@@ -901,6 +901,7 @@
                 "PrimaryType": "Electric",
                 "Ability1": "Static",
                 "Hidden Ability": "Lightning Rod",
+                "ExtraSignatureMove": "Flying Press",
                 "HumpySpriteCode": "025libre"
             },
             {
@@ -1450,19 +1451,7 @@
                 "MoveSet": "Normal"
             }
         ],
-        "DefaultFormName": "Normal",
-        "EvolutionChains": [
-            {
-                "Stage1DexNum": 41,
-                "Stage1Form": "Normal",
-                "Stage2Method": "Level 22",
-                "Stage2DexNum": 42,
-                "Stage2Form": "Normal",
-                "Stage3Method": "Friendship",
-                "Stage3DexNum": 169,
-                "Stage3Form": "Normal"
-            }
-        ]
+        "DefaultFormName": "Normal"
     },
     {
         "Name": "Golbat",
@@ -1477,19 +1466,7 @@
                 "MoveSet": "Normal"
             }
         ],
-        "DefaultFormName": "Normal",
-        "EvolutionChains": [
-            {
-                "Stage1DexNum": 41,
-                "Stage1Form": "Normal",
-                "Stage2Method": "Level 22",
-                "Stage2DexNum": 42,
-                "Stage2Form": "Normal",
-                "Stage3Method": "Friendship",
-                "Stage3DexNum": 169,
-                "Stage3Form": "Normal"
-            }
-        ]
+        "DefaultFormName": "Normal"
     },
     {
         "Name": "Oddish",
@@ -3015,9 +2992,7 @@
                 "Ability1": "Poison Touch",
                 "Ability2": "Gluttony",
                 "Hidden Ability": "Power of Alchemy",
-                "MoveSet": "Alolan",
-                "ExtraSignatureMove": "Moongeist Beam",
-                "ExtraSignatureZMove": "Menacing Moonraze Maelstrom"
+                "MoveSet": "Alolan"
             }
         ],
         "DefaultFormName": "Normal",
@@ -3637,7 +3612,8 @@
                 "SecondaryType": "Fairy",
                 "Ability1": "Levitate",
                 "Ability2": "Neutralizing Gas",
-                "Hidden Ability": "Misty Surge"
+                "Hidden Ability": "Misty Surge",
+                "MoveSet": "Galarian"
             }
         ],
         "DefaultFormName": "Normal",
@@ -3964,9 +3940,7 @@
                 "Ability1": "Vital Spirit",
                 "Ability2": "Screen Cleaner",
                 "Hidden Ability": "Ice Body",
-                "MoveSet": "Galarian",
-                "ExtraSignatureMove": "Sunsteel Strike",
-                "ExtraSignatureZMove": "Searing Sunraze Smash"
+                "MoveSet": "Galarian"
             }
         ],
         "DefaultFormName": "Normal",
@@ -4736,7 +4710,6 @@
                 "PrimaryType": "Psychic",
                 "SecondaryType": "Fighting",
                 "Ability1": "Steadfast",
-                "MoveSet": "Mega X",
                 "HumpySpriteCode": "150mx"
             },
             {
@@ -5218,19 +5191,7 @@
                 "MoveSet": "Normal"
             }
         ],
-        "DefaultFormName": "Normal",
-        "EvolutionChains": [
-            {
-                "Stage1DexNum": 41,
-                "Stage1Form": "Normal",
-                "Stage2Method": "Level 22",
-                "Stage2DexNum": 42,
-                "Stage2Form": "Normal",
-                "Stage3Method": "Friendship",
-                "Stage3DexNum": 169,
-                "Stage3Form": "Normal"
-            }
-        ]
+        "DefaultFormName": "Normal"
     },
     {
         "Name": "Chinchou",
@@ -5297,7 +5258,6 @@
                 "FormName": "Spiky-eared",
                 "PrimaryType": "Electric",
                 "Ability1": "Static",
-                "ExtraSignatureZMove": "10,000,000 Volt Thunderbolt",
                 "HumpySpriteCode": "172spiky"
             }
         ],
@@ -6212,6 +6172,7 @@
                 "FormName": "?",
                 "PrimaryType": "Psychic",
                 "Ability1": "Levitate",
+                "MoveSet": "?",
                 "HumpySpriteCode": "201question"
             }
         ],
@@ -10325,7 +10286,6 @@
                 "FormName": "Mega",
                 "PrimaryType": "Ice",
                 "Ability1": "Refrigerate",
-                "MoveSet": "Mega",
                 "IsSuperForm": true
             }
         ],
@@ -10935,12 +10895,14 @@
             {
                 "FormName": "Defense Forme",
                 "PrimaryType": "Psychic",
-                "Ability1": "Pressure"
+                "Ability1": "Pressure",
+                "MoveSet": "Defense Forme"
             },
             {
                 "FormName": "Speed Forme",
                 "PrimaryType": "Psychic",
-                "Ability1": "Pressure"
+                "Ability1": "Pressure",
+                "MoveSet": "Speed Forme"
             }
         ],
         "DefaultFormName": "Normal Forme"
@@ -11690,14 +11652,16 @@
                 "PrimaryType": "Bug",
                 "SecondaryType": "Ground",
                 "Ability1": "Anticipation",
-                "Hidden Ability": "Overcoat"
+                "Hidden Ability": "Overcoat",
+                "MoveSet": "Sandy Cloak"
             },
             {
                 "FormName": "Trash Cloak",
                 "PrimaryType": "Bug",
                 "SecondaryType": "Steel",
                 "Ability1": "Anticipation",
-                "Hidden Ability": "Overcoat"
+                "Hidden Ability": "Overcoat",
+                "MoveSet": "Trash Cloak"
             }
         ],
         "DefaultFormName": "Plant Cloak",
@@ -13426,14 +13390,15 @@
                 "PrimaryType": "Electric",
                 "SecondaryType": "Ghost",
                 "Ability1": "Levitate",
-                "MoveSet": "Normal"
+                "MoveSet": "Normal",
+                "HumpySpriteCode": "479"
             },
             {
                 "FormName": "Heat",
                 "PrimaryType": "Electric",
                 "SecondaryType": "Fire",
                 "Ability1": "Levitate",
-                "ExtraSignatureMove": "Blizzard",
+                "ExtraSignatureMove": "Overheat",
                 "HumpySpriteCode": "479heat"
             },
             {
@@ -13441,7 +13406,7 @@
                 "PrimaryType": "Electric",
                 "SecondaryType": "Water",
                 "Ability1": "Levitate",
-                "ExtraSignatureMove": "Air Slash",
+                "ExtraSignatureMove": "Hydro Pump",
                 "HumpySpriteCode": "479wash"
             },
             {
@@ -13449,7 +13414,7 @@
                 "PrimaryType": "Electric",
                 "SecondaryType": "Ice",
                 "Ability1": "Levitate",
-                "ExtraSignatureMove": "Leaf Storm",
+                "ExtraSignatureMove": "Blizzard",
                 "HumpySpriteCode": "479frost"
             },
             {
@@ -13457,6 +13422,7 @@
                 "PrimaryType": "Electric",
                 "SecondaryType": "Flying",
                 "Ability1": "Levitate",
+                "ExtraSignatureMove": "Air Slash",
                 "HumpySpriteCode": "479fan"
             },
             {
@@ -13464,6 +13430,7 @@
                 "PrimaryType": "Electric",
                 "SecondaryType": "Grass",
                 "Ability1": "Levitate",
+                "ExtraSignatureMove": "Leaf Storm",
                 "HumpySpriteCode": "479mow"
             }
         ],
@@ -15491,7 +15458,8 @@
                 "PrimaryType": "Ice",
                 "SecondaryType": "Fire",
                 "Ability1": "Zen Mode",
-                "MoveSet": "Galarian"
+                "MoveSet": "Galarian",
+                "HumpySpriteCode": "555gz"
             }
         ],
         "DefaultFormName": "Normal",
@@ -15670,8 +15638,7 @@
                 "PrimaryType": "Ground",
                 "SecondaryType": "Ghost",
                 "Ability1": "Wandering Spirit",
-                "MoveSet": "Galarian",
-                "ExtraSignatureMove": "Behemoth Blade"
+                "MoveSet": "Galarian"
             }
         ],
         "DefaultFormName": "Normal",
@@ -16285,8 +16252,7 @@
                 "SecondaryType": "Grass",
                 "Ability1": "Chlorophyll",
                 "Ability2": "Sap Sipper",
-                "Hidden Ability": "Serene Grace",
-                "MoveSet": "Autumn"
+                "Hidden Ability": "Serene Grace"
             },
             {
                 "FormName": "Winter",
@@ -16294,8 +16260,7 @@
                 "SecondaryType": "Grass",
                 "Ability1": "Chlorophyll",
                 "Ability2": "Sap Sipper",
-                "Hidden Ability": "Serene Grace",
-                "MoveSet": "Winter"
+                "Hidden Ability": "Serene Grace"
             }
         ],
         "DefaultFormName": "Spring",
@@ -19106,9 +19071,16 @@
             {
                 "Stage1DexNum": 667,
                 "Stage1Form": "Normal",
-                "Stage2Method": "Level 35",
+                "Stage2Method": "Level 35 (Male)",
                 "Stage2DexNum": 668,
-                "Stage2Form": "Normal"
+                "Stage2Form": "Male"
+            },
+            {
+                "Stage1DexNum": 667,
+                "Stage1Form": "Normal",
+                "Stage2Method": "Level 35 (Female)",
+                "Stage2DexNum": 668,
+                "Stage2Form": "Female"
             }
         ]
     },
@@ -19117,23 +19089,39 @@
         "DexNum": 668,
         "Forms": [
             {
-                "FormName": "Normal",
+                "FormName": "Male",
                 "PrimaryType": "Fire",
                 "SecondaryType": "Normal",
                 "Ability1": "Rivalry",
                 "Ability2": "Unnerve",
                 "Hidden Ability": "Moxie",
-                "MoveSet": "Normal"
+                "MoveSet": "Male",
+                "HumpySpriteCode": "668"
+            },
+            {
+                "FormName": "Female",
+                "PrimaryType": "Fire",
+                "SecondaryType": "Normal",
+                "Ability1": "Rivalry",
+                "Ability2": "Unnerve",
+                "Hidden Ability": "Moxie"
             }
         ],
-        "DefaultFormName": "Normal",
+        "DefaultFormName": "Male",
         "EvolutionChains": [
             {
                 "Stage1DexNum": 667,
                 "Stage1Form": "Normal",
-                "Stage2Method": "Level 35",
+                "Stage2Method": "Level 35 (Male)",
                 "Stage2DexNum": 668,
-                "Stage2Form": "Normal"
+                "Stage2Form": "Male"
+            },
+            {
+                "Stage1DexNum": 667,
+                "Stage1Form": "Normal",
+                "Stage2Method": "Level 35 (Female)",
+                "Stage2DexNum": 668,
+                "Stage2Form": "Female"
             }
         ]
     },
@@ -19676,8 +19664,7 @@
                 "PrimaryType": "Psychic",
                 "Ability1": "Keen Eye",
                 "Ability2": "Infiltrator",
-                "Hidden Ability": "Competitive",
-                "MoveSet": "Female"
+                "Hidden Ability": "Competitive"
             }
         ],
         "DefaultFormName": "Male",
@@ -21429,7 +21416,6 @@
                 "FormName": "Own Tempo",
                 "PrimaryType": "Rock",
                 "Ability1": "Own Tempo",
-                "ExtraSignatureMove": "Hydro Pump",
                 "HumpySpriteCode": "744"
             }
         ],
@@ -21524,8 +21510,7 @@
             {
                 "FormName": "Schooling",
                 "PrimaryType": "Water",
-                "Ability1": "Schooling",
-                "MoveSet": "Schooling"
+                "Ability1": "Schooling"
             }
         ],
         "DefaultFormName": "Normal",
@@ -22934,7 +22919,8 @@
                 "PrimaryType": "Psychic",
                 "SecondaryType": "Steel",
                 "Ability1": "Prism Armor",
-                "ExtraSignatureZMove": "Light That Burns the Sky",
+                "ExtraSignatureMove": "Sunsteel Strike",
+                "ExtraSignatureZMove": "Searing Sunraze Smash",
                 "HumpySpriteCode": "800dm"
             },
             {
@@ -22942,6 +22928,8 @@
                 "PrimaryType": "Psychic",
                 "SecondaryType": "Ghost",
                 "Ability1": "Prism Armor",
+                "ExtraSignatureMove": "Moongeist Beam",
+                "ExtraSignatureZMove": "Menacing Moonraze Maelstrom",
                 "HumpySpriteCode": "800dw"
             },
             {
@@ -22949,6 +22937,7 @@
                 "PrimaryType": "Psychic",
                 "SecondaryType": "Dragon",
                 "Ability1": "Neuroforce",
+                "ExtraSignatureZMove": "Light That Burns the Sky",
                 "IsSuperForm": true
             }
         ],
@@ -23221,7 +23210,6 @@
                 "PrimaryType": "Grass",
                 "Ability1": "Overgrow",
                 "Hidden Ability": "Grassy Surge",
-                "ExtraSignatureMove": "Overheat",
                 "IsSuperForm": true
             }
         ],
@@ -24979,7 +24967,8 @@
                 "PrimaryType": "Fairy",
                 "Ability1": "Sweet Veil",
                 "Hidden Ability": "Aroma Veil",
-                "MoveSet": "Vanilla Cream"
+                "MoveSet": "Vanilla Cream",
+                "HumpySpriteCode": "869"
             },
             {
                 "FormName": "Vanilla Cream",
@@ -25552,7 +25541,7 @@
                 "PrimaryType": "Fairy",
                 "SecondaryType": "Steel",
                 "Ability1": "Intrepid Sword",
-                "ExtraSignatureMove": "Behemoth Bash",
+                "ExtraSignatureMove": "Behemoth Blade",
                 "IsSuperForm": true
             }
         ],
@@ -25581,6 +25570,7 @@
                 "PrimaryType": "Fighting",
                 "SecondaryType": "Steel",
                 "Ability1": "Dauntless Shield",
+                "ExtraSignatureMove": "Behemoth Bash",
                 "IsSuperForm": true
             }
         ],
