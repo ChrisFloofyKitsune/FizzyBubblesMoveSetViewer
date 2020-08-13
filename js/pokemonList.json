@@ -11599,13 +11599,15 @@
                 "PrimaryType": "Bug",
                 "Ability1": "Shed Skin",
                 "Hidden Ability": "Overcoat",
-                "MoveSet": "Any"
+                "MoveSet": "Plant Cloak",
+                "HumpySpriteCode": "412"
             },
             {
                 "FormName": "Plant Cloak",
                 "PrimaryType": "Bug",
                 "Ability1": "Shed Skin",
                 "Hidden Ability": "Overcoat",
+                "MoveSet": "Plant Cloak",
                 "HumpySpriteCode": "412"
             },
             {
