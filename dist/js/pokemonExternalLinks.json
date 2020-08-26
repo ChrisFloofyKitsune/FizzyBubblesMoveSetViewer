@@ -1,0 +1,4467 @@
+[
+    {
+        "DexNum": 1,
+        "Name": "Bulbasaur",
+        "Link": "https://www.serebii.net/pokedex-swsh/bulbasaur"
+    },
+    {
+        "DexNum": 2,
+        "Name": "Ivysaur",
+        "Link": "https://www.serebii.net/pokedex-swsh/ivysaur"
+    },
+    {
+        "DexNum": 3,
+        "Name": "Venusaur",
+        "Link": "https://www.serebii.net/pokedex-swsh/venusaur"
+    },
+    {
+        "DexNum": 4,
+        "Name": "Charmander",
+        "Link": "https://www.serebii.net/pokedex-swsh/charmander"
+    },
+    {
+        "DexNum": 5,
+        "Name": "Charmeleon",
+        "Link": "https://www.serebii.net/pokedex-swsh/charmeleon"
+    },
+    {
+        "DexNum": 6,
+        "Name": "Charizard",
+        "Link": "https://www.serebii.net/pokedex-swsh/charizard"
+    },
+    {
+        "DexNum": 7,
+        "Name": "Squirtle",
+        "Link": "https://www.serebii.net/pokedex-swsh/squirtle"
+    },
+    {
+        "DexNum": 8,
+        "Name": "Wartortle",
+        "Link": "https://www.serebii.net/pokedex-swsh/wartortle"
+    },
+    {
+        "DexNum": 9,
+        "Name": "Blastoise",
+        "Link": "https://www.serebii.net/pokedex-swsh/blastoise"
+    },
+    {
+        "DexNum": 10,
+        "Name": "Caterpie",
+        "Link": "https://www.serebii.net/pokedex-swsh/caterpie"
+    },
+    {
+        "DexNum": 11,
+        "Name": "Metapod",
+        "Link": "https://www.serebii.net/pokedex-swsh/metapod"
+    },
+    {
+        "DexNum": 12,
+        "Name": "Butterfree",
+        "Link": "https://www.serebii.net/pokedex-swsh/butterfree"
+    },
+    {
+        "DexNum": 13,
+        "Name": "Weedle",
+        "Link": "https://www.serebii.net/pokedex-sm/013.shtml"
+    },
+    {
+        "DexNum": 14,
+        "Name": "Kakuna",
+        "Link": "https://www.serebii.net/pokedex-sm/014.shtml"
+    },
+    {
+        "DexNum": 15,
+        "Name": "Beedrill",
+        "Link": "https://www.serebii.net/pokedex-sm/015.shtml"
+    },
+    {
+        "DexNum": 16,
+        "Name": "Pidgey",
+        "Link": "https://www.serebii.net/pokedex-sm/016.shtml"
+    },
+    {
+        "DexNum": 17,
+        "Name": "Pidgeotto",
+        "Link": "https://www.serebii.net/pokedex-sm/017.shtml"
+    },
+    {
+        "DexNum": 18,
+        "Name": "Pidgeot",
+        "Link": "https://www.serebii.net/pokedex-sm/018.shtml"
+    },
+    {
+        "DexNum": 19,
+        "Name": "Rattata",
+        "Link": "https://www.serebii.net/pokedex-sm/019.shtml"
+    },
+    {
+        "DexNum": 20,
+        "Name": "Raticate",
+        "Link": "https://www.serebii.net/pokedex-sm/020.shtml"
+    },
+    {
+        "DexNum": 21,
+        "Name": "Spearow",
+        "Link": "https://www.serebii.net/pokedex-sm/021.shtml"
+    },
+    {
+        "DexNum": 22,
+        "Name": "Fearow",
+        "Link": "https://www.serebii.net/pokedex-sm/022.shtml"
+    },
+    {
+        "DexNum": 23,
+        "Name": "Ekans",
+        "Link": "https://www.serebii.net/pokedex-sm/023.shtml"
+    },
+    {
+        "DexNum": 24,
+        "Name": "Arbok",
+        "Link": "https://www.serebii.net/pokedex-sm/024.shtml"
+    },
+    {
+        "DexNum": 25,
+        "Name": "Pikachu",
+        "Link": "https://www.serebii.net/pokedex-swsh/pikachu"
+    },
+    {
+        "DexNum": 26,
+        "Name": "Raichu",
+        "Link": "https://www.serebii.net/pokedex-swsh/raichu"
+    },
+    {
+        "DexNum": 27,
+        "Name": "Sandshrew",
+        "Link": "https://www.serebii.net/pokedex-swsh/sandshrew"
+    },
+    {
+        "DexNum": 28,
+        "Name": "Sandslash",
+        "Link": "https://www.serebii.net/pokedex-swsh/sandslash"
+    },
+    {
+        "DexNum": 29,
+        "Name": "Nidoran♀",
+        "Link": "https://www.serebii.net/pokedex-sm/029.shtml"
+    },
+    {
+        "DexNum": 30,
+        "Name": "Nidorina",
+        "Link": "https://www.serebii.net/pokedex-sm/030.shtml"
+    },
+    {
+        "DexNum": 31,
+        "Name": "Nidoqueen",
+        "Link": "https://www.serebii.net/pokedex-sm/031.shtml"
+    },
+    {
+        "DexNum": 32,
+        "Name": "Nidoran♂",
+        "Link": "https://www.serebii.net/pokedex-sm/032.shtml"
+    },
+    {
+        "DexNum": 33,
+        "Name": "Nidorino",
+        "Link": "https://www.serebii.net/pokedex-sm/033.shtml"
+    },
+    {
+        "DexNum": 34,
+        "Name": "Nidoking",
+        "Link": "https://www.serebii.net/pokedex-sm/034.shtml"
+    },
+    {
+        "DexNum": 35,
+        "Name": "Clefairy",
+        "Link": "https://www.serebii.net/pokedex-swsh/clefairy"
+    },
+    {
+        "DexNum": 36,
+        "Name": "Clefable",
+        "Link": "https://www.serebii.net/pokedex-swsh/clefable"
+    },
+    {
+        "DexNum": 37,
+        "Name": "Vulpix",
+        "Link": "https://www.serebii.net/pokedex-swsh/vulpix"
+    },
+    {
+        "DexNum": 38,
+        "Name": "Ninetales",
+        "Link": "https://www.serebii.net/pokedex-swsh/ninetales"
+    },
+    {
+        "DexNum": 39,
+        "Name": "Jigglypuff",
+        "Link": "https://www.serebii.net/pokedex-swsh/jigglypuff"
+    },
+    {
+        "DexNum": 40,
+        "Name": "Wigglytuff",
+        "Link": "https://www.serebii.net/pokedex-swsh/wigglytuff"
+    },
+    {
+        "DexNum": 41,
+        "Name": "Zubat",
+        "Link": "https://www.serebii.net/pokedex-sm/041.shtml"
+    },
+    {
+        "DexNum": 42,
+        "Name": "Golbat",
+        "Link": "https://www.serebii.net/pokedex-sm/042.shtml"
+    },
+    {
+        "DexNum": 43,
+        "Name": "Oddish",
+        "Link": "https://www.serebii.net/pokedex-swsh/oddish"
+    },
+    {
+        "DexNum": 44,
+        "Name": "Gloom",
+        "Link": "https://www.serebii.net/pokedex-swsh/gloom"
+    },
+    {
+        "DexNum": 45,
+        "Name": "Vileplume",
+        "Link": "https://www.serebii.net/pokedex-swsh/vileplume"
+    },
+    {
+        "DexNum": 46,
+        "Name": "Paras",
+        "Link": "https://www.serebii.net/pokedex-sm/046.shtml"
+    },
+    {
+        "DexNum": 47,
+        "Name": "Parasect",
+        "Link": "https://www.serebii.net/pokedex-sm/047.shtml"
+    },
+    {
+        "DexNum": 48,
+        "Name": "Venonat",
+        "Link": "https://www.serebii.net/pokedex-sm/048.shtml"
+    },
+    {
+        "DexNum": 49,
+        "Name": "Venomoth",
+        "Link": "https://www.serebii.net/pokedex-sm/049.shtml"
+    },
+    {
+        "DexNum": 50,
+        "Name": "Diglett",
+        "Link": "https://www.serebii.net/pokedex-swsh/diglett"
+    },
+    {
+        "DexNum": 51,
+        "Name": "Dugtrio",
+        "Link": "https://www.serebii.net/pokedex-swsh/dugtrio"
+    },
+    {
+        "DexNum": 52,
+        "Name": "Meowth",
+        "Link": "https://www.serebii.net/pokedex-swsh/meowth"
+    },
+    {
+        "DexNum": 53,
+        "Name": "Persian",
+        "Link": "https://www.serebii.net/pokedex-swsh/persian"
+    },
+    {
+        "DexNum": 54,
+        "Name": "Psyduck",
+        "Link": "https://www.serebii.net/pokedex-swsh/psyduck"
+    },
+    {
+        "DexNum": 55,
+        "Name": "Golduck",
+        "Link": "https://www.serebii.net/pokedex-swsh/golduck"
+    },
+    {
+        "DexNum": 56,
+        "Name": "Mankey",
+        "Link": "https://www.serebii.net/pokedex-sm/056.shtml"
+    },
+    {
+        "DexNum": 57,
+        "Name": "Primeape",
+        "Link": "https://www.serebii.net/pokedex-sm/057.shtml"
+    },
+    {
+        "DexNum": 58,
+        "Name": "Growlithe",
+        "Link": "https://www.serebii.net/pokedex-swsh/growlithe"
+    },
+    {
+        "DexNum": 59,
+        "Name": "Arcanine",
+        "Link": "https://www.serebii.net/pokedex-swsh/arcanine"
+    },
+    {
+        "DexNum": 60,
+        "Name": "Poliwag",
+        "Link": "https://www.serebii.net/pokedex-swsh/poliwag"
+    },
+    {
+        "DexNum": 61,
+        "Name": "Poliwhirl",
+        "Link": "https://www.serebii.net/pokedex-swsh/poliwhirl"
+    },
+    {
+        "DexNum": 62,
+        "Name": "Poliwrath",
+        "Link": "https://www.serebii.net/pokedex-swsh/poliwrath"
+    },
+    {
+        "DexNum": 63,
+        "Name": "Abra",
+        "Link": "https://www.serebii.net/pokedex-swsh/abra"
+    },
+    {
+        "DexNum": 64,
+        "Name": "Kadabra",
+        "Link": "https://www.serebii.net/pokedex-swsh/kadabra"
+    },
+    {
+        "DexNum": 65,
+        "Name": "Alakazam",
+        "Link": "https://www.serebii.net/pokedex-swsh/alakazam"
+    },
+    {
+        "DexNum": 66,
+        "Name": "Machop",
+        "Link": "https://www.serebii.net/pokedex-swsh/machop"
+    },
+    {
+        "DexNum": 67,
+        "Name": "Machoke",
+        "Link": "https://www.serebii.net/pokedex-swsh/machoke"
+    },
+    {
+        "DexNum": 68,
+        "Name": "Machamp",
+        "Link": "https://www.serebii.net/pokedex-swsh/machamp"
+    },
+    {
+        "DexNum": 69,
+        "Name": "Bellsprout",
+        "Link": "https://www.serebii.net/pokedex-sm/069.shtml"
+    },
+    {
+        "DexNum": 70,
+        "Name": "Weepinbell",
+        "Link": "https://www.serebii.net/pokedex-sm/070.shtml"
+    },
+    {
+        "DexNum": 71,
+        "Name": "Victreebel",
+        "Link": "https://www.serebii.net/pokedex-sm/071.shtml"
+    },
+    {
+        "DexNum": 72,
+        "Name": "Tentacool",
+        "Link": "https://www.serebii.net/pokedex-swsh/tentacool"
+    },
+    {
+        "DexNum": 73,
+        "Name": "Tentacruel",
+        "Link": "https://www.serebii.net/pokedex-swsh/tentacruel"
+    },
+    {
+        "DexNum": 74,
+        "Name": "Geodude",
+        "Link": "https://www.serebii.net/pokedex-sm/074.shtml"
+    },
+    {
+        "DexNum": 75,
+        "Name": "Graveler",
+        "Link": "https://www.serebii.net/pokedex-sm/075.shtml"
+    },
+    {
+        "DexNum": 76,
+        "Name": "Golem",
+        "Link": "https://www.serebii.net/pokedex-sm/076.shtml"
+    },
+    {
+        "DexNum": 77,
+        "Name": "Ponyta",
+        "Link": "https://www.serebii.net/pokedex-swsh/ponyta"
+    },
+    {
+        "DexNum": 78,
+        "Name": "Rapidash",
+        "Link": "https://www.serebii.net/pokedex-swsh/rapidash"
+    },
+    {
+        "DexNum": 79,
+        "Name": "Slowpoke",
+        "Link": "https://www.serebii.net/pokedex-swsh/slowpoke"
+    },
+    {
+        "DexNum": 80,
+        "Name": "Slowbro",
+        "Link": "https://www.serebii.net/pokedex-swsh/slowbro"
+    },
+    {
+        "DexNum": 81,
+        "Name": "Magnemite",
+        "Link": "https://www.serebii.net/pokedex-swsh/magnemite"
+    },
+    {
+        "DexNum": 82,
+        "Name": "Magneton",
+        "Link": "https://www.serebii.net/pokedex-swsh/magneton"
+    },
+    {
+        "DexNum": 83,
+        "Name": "Farfetch'd",
+        "Link": "https://www.serebii.net/pokedex-swsh/farfetch'd"
+    },
+    {
+        "DexNum": 84,
+        "Name": "Doduo",
+        "Link": "https://www.serebii.net/pokedex-sm/084.shtml"
+    },
+    {
+        "DexNum": 85,
+        "Name": "Dodrio",
+        "Link": "https://www.serebii.net/pokedex-sm/085.shtml"
+    },
+    {
+        "DexNum": 86,
+        "Name": "Seel",
+        "Link": "https://www.serebii.net/pokedex-sm/086.shtml"
+    },
+    {
+        "DexNum": 87,
+        "Name": "Dewgong",
+        "Link": "https://www.serebii.net/pokedex-sm/087.shtml"
+    },
+    {
+        "DexNum": 88,
+        "Name": "Grimer",
+        "Link": "https://www.serebii.net/pokedex-sm/088.shtml"
+    },
+    {
+        "DexNum": 89,
+        "Name": "Muk",
+        "Link": "https://www.serebii.net/pokedex-sm/089.shtml"
+    },
+    {
+        "DexNum": 90,
+        "Name": "Shellder",
+        "Link": "https://www.serebii.net/pokedex-swsh/shellder"
+    },
+    {
+        "DexNum": 91,
+        "Name": "Cloyster",
+        "Link": "https://www.serebii.net/pokedex-swsh/cloyster"
+    },
+    {
+        "DexNum": 92,
+        "Name": "Gastly",
+        "Link": "https://www.serebii.net/pokedex-swsh/gastly"
+    },
+    {
+        "DexNum": 93,
+        "Name": "Haunter",
+        "Link": "https://www.serebii.net/pokedex-swsh/haunter"
+    },
+    {
+        "DexNum": 94,
+        "Name": "Gengar",
+        "Link": "https://www.serebii.net/pokedex-swsh/gengar"
+    },
+    {
+        "DexNum": 95,
+        "Name": "Onix",
+        "Link": "https://www.serebii.net/pokedex-swsh/onix"
+    },
+    {
+        "DexNum": 96,
+        "Name": "Drowzee",
+        "Link": "https://www.serebii.net/pokedex-sm/096.shtml"
+    },
+    {
+        "DexNum": 97,
+        "Name": "Hypno",
+        "Link": "https://www.serebii.net/pokedex-sm/097.shtml"
+    },
+    {
+        "DexNum": 98,
+        "Name": "Krabby",
+        "Link": "https://www.serebii.net/pokedex-swsh/krabby"
+    },
+    {
+        "DexNum": 99,
+        "Name": "Kingler",
+        "Link": "https://www.serebii.net/pokedex-swsh/kingler"
+    },
+    {
+        "DexNum": 100,
+        "Name": "Voltorb",
+        "Link": "https://www.serebii.net/pokedex-sm/100.shtml"
+    },
+    {
+        "DexNum": 101,
+        "Name": "Electrode",
+        "Link": "https://www.serebii.net/pokedex-sm/101.shtml"
+    },
+    {
+        "DexNum": 102,
+        "Name": "Exeggcute",
+        "Link": "https://www.serebii.net/pokedex-swsh/exeggcute"
+    },
+    {
+        "DexNum": 103,
+        "Name": "Exeggutor",
+        "Link": "https://www.serebii.net/pokedex-swsh/exeggutor"
+    },
+    {
+        "DexNum": 104,
+        "Name": "Cubone",
+        "Link": "https://www.serebii.net/pokedex-swsh/cubone"
+    },
+    {
+        "DexNum": 105,
+        "Name": "Marowak",
+        "Link": "https://www.serebii.net/pokedex-swsh/marowak"
+    },
+    {
+        "DexNum": 106,
+        "Name": "Hitmonlee",
+        "Link": "https://www.serebii.net/pokedex-swsh/hitmonlee"
+    },
+    {
+        "DexNum": 107,
+        "Name": "Hitmonchan",
+        "Link": "https://www.serebii.net/pokedex-swsh/hitmonchan"
+    },
+    {
+        "DexNum": 108,
+        "Name": "Lickitung",
+        "Link": "https://www.serebii.net/pokedex-swsh/lickitung"
+    },
+    {
+        "DexNum": 109,
+        "Name": "Koffing",
+        "Link": "https://www.serebii.net/pokedex-swsh/koffing"
+    },
+    {
+        "DexNum": 110,
+        "Name": "Weezing",
+        "Link": "https://www.serebii.net/pokedex-swsh/weezing"
+    },
+    {
+        "DexNum": 111,
+        "Name": "Rhyhorn",
+        "Link": "https://www.serebii.net/pokedex-swsh/rhyhorn"
+    },
+    {
+        "DexNum": 112,
+        "Name": "Rhydon",
+        "Link": "https://www.serebii.net/pokedex-swsh/rhydon"
+    },
+    {
+        "DexNum": 113,
+        "Name": "Chansey",
+        "Link": "https://www.serebii.net/pokedex-swsh/chansey"
+    },
+    {
+        "DexNum": 114,
+        "Name": "Tangela",
+        "Link": "https://www.serebii.net/pokedex-swsh/tangela"
+    },
+    {
+        "DexNum": 115,
+        "Name": "Kangaskhan",
+        "Link": "https://www.serebii.net/pokedex-swsh/kangaskhan"
+    },
+    {
+        "DexNum": 116,
+        "Name": "Horsea",
+        "Link": "https://www.serebii.net/pokedex-swsh/horsea"
+    },
+    {
+        "DexNum": 117,
+        "Name": "Seadra",
+        "Link": "https://www.serebii.net/pokedex-swsh/seadra"
+    },
+    {
+        "DexNum": 118,
+        "Name": "Goldeen",
+        "Link": "https://www.serebii.net/pokedex-swsh/goldeen"
+    },
+    {
+        "DexNum": 119,
+        "Name": "Seaking",
+        "Link": "https://www.serebii.net/pokedex-swsh/seaking"
+    },
+    {
+        "DexNum": 120,
+        "Name": "Staryu",
+        "Link": "https://www.serebii.net/pokedex-swsh/staryu"
+    },
+    {
+        "DexNum": 121,
+        "Name": "Starmie",
+        "Link": "https://www.serebii.net/pokedex-swsh/starmie"
+    },
+    {
+        "DexNum": 122,
+        "Name": "Mr. Mime",
+        "Link": "https://www.serebii.net/pokedex-swsh/mr.mime"
+    },
+    {
+        "DexNum": 123,
+        "Name": "Scyther",
+        "Link": "https://www.serebii.net/pokedex-swsh/scyther"
+    },
+    {
+        "DexNum": 124,
+        "Name": "Jynx",
+        "Link": "https://www.serebii.net/pokedex-sm/124.shtml"
+    },
+    {
+        "DexNum": 125,
+        "Name": "Electabuzz",
+        "Link": "https://www.serebii.net/pokedex-sm/125.shtml"
+    },
+    {
+        "DexNum": 126,
+        "Name": "Magmar",
+        "Link": "https://www.serebii.net/pokedex-sm/126.shtml"
+    },
+    {
+        "DexNum": 127,
+        "Name": "Pinsir",
+        "Link": "https://www.serebii.net/pokedex-swsh/pinsir"
+    },
+    {
+        "DexNum": 128,
+        "Name": "Tauros",
+        "Link": "https://www.serebii.net/pokedex-swsh/tauros"
+    },
+    {
+        "DexNum": 129,
+        "Name": "Magikarp",
+        "Link": "https://www.serebii.net/pokedex-swsh/magikarp"
+    },
+    {
+        "DexNum": 130,
+        "Name": "Gyarados",
+        "Link": "https://www.serebii.net/pokedex-swsh/gyarados"
+    },
+    {
+        "DexNum": 131,
+        "Name": "Lapras",
+        "Link": "https://www.serebii.net/pokedex-swsh/lapras"
+    },
+    {
+        "DexNum": 132,
+        "Name": "Ditto",
+        "Link": "https://www.serebii.net/pokedex-swsh/ditto"
+    },
+    {
+        "DexNum": 133,
+        "Name": "Eevee",
+        "Link": "https://www.serebii.net/pokedex-swsh/eevee"
+    },
+    {
+        "DexNum": 134,
+        "Name": "Vaporeon",
+        "Link": "https://www.serebii.net/pokedex-swsh/vaporeon"
+    },
+    {
+        "DexNum": 135,
+        "Name": "Jolteon",
+        "Link": "https://www.serebii.net/pokedex-swsh/jolteon"
+    },
+    {
+        "DexNum": 136,
+        "Name": "Flareon",
+        "Link": "https://www.serebii.net/pokedex-swsh/flareon"
+    },
+    {
+        "DexNum": 137,
+        "Name": "Porygon",
+        "Link": "https://www.serebii.net/pokedex-swsh/porygon"
+    },
+    {
+        "DexNum": 138,
+        "Name": "Omanyte",
+        "Link": "https://www.serebii.net/pokedex-sm/138.shtml"
+    },
+    {
+        "DexNum": 139,
+        "Name": "Omastar",
+        "Link": "https://www.serebii.net/pokedex-sm/139.shtml"
+    },
+    {
+        "DexNum": 140,
+        "Name": "Kabuto",
+        "Link": "https://www.serebii.net/pokedex-sm/140.shtml"
+    },
+    {
+        "DexNum": 141,
+        "Name": "Kabutops",
+        "Link": "https://www.serebii.net/pokedex-sm/141.shtml"
+    },
+    {
+        "DexNum": 142,
+        "Name": "Aerodactyl",
+        "Link": "https://www.serebii.net/pokedex-sm/142.shtml"
+    },
+    {
+        "DexNum": 143,
+        "Name": "Snorlax",
+        "Link": "https://www.serebii.net/pokedex-swsh/snorlax"
+    },
+    {
+        "DexNum": 144,
+        "Name": "Articuno",
+        "Link": "https://www.serebii.net/pokedex-sm/144.shtml"
+    },
+    {
+        "DexNum": 145,
+        "Name": "Zapdos",
+        "Link": "https://www.serebii.net/pokedex-sm/145.shtml"
+    },
+    {
+        "DexNum": 146,
+        "Name": "Moltres",
+        "Link": "https://www.serebii.net/pokedex-sm/146.shtml"
+    },
+    {
+        "DexNum": 147,
+        "Name": "Dratini",
+        "Link": "https://www.serebii.net/pokedex-sm/147.shtml"
+    },
+    {
+        "DexNum": 148,
+        "Name": "Dragonair",
+        "Link": "https://www.serebii.net/pokedex-sm/148.shtml"
+    },
+    {
+        "DexNum": 149,
+        "Name": "Dragonite",
+        "Link": "https://www.serebii.net/pokedex-sm/149.shtml"
+    },
+    {
+        "DexNum": 150,
+        "Name": "Mewtwo",
+        "Link": "https://www.serebii.net/pokedex-swsh/mewtwo"
+    },
+    {
+        "DexNum": 151,
+        "Name": "Mew",
+        "Link": "https://www.serebii.net/pokedex-swsh/mew"
+    },
+    {
+        "DexNum": 152,
+        "Name": "Chikorita",
+        "Link": "https://www.serebii.net/pokedex-sm/152.shtml"
+    },
+    {
+        "DexNum": 153,
+        "Name": "Bayleef",
+        "Link": "https://www.serebii.net/pokedex-sm/153.shtml"
+    },
+    {
+        "DexNum": 154,
+        "Name": "Meganium",
+        "Link": "https://www.serebii.net/pokedex-sm/154.shtml"
+    },
+    {
+        "DexNum": 155,
+        "Name": "Cyndaquil",
+        "Link": "https://www.serebii.net/pokedex-sm/155.shtml"
+    },
+    {
+        "DexNum": 156,
+        "Name": "Quilava",
+        "Link": "https://www.serebii.net/pokedex-sm/156.shtml"
+    },
+    {
+        "DexNum": 157,
+        "Name": "Typhlosion",
+        "Link": "https://www.serebii.net/pokedex-sm/157.shtml"
+    },
+    {
+        "DexNum": 158,
+        "Name": "Totodile",
+        "Link": "https://www.serebii.net/pokedex-sm/158.shtml"
+    },
+    {
+        "DexNum": 159,
+        "Name": "Croconaw",
+        "Link": "https://www.serebii.net/pokedex-sm/159.shtml"
+    },
+    {
+        "DexNum": 160,
+        "Name": "Feraligatr",
+        "Link": "https://www.serebii.net/pokedex-sm/160.shtml"
+    },
+    {
+        "DexNum": 161,
+        "Name": "Sentret",
+        "Link": "https://www.serebii.net/pokedex-sm/161.shtml"
+    },
+    {
+        "DexNum": 162,
+        "Name": "Furret",
+        "Link": "https://www.serebii.net/pokedex-sm/162.shtml"
+    },
+    {
+        "DexNum": 163,
+        "Name": "Hoothoot",
+        "Link": "https://www.serebii.net/pokedex-swsh/hoothoot"
+    },
+    {
+        "DexNum": 164,
+        "Name": "Noctowl",
+        "Link": "https://www.serebii.net/pokedex-swsh/noctowl"
+    },
+    {
+        "DexNum": 165,
+        "Name": "Ledyba",
+        "Link": "https://www.serebii.net/pokedex-sm/165.shtml"
+    },
+    {
+        "DexNum": 166,
+        "Name": "Ledian",
+        "Link": "https://www.serebii.net/pokedex-sm/166.shtml"
+    },
+    {
+        "DexNum": 167,
+        "Name": "Spinarak",
+        "Link": "https://www.serebii.net/pokedex-sm/167.shtml"
+    },
+    {
+        "DexNum": 168,
+        "Name": "Ariados",
+        "Link": "https://www.serebii.net/pokedex-sm/168.shtml"
+    },
+    {
+        "DexNum": 169,
+        "Name": "Crobat",
+        "Link": "https://www.serebii.net/pokedex-sm/169.shtml"
+    },
+    {
+        "DexNum": 170,
+        "Name": "Chinchou",
+        "Link": "https://www.serebii.net/pokedex-swsh/chinchou"
+    },
+    {
+        "DexNum": 171,
+        "Name": "Lanturn",
+        "Link": "https://www.serebii.net/pokedex-swsh/lanturn"
+    },
+    {
+        "DexNum": 172,
+        "Name": "Pichu",
+        "Link": "https://www.serebii.net/pokedex-swsh/pichu"
+    },
+    {
+        "DexNum": 173,
+        "Name": "Cleffa",
+        "Link": "https://www.serebii.net/pokedex-swsh/cleffa"
+    },
+    {
+        "DexNum": 174,
+        "Name": "Igglybuff",
+        "Link": "https://www.serebii.net/pokedex-swsh/igglybuff"
+    },
+    {
+        "DexNum": 175,
+        "Name": "Togepi",
+        "Link": "https://www.serebii.net/pokedex-swsh/togepi"
+    },
+    {
+        "DexNum": 176,
+        "Name": "Togetic",
+        "Link": "https://www.serebii.net/pokedex-swsh/togetic"
+    },
+    {
+        "DexNum": 177,
+        "Name": "Natu",
+        "Link": "https://www.serebii.net/pokedex-swsh/natu"
+    },
+    {
+        "DexNum": 178,
+        "Name": "Xatu",
+        "Link": "https://www.serebii.net/pokedex-swsh/xatu"
+    },
+    {
+        "DexNum": 179,
+        "Name": "Mareep",
+        "Link": "https://www.serebii.net/pokedex-sm/179.shtml"
+    },
+    {
+        "DexNum": 180,
+        "Name": "Flaaffy",
+        "Link": "https://www.serebii.net/pokedex-sm/180.shtml"
+    },
+    {
+        "DexNum": 181,
+        "Name": "Ampharos",
+        "Link": "https://www.serebii.net/pokedex-sm/181.shtml"
+    },
+    {
+        "DexNum": 182,
+        "Name": "Bellossom",
+        "Link": "https://www.serebii.net/pokedex-swsh/bellossom"
+    },
+    {
+        "DexNum": 183,
+        "Name": "Marill",
+        "Link": "https://www.serebii.net/pokedex-swsh/marill"
+    },
+    {
+        "DexNum": 184,
+        "Name": "Azumarill",
+        "Link": "https://www.serebii.net/pokedex-swsh/azumarill"
+    },
+    {
+        "DexNum": 185,
+        "Name": "Sudowoodo",
+        "Link": "https://www.serebii.net/pokedex-swsh/sudowoodo"
+    },
+    {
+        "DexNum": 186,
+        "Name": "Politoed",
+        "Link": "https://www.serebii.net/pokedex-swsh/politoed"
+    },
+    {
+        "DexNum": 187,
+        "Name": "Hoppip",
+        "Link": "https://www.serebii.net/pokedex-sm/187.shtml"
+    },
+    {
+        "DexNum": 188,
+        "Name": "Skiploom",
+        "Link": "https://www.serebii.net/pokedex-sm/188.shtml"
+    },
+    {
+        "DexNum": 189,
+        "Name": "Jumpluff",
+        "Link": "https://www.serebii.net/pokedex-sm/189.shtml"
+    },
+    {
+        "DexNum": 190,
+        "Name": "Aipom",
+        "Link": "https://www.serebii.net/pokedex-sm/190.shtml"
+    },
+    {
+        "DexNum": 191,
+        "Name": "Sunkern",
+        "Link": "https://www.serebii.net/pokedex-sm/191.shtml"
+    },
+    {
+        "DexNum": 192,
+        "Name": "Sunflora",
+        "Link": "https://www.serebii.net/pokedex-sm/192.shtml"
+    },
+    {
+        "DexNum": 193,
+        "Name": "Yanma",
+        "Link": "https://www.serebii.net/pokedex-sm/193.shtml"
+    },
+    {
+        "DexNum": 194,
+        "Name": "Wooper",
+        "Link": "https://www.serebii.net/pokedex-swsh/wooper"
+    },
+    {
+        "DexNum": 195,
+        "Name": "Quagsire",
+        "Link": "https://www.serebii.net/pokedex-swsh/quagsire"
+    },
+    {
+        "DexNum": 196,
+        "Name": "Espeon",
+        "Link": "https://www.serebii.net/pokedex-swsh/espeon"
+    },
+    {
+        "DexNum": 197,
+        "Name": "Umbreon",
+        "Link": "https://www.serebii.net/pokedex-swsh/umbreon"
+    },
+    {
+        "DexNum": 198,
+        "Name": "Murkrow",
+        "Link": "https://www.serebii.net/pokedex-sm/198.shtml"
+    },
+    {
+        "DexNum": 199,
+        "Name": "Slowking",
+        "Link": "https://www.serebii.net/pokedex-swsh/slowking"
+    },
+    {
+        "DexNum": 200,
+        "Name": "Misdreavus",
+        "Link": "https://www.serebii.net/pokedex-sm/200.shtml"
+    },
+    {
+        "DexNum": 201,
+        "Name": "Unown",
+        "Link": "https://www.serebii.net/pokedex-sm/201.shtml"
+    },
+    {
+        "DexNum": 202,
+        "Name": "Wobbuffet",
+        "Link": "https://www.serebii.net/pokedex-swsh/wobbuffet"
+    },
+    {
+        "DexNum": 203,
+        "Name": "Girafarig",
+        "Link": "https://www.serebii.net/pokedex-sm/203.shtml"
+    },
+    {
+        "DexNum": 204,
+        "Name": "Pineco",
+        "Link": "https://www.serebii.net/pokedex-sm/204.shtml"
+    },
+    {
+        "DexNum": 205,
+        "Name": "Forretress",
+        "Link": "https://www.serebii.net/pokedex-sm/205.shtml"
+    },
+    {
+        "DexNum": 206,
+        "Name": "Dunsparce",
+        "Link": "https://www.serebii.net/pokedex-swsh/dunsparce"
+    },
+    {
+        "DexNum": 207,
+        "Name": "Gligar",
+        "Link": "https://www.serebii.net/pokedex-sm/207.shtml"
+    },
+    {
+        "DexNum": 208,
+        "Name": "Steelix",
+        "Link": "https://www.serebii.net/pokedex-swsh/steelix"
+    },
+    {
+        "DexNum": 209,
+        "Name": "Snubbull",
+        "Link": "https://www.serebii.net/pokedex-sm/209.shtml"
+    },
+    {
+        "DexNum": 210,
+        "Name": "Granbull",
+        "Link": "https://www.serebii.net/pokedex-sm/210.shtml"
+    },
+    {
+        "DexNum": 211,
+        "Name": "Qwilfish",
+        "Link": "https://www.serebii.net/pokedex-swsh/qwilfish"
+    },
+    {
+        "DexNum": 212,
+        "Name": "Scizor",
+        "Link": "https://www.serebii.net/pokedex-swsh/scizor"
+    },
+    {
+        "DexNum": 213,
+        "Name": "Shuckle",
+        "Link": "https://www.serebii.net/pokedex-swsh/shuckle"
+    },
+    {
+        "DexNum": 214,
+        "Name": "Heracross",
+        "Link": "https://www.serebii.net/pokedex-swsh/heracross"
+    },
+    {
+        "DexNum": 215,
+        "Name": "Sneasel",
+        "Link": "https://www.serebii.net/pokedex-swsh/sneasel"
+    },
+    {
+        "DexNum": 216,
+        "Name": "Teddiursa",
+        "Link": "https://www.serebii.net/pokedex-sm/216.shtml"
+    },
+    {
+        "DexNum": 217,
+        "Name": "Ursaring",
+        "Link": "https://www.serebii.net/pokedex-sm/217.shtml"
+    },
+    {
+        "DexNum": 218,
+        "Name": "Slugma",
+        "Link": "https://www.serebii.net/pokedex-sm/218.shtml"
+    },
+    {
+        "DexNum": 219,
+        "Name": "Magcargo",
+        "Link": "https://www.serebii.net/pokedex-sm/219.shtml"
+    },
+    {
+        "DexNum": 220,
+        "Name": "Swinub",
+        "Link": "https://www.serebii.net/pokedex-swsh/swinub"
+    },
+    {
+        "DexNum": 221,
+        "Name": "Piloswine",
+        "Link": "https://www.serebii.net/pokedex-swsh/piloswine"
+    },
+    {
+        "DexNum": 222,
+        "Name": "Corsola",
+        "Link": "https://www.serebii.net/pokedex-swsh/corsola"
+    },
+    {
+        "DexNum": 223,
+        "Name": "Remoraid",
+        "Link": "https://www.serebii.net/pokedex-swsh/remoraid"
+    },
+    {
+        "DexNum": 224,
+        "Name": "Octillery",
+        "Link": "https://www.serebii.net/pokedex-swsh/octillery"
+    },
+    {
+        "DexNum": 225,
+        "Name": "Delibird",
+        "Link": "https://www.serebii.net/pokedex-swsh/delibird"
+    },
+    {
+        "DexNum": 226,
+        "Name": "Mantine",
+        "Link": "https://www.serebii.net/pokedex-swsh/mantine"
+    },
+    {
+        "DexNum": 227,
+        "Name": "Skarmory",
+        "Link": "https://www.serebii.net/pokedex-swsh/skarmory"
+    },
+    {
+        "DexNum": 228,
+        "Name": "Houndour",
+        "Link": "https://www.serebii.net/pokedex-sm/228.shtml"
+    },
+    {
+        "DexNum": 229,
+        "Name": "Houndoom",
+        "Link": "https://www.serebii.net/pokedex-sm/229.shtml"
+    },
+    {
+        "DexNum": 230,
+        "Name": "Kingdra",
+        "Link": "https://www.serebii.net/pokedex-swsh/kingdra"
+    },
+    {
+        "DexNum": 231,
+        "Name": "Phanpy",
+        "Link": "https://www.serebii.net/pokedex-sm/231.shtml"
+    },
+    {
+        "DexNum": 232,
+        "Name": "Donphan",
+        "Link": "https://www.serebii.net/pokedex-sm/232.shtml"
+    },
+    {
+        "DexNum": 233,
+        "Name": "Porygon2",
+        "Link": "https://www.serebii.net/pokedex-swsh/porygon2"
+    },
+    {
+        "DexNum": 234,
+        "Name": "Stantler",
+        "Link": "https://www.serebii.net/pokedex-sm/234.shtml"
+    },
+    {
+        "DexNum": 235,
+        "Name": "Smeargle",
+        "Link": "https://www.serebii.net/pokedex-sm/235.shtml"
+    },
+    {
+        "DexNum": 236,
+        "Name": "Tyrogue",
+        "Link": "https://www.serebii.net/pokedex-swsh/tyrogue"
+    },
+    {
+        "DexNum": 237,
+        "Name": "Hitmontop",
+        "Link": "https://www.serebii.net/pokedex-swsh/hitmontop"
+    },
+    {
+        "DexNum": 238,
+        "Name": "Smoochum",
+        "Link": "https://www.serebii.net/pokedex-sm/238.shtml"
+    },
+    {
+        "DexNum": 239,
+        "Name": "Elekid",
+        "Link": "https://www.serebii.net/pokedex-sm/239.shtml"
+    },
+    {
+        "DexNum": 240,
+        "Name": "Magby",
+        "Link": "https://www.serebii.net/pokedex-sm/240.shtml"
+    },
+    {
+        "DexNum": 241,
+        "Name": "Miltank",
+        "Link": "https://www.serebii.net/pokedex-swsh/miltank"
+    },
+    {
+        "DexNum": 242,
+        "Name": "Blissey",
+        "Link": "https://www.serebii.net/pokedex-swsh/blissey"
+    },
+    {
+        "DexNum": 243,
+        "Name": "Raikou",
+        "Link": "https://www.serebii.net/pokedex-sm/243.shtml"
+    },
+    {
+        "DexNum": 244,
+        "Name": "Entei",
+        "Link": "https://www.serebii.net/pokedex-sm/244.shtml"
+    },
+    {
+        "DexNum": 245,
+        "Name": "Suicune",
+        "Link": "https://www.serebii.net/pokedex-sm/245.shtml"
+    },
+    {
+        "DexNum": 246,
+        "Name": "Larvitar",
+        "Link": "https://www.serebii.net/pokedex-swsh/larvitar"
+    },
+    {
+        "DexNum": 247,
+        "Name": "Pupitar",
+        "Link": "https://www.serebii.net/pokedex-swsh/pupitar"
+    },
+    {
+        "DexNum": 248,
+        "Name": "Tyranitar",
+        "Link": "https://www.serebii.net/pokedex-swsh/tyranitar"
+    },
+    {
+        "DexNum": 249,
+        "Name": "Lugia",
+        "Link": "https://www.serebii.net/pokedex-sm/249.shtml"
+    },
+    {
+        "DexNum": 250,
+        "Name": "Ho-Oh",
+        "Link": "https://www.serebii.net/pokedex-sm/250.shtml"
+    },
+    {
+        "DexNum": 251,
+        "Name": "Celebi",
+        "Link": "https://www.serebii.net/pokedex-swsh/celebi"
+    },
+    {
+        "DexNum": 252,
+        "Name": "Treecko",
+        "Link": "https://www.serebii.net/pokedex-sm/252.shtml"
+    },
+    {
+        "DexNum": 253,
+        "Name": "Grovyle",
+        "Link": "https://www.serebii.net/pokedex-sm/253.shtml"
+    },
+    {
+        "DexNum": 254,
+        "Name": "Sceptile",
+        "Link": "https://www.serebii.net/pokedex-sm/254.shtml"
+    },
+    {
+        "DexNum": 255,
+        "Name": "Torchic",
+        "Link": "https://www.serebii.net/pokedex-sm/255.shtml"
+    },
+    {
+        "DexNum": 256,
+        "Name": "Combusken",
+        "Link": "https://www.serebii.net/pokedex-sm/256.shtml"
+    },
+    {
+        "DexNum": 257,
+        "Name": "Blaziken",
+        "Link": "https://www.serebii.net/pokedex-sm/257.shtml"
+    },
+    {
+        "DexNum": 258,
+        "Name": "Mudkip",
+        "Link": "https://www.serebii.net/pokedex-sm/258.shtml"
+    },
+    {
+        "DexNum": 259,
+        "Name": "Marshtomp",
+        "Link": "https://www.serebii.net/pokedex-sm/259.shtml"
+    },
+    {
+        "DexNum": 260,
+        "Name": "Swampert",
+        "Link": "https://www.serebii.net/pokedex-sm/260.shtml"
+    },
+    {
+        "DexNum": 261,
+        "Name": "Poochyena",
+        "Link": "https://www.serebii.net/pokedex-sm/261.shtml"
+    },
+    {
+        "DexNum": 262,
+        "Name": "Mightyena",
+        "Link": "https://www.serebii.net/pokedex-sm/262.shtml"
+    },
+    {
+        "DexNum": 263,
+        "Name": "Zigzagoon",
+        "Link": "https://www.serebii.net/pokedex-swsh/zigzagoon"
+    },
+    {
+        "DexNum": 264,
+        "Name": "Linoone",
+        "Link": "https://www.serebii.net/pokedex-swsh/linoone"
+    },
+    {
+        "DexNum": 265,
+        "Name": "Wurmple",
+        "Link": "https://www.serebii.net/pokedex-sm/265.shtml"
+    },
+    {
+        "DexNum": 266,
+        "Name": "Silcoon",
+        "Link": "https://www.serebii.net/pokedex-sm/266.shtml"
+    },
+    {
+        "DexNum": 267,
+        "Name": "Beautifly",
+        "Link": "https://www.serebii.net/pokedex-sm/267.shtml"
+    },
+    {
+        "DexNum": 268,
+        "Name": "Cascoon",
+        "Link": "https://www.serebii.net/pokedex-sm/268.shtml"
+    },
+    {
+        "DexNum": 269,
+        "Name": "Dustox",
+        "Link": "https://www.serebii.net/pokedex-sm/269.shtml"
+    },
+    {
+        "DexNum": 270,
+        "Name": "Lotad",
+        "Link": "https://www.serebii.net/pokedex-swsh/lotad"
+    },
+    {
+        "DexNum": 271,
+        "Name": "Lombre",
+        "Link": "https://www.serebii.net/pokedex-swsh/lombre"
+    },
+    {
+        "DexNum": 272,
+        "Name": "Ludicolo",
+        "Link": "https://www.serebii.net/pokedex-swsh/ludicolo"
+    },
+    {
+        "DexNum": 273,
+        "Name": "Seedot",
+        "Link": "https://www.serebii.net/pokedex-swsh/seedot"
+    },
+    {
+        "DexNum": 274,
+        "Name": "Nuzleaf",
+        "Link": "https://www.serebii.net/pokedex-swsh/nuzleaf"
+    },
+    {
+        "DexNum": 275,
+        "Name": "Shiftry",
+        "Link": "https://www.serebii.net/pokedex-swsh/shiftry"
+    },
+    {
+        "DexNum": 276,
+        "Name": "Taillow",
+        "Link": "https://www.serebii.net/pokedex-sm/276.shtml"
+    },
+    {
+        "DexNum": 277,
+        "Name": "Swellow",
+        "Link": "https://www.serebii.net/pokedex-sm/277.shtml"
+    },
+    {
+        "DexNum": 278,
+        "Name": "Wingull",
+        "Link": "https://www.serebii.net/pokedex-swsh/wingull"
+    },
+    {
+        "DexNum": 279,
+        "Name": "Pelipper",
+        "Link": "https://www.serebii.net/pokedex-swsh/pelipper"
+    },
+    {
+        "DexNum": 280,
+        "Name": "Ralts",
+        "Link": "https://www.serebii.net/pokedex-swsh/ralts"
+    },
+    {
+        "DexNum": 281,
+        "Name": "Kirlia",
+        "Link": "https://www.serebii.net/pokedex-swsh/kirlia"
+    },
+    {
+        "DexNum": 282,
+        "Name": "Gardevoir",
+        "Link": "https://www.serebii.net/pokedex-swsh/gardevoir"
+    },
+    {
+        "DexNum": 283,
+        "Name": "Surskit",
+        "Link": "https://www.serebii.net/pokedex-sm/283.shtml"
+    },
+    {
+        "DexNum": 284,
+        "Name": "Masquerain",
+        "Link": "https://www.serebii.net/pokedex-sm/284.shtml"
+    },
+    {
+        "DexNum": 285,
+        "Name": "Shroomish",
+        "Link": "https://www.serebii.net/pokedex-sm/285.shtml"
+    },
+    {
+        "DexNum": 286,
+        "Name": "Breloom",
+        "Link": "https://www.serebii.net/pokedex-sm/286.shtml"
+    },
+    {
+        "DexNum": 287,
+        "Name": "Slakoth",
+        "Link": "https://www.serebii.net/pokedex-sm/287.shtml"
+    },
+    {
+        "DexNum": 288,
+        "Name": "Vigoroth",
+        "Link": "https://www.serebii.net/pokedex-sm/288.shtml"
+    },
+    {
+        "DexNum": 289,
+        "Name": "Slaking",
+        "Link": "https://www.serebii.net/pokedex-sm/289.shtml"
+    },
+    {
+        "DexNum": 290,
+        "Name": "Nincada",
+        "Link": "https://www.serebii.net/pokedex-swsh/nincada"
+    },
+    {
+        "DexNum": 291,
+        "Name": "Ninjask",
+        "Link": "https://www.serebii.net/pokedex-swsh/ninjask"
+    },
+    {
+        "DexNum": 292,
+        "Name": "Shedinja",
+        "Link": "https://www.serebii.net/pokedex-swsh/shedinja"
+    },
+    {
+        "DexNum": 293,
+        "Name": "Whismur",
+        "Link": "https://www.serebii.net/pokedex-swsh/whismur"
+    },
+    {
+        "DexNum": 294,
+        "Name": "Loudred",
+        "Link": "https://www.serebii.net/pokedex-swsh/loudred"
+    },
+    {
+        "DexNum": 295,
+        "Name": "Exploud",
+        "Link": "https://www.serebii.net/pokedex-swsh/exploud"
+    },
+    {
+        "DexNum": 296,
+        "Name": "Makuhita",
+        "Link": "https://www.serebii.net/pokedex-sm/296.shtml"
+    },
+    {
+        "DexNum": 297,
+        "Name": "Hariyama",
+        "Link": "https://www.serebii.net/pokedex-sm/297.shtml"
+    },
+    {
+        "DexNum": 298,
+        "Name": "Azurill",
+        "Link": "https://www.serebii.net/pokedex-swsh/azurill"
+    },
+    {
+        "DexNum": 299,
+        "Name": "Nosepass",
+        "Link": "https://www.serebii.net/pokedex-sm/299.shtml"
+    },
+    {
+        "DexNum": 300,
+        "Name": "Skitty",
+        "Link": "https://www.serebii.net/pokedex-sm/300.shtml"
+    },
+    {
+        "DexNum": 301,
+        "Name": "Delcatty",
+        "Link": "https://www.serebii.net/pokedex-sm/301.shtml"
+    },
+    {
+        "DexNum": 302,
+        "Name": "Sableye",
+        "Link": "https://www.serebii.net/pokedex-swsh/sableye"
+    },
+    {
+        "DexNum": 303,
+        "Name": "Mawile",
+        "Link": "https://www.serebii.net/pokedex-swsh/mawile"
+    },
+    {
+        "DexNum": 304,
+        "Name": "Aron",
+        "Link": "https://www.serebii.net/pokedex-sm/304.shtml"
+    },
+    {
+        "DexNum": 305,
+        "Name": "Lairon",
+        "Link": "https://www.serebii.net/pokedex-sm/305.shtml"
+    },
+    {
+        "DexNum": 306,
+        "Name": "Aggron",
+        "Link": "https://www.serebii.net/pokedex-sm/306.shtml"
+    },
+    {
+        "DexNum": 307,
+        "Name": "Meditite",
+        "Link": "https://www.serebii.net/pokedex-sm/307.shtml"
+    },
+    {
+        "DexNum": 308,
+        "Name": "Medicham",
+        "Link": "https://www.serebii.net/pokedex-sm/308.shtml"
+    },
+    {
+        "DexNum": 309,
+        "Name": "Electrike",
+        "Link": "https://www.serebii.net/pokedex-swsh/electrike"
+    },
+    {
+        "DexNum": 310,
+        "Name": "Manectric",
+        "Link": "https://www.serebii.net/pokedex-swsh/manectric"
+    },
+    {
+        "DexNum": 311,
+        "Name": "Plusle",
+        "Link": "https://www.serebii.net/pokedex-sm/311.shtml"
+    },
+    {
+        "DexNum": 312,
+        "Name": "Minun",
+        "Link": "https://www.serebii.net/pokedex-sm/312.shtml"
+    },
+    {
+        "DexNum": 313,
+        "Name": "Volbeat",
+        "Link": "https://www.serebii.net/pokedex-sm/313.shtml"
+    },
+    {
+        "DexNum": 314,
+        "Name": "Illumise",
+        "Link": "https://www.serebii.net/pokedex-sm/314.shtml"
+    },
+    {
+        "DexNum": 315,
+        "Name": "Roselia",
+        "Link": "https://www.serebii.net/pokedex-swsh/roselia"
+    },
+    {
+        "DexNum": 316,
+        "Name": "Gulpin",
+        "Link": "https://www.serebii.net/pokedex-sm/316.shtml"
+    },
+    {
+        "DexNum": 317,
+        "Name": "Swalot",
+        "Link": "https://www.serebii.net/pokedex-sm/317.shtml"
+    },
+    {
+        "DexNum": 318,
+        "Name": "Carvanha",
+        "Link": "https://www.serebii.net/pokedex-swsh/carvanha"
+    },
+    {
+        "DexNum": 319,
+        "Name": "Sharpedo",
+        "Link": "https://www.serebii.net/pokedex-swsh/sharpedo"
+    },
+    {
+        "DexNum": 320,
+        "Name": "Wailmer",
+        "Link": "https://www.serebii.net/pokedex-swsh/wailmer"
+    },
+    {
+        "DexNum": 321,
+        "Name": "Wailord",
+        "Link": "https://www.serebii.net/pokedex-swsh/wailord"
+    },
+    {
+        "DexNum": 322,
+        "Name": "Numel",
+        "Link": "https://www.serebii.net/pokedex-sm/322.shtml"
+    },
+    {
+        "DexNum": 323,
+        "Name": "Camerupt",
+        "Link": "https://www.serebii.net/pokedex-sm/323.shtml"
+    },
+    {
+        "DexNum": 324,
+        "Name": "Torkoal",
+        "Link": "https://www.serebii.net/pokedex-swsh/torkoal"
+    },
+    {
+        "DexNum": 325,
+        "Name": "Spoink",
+        "Link": "https://www.serebii.net/pokedex-sm/325.shtml"
+    },
+    {
+        "DexNum": 326,
+        "Name": "Grumpig",
+        "Link": "https://www.serebii.net/pokedex-sm/326.shtml"
+    },
+    {
+        "DexNum": 327,
+        "Name": "Spinda",
+        "Link": "https://www.serebii.net/pokedex-sm/327.shtml"
+    },
+    {
+        "DexNum": 328,
+        "Name": "Trapinch",
+        "Link": "https://www.serebii.net/pokedex-swsh/trapinch"
+    },
+    {
+        "DexNum": 329,
+        "Name": "Vibrava",
+        "Link": "https://www.serebii.net/pokedex-swsh/vibrava"
+    },
+    {
+        "DexNum": 330,
+        "Name": "Flygon",
+        "Link": "https://www.serebii.net/pokedex-swsh/flygon"
+    },
+    {
+        "DexNum": 331,
+        "Name": "Cacnea",
+        "Link": "https://www.serebii.net/pokedex-sm/331.shtml"
+    },
+    {
+        "DexNum": 332,
+        "Name": "Cacturne",
+        "Link": "https://www.serebii.net/pokedex-sm/332.shtml"
+    },
+    {
+        "DexNum": 333,
+        "Name": "Swablu",
+        "Link": "https://www.serebii.net/pokedex-sm/333.shtml"
+    },
+    {
+        "DexNum": 334,
+        "Name": "Altaria",
+        "Link": "https://www.serebii.net/pokedex-sm/334.shtml"
+    },
+    {
+        "DexNum": 335,
+        "Name": "Zangoose",
+        "Link": "https://www.serebii.net/pokedex-sm/335.shtml"
+    },
+    {
+        "DexNum": 336,
+        "Name": "Seviper",
+        "Link": "https://www.serebii.net/pokedex-sm/336.shtml"
+    },
+    {
+        "DexNum": 337,
+        "Name": "Lunatone",
+        "Link": "https://www.serebii.net/pokedex-swsh/lunatone"
+    },
+    {
+        "DexNum": 338,
+        "Name": "Solrock",
+        "Link": "https://www.serebii.net/pokedex-swsh/solrock"
+    },
+    {
+        "DexNum": 339,
+        "Name": "Barboach",
+        "Link": "https://www.serebii.net/pokedex-swsh/barboach"
+    },
+    {
+        "DexNum": 340,
+        "Name": "Whiscash",
+        "Link": "https://www.serebii.net/pokedex-swsh/whiscash"
+    },
+    {
+        "DexNum": 341,
+        "Name": "Corphish",
+        "Link": "https://www.serebii.net/pokedex-swsh/corphish"
+    },
+    {
+        "DexNum": 342,
+        "Name": "Crawdaunt",
+        "Link": "https://www.serebii.net/pokedex-swsh/crawdaunt"
+    },
+    {
+        "DexNum": 343,
+        "Name": "Baltoy",
+        "Link": "https://www.serebii.net/pokedex-swsh/baltoy"
+    },
+    {
+        "DexNum": 344,
+        "Name": "Claydol",
+        "Link": "https://www.serebii.net/pokedex-swsh/claydol"
+    },
+    {
+        "DexNum": 345,
+        "Name": "Lileep",
+        "Link": "https://www.serebii.net/pokedex-sm/345.shtml"
+    },
+    {
+        "DexNum": 346,
+        "Name": "Cradily",
+        "Link": "https://www.serebii.net/pokedex-sm/346.shtml"
+    },
+    {
+        "DexNum": 347,
+        "Name": "Anorith",
+        "Link": "https://www.serebii.net/pokedex-sm/347.shtml"
+    },
+    {
+        "DexNum": 348,
+        "Name": "Armaldo",
+        "Link": "https://www.serebii.net/pokedex-sm/348.shtml"
+    },
+    {
+        "DexNum": 349,
+        "Name": "Feebas",
+        "Link": "https://www.serebii.net/pokedex-swsh/feebas"
+    },
+    {
+        "DexNum": 350,
+        "Name": "Milotic",
+        "Link": "https://www.serebii.net/pokedex-swsh/milotic"
+    },
+    {
+        "DexNum": 351,
+        "Name": "Castform",
+        "Link": "https://www.serebii.net/pokedex-sm/351.shtml"
+    },
+    {
+        "DexNum": 352,
+        "Name": "Kecleon",
+        "Link": "https://www.serebii.net/pokedex-sm/352.shtml"
+    },
+    {
+        "DexNum": 353,
+        "Name": "Shuppet",
+        "Link": "https://www.serebii.net/pokedex-sm/353.shtml"
+    },
+    {
+        "DexNum": 354,
+        "Name": "Banette",
+        "Link": "https://www.serebii.net/pokedex-sm/354.shtml"
+    },
+    {
+        "DexNum": 355,
+        "Name": "Duskull",
+        "Link": "https://www.serebii.net/pokedex-swsh/duskull"
+    },
+    {
+        "DexNum": 356,
+        "Name": "Dusclops",
+        "Link": "https://www.serebii.net/pokedex-swsh/dusclops"
+    },
+    {
+        "DexNum": 357,
+        "Name": "Tropius",
+        "Link": "https://www.serebii.net/pokedex-sm/357.shtml"
+    },
+    {
+        "DexNum": 358,
+        "Name": "Chimecho",
+        "Link": "https://www.serebii.net/pokedex-sm/358.shtml"
+    },
+    {
+        "DexNum": 359,
+        "Name": "Absol",
+        "Link": "https://www.serebii.net/pokedex-sm/359.shtml"
+    },
+    {
+        "DexNum": 360,
+        "Name": "Wynaut",
+        "Link": "https://www.serebii.net/pokedex-swsh/wynaut"
+    },
+    {
+        "DexNum": 361,
+        "Name": "Snorunt",
+        "Link": "https://www.serebii.net/pokedex-swsh/snorunt"
+    },
+    {
+        "DexNum": 362,
+        "Name": "Glalie",
+        "Link": "https://www.serebii.net/pokedex-swsh/glalie"
+    },
+    {
+        "DexNum": 363,
+        "Name": "Spheal",
+        "Link": "https://www.serebii.net/pokedex-sm/363.shtml"
+    },
+    {
+        "DexNum": 364,
+        "Name": "Sealeo",
+        "Link": "https://www.serebii.net/pokedex-sm/364.shtml"
+    },
+    {
+        "DexNum": 365,
+        "Name": "Walrein",
+        "Link": "https://www.serebii.net/pokedex-sm/365.shtml"
+    },
+    {
+        "DexNum": 366,
+        "Name": "Clamperl",
+        "Link": "https://www.serebii.net/pokedex-sm/366.shtml"
+    },
+    {
+        "DexNum": 367,
+        "Name": "Huntail",
+        "Link": "https://www.serebii.net/pokedex-sm/367.shtml"
+    },
+    {
+        "DexNum": 368,
+        "Name": "Gorebyss",
+        "Link": "https://www.serebii.net/pokedex-sm/368.shtml"
+    },
+    {
+        "DexNum": 369,
+        "Name": "Relicanth",
+        "Link": "https://www.serebii.net/pokedex-sm/369.shtml"
+    },
+    {
+        "DexNum": 370,
+        "Name": "Luvdisc",
+        "Link": "https://www.serebii.net/pokedex-sm/370.shtml"
+    },
+    {
+        "DexNum": 371,
+        "Name": "Bagon",
+        "Link": "https://www.serebii.net/pokedex-sm/371.shtml"
+    },
+    {
+        "DexNum": 372,
+        "Name": "Shelgon",
+        "Link": "https://www.serebii.net/pokedex-sm/372.shtml"
+    },
+    {
+        "DexNum": 373,
+        "Name": "Salamence",
+        "Link": "https://www.serebii.net/pokedex-sm/373.shtml"
+    },
+    {
+        "DexNum": 374,
+        "Name": "Beldum",
+        "Link": "https://www.serebii.net/pokedex-sm/374.shtml"
+    },
+    {
+        "DexNum": 375,
+        "Name": "Metang",
+        "Link": "https://www.serebii.net/pokedex-sm/375.shtml"
+    },
+    {
+        "DexNum": 376,
+        "Name": "Metagross",
+        "Link": "https://www.serebii.net/pokedex-sm/376.shtml"
+    },
+    {
+        "DexNum": 377,
+        "Name": "Regirock",
+        "Link": "https://www.serebii.net/pokedex-sm/377.shtml"
+    },
+    {
+        "DexNum": 378,
+        "Name": "Regice",
+        "Link": "https://www.serebii.net/pokedex-sm/378.shtml"
+    },
+    {
+        "DexNum": 379,
+        "Name": "Registeel",
+        "Link": "https://www.serebii.net/pokedex-sm/379.shtml"
+    },
+    {
+        "DexNum": 380,
+        "Name": "Latias",
+        "Link": "https://www.serebii.net/pokedex-sm/380.shtml"
+    },
+    {
+        "DexNum": 381,
+        "Name": "Latios",
+        "Link": "https://www.serebii.net/pokedex-sm/381.shtml"
+    },
+    {
+        "DexNum": 382,
+        "Name": "Kyogre",
+        "Link": "https://www.serebii.net/pokedex-sm/382.shtml"
+    },
+    {
+        "DexNum": 383,
+        "Name": "Groudon",
+        "Link": "https://www.serebii.net/pokedex-sm/383.shtml"
+    },
+    {
+        "DexNum": 384,
+        "Name": "Rayquaza",
+        "Link": "https://www.serebii.net/pokedex-sm/384.shtml"
+    },
+    {
+        "DexNum": 385,
+        "Name": "Jirachi",
+        "Link": "https://www.serebii.net/pokedex-swsh/jirachi"
+    },
+    {
+        "DexNum": 386,
+        "Name": "Deoxys",
+        "Link": "https://www.serebii.net/pokedex-sm/386.shtml"
+    },
+    {
+        "DexNum": 387,
+        "Name": "Turtwig",
+        "Link": "https://www.serebii.net/pokedex-sm/387.shtml"
+    },
+    {
+        "DexNum": 388,
+        "Name": "Grotle",
+        "Link": "https://www.serebii.net/pokedex-sm/388.shtml"
+    },
+    {
+        "DexNum": 389,
+        "Name": "Torterra",
+        "Link": "https://www.serebii.net/pokedex-sm/389.shtml"
+    },
+    {
+        "DexNum": 390,
+        "Name": "Chimchar",
+        "Link": "https://www.serebii.net/pokedex-sm/390.shtml"
+    },
+    {
+        "DexNum": 391,
+        "Name": "Monferno",
+        "Link": "https://www.serebii.net/pokedex-sm/391.shtml"
+    },
+    {
+        "DexNum": 392,
+        "Name": "Infernape",
+        "Link": "https://www.serebii.net/pokedex-sm/392.shtml"
+    },
+    {
+        "DexNum": 393,
+        "Name": "Piplup",
+        "Link": "https://www.serebii.net/pokedex-sm/393.shtml"
+    },
+    {
+        "DexNum": 394,
+        "Name": "Prinplup",
+        "Link": "https://www.serebii.net/pokedex-sm/394.shtml"
+    },
+    {
+        "DexNum": 395,
+        "Name": "Empoleon",
+        "Link": "https://www.serebii.net/pokedex-sm/395.shtml"
+    },
+    {
+        "DexNum": 396,
+        "Name": "Starly",
+        "Link": "https://www.serebii.net/pokedex-sm/396.shtml"
+    },
+    {
+        "DexNum": 397,
+        "Name": "Staravia",
+        "Link": "https://www.serebii.net/pokedex-sm/397.shtml"
+    },
+    {
+        "DexNum": 398,
+        "Name": "Staraptor",
+        "Link": "https://www.serebii.net/pokedex-sm/398.shtml"
+    },
+    {
+        "DexNum": 399,
+        "Name": "Bidoof",
+        "Link": "https://www.serebii.net/pokedex-sm/399.shtml"
+    },
+    {
+        "DexNum": 400,
+        "Name": "Bibarel",
+        "Link": "https://www.serebii.net/pokedex-sm/400.shtml"
+    },
+    {
+        "DexNum": 401,
+        "Name": "Kricketot",
+        "Link": "https://www.serebii.net/pokedex-sm/401.shtml"
+    },
+    {
+        "DexNum": 402,
+        "Name": "Kricketune",
+        "Link": "https://www.serebii.net/pokedex-sm/402.shtml"
+    },
+    {
+        "DexNum": 403,
+        "Name": "Shinx",
+        "Link": "https://www.serebii.net/pokedex-swsh/shinx"
+    },
+    {
+        "DexNum": 404,
+        "Name": "Luxio",
+        "Link": "https://www.serebii.net/pokedex-swsh/luxio"
+    },
+    {
+        "DexNum": 405,
+        "Name": "Luxray",
+        "Link": "https://www.serebii.net/pokedex-swsh/luxray"
+    },
+    {
+        "DexNum": 406,
+        "Name": "Budew",
+        "Link": "https://www.serebii.net/pokedex-swsh/budew"
+    },
+    {
+        "DexNum": 407,
+        "Name": "Roserade",
+        "Link": "https://www.serebii.net/pokedex-swsh/roserade"
+    },
+    {
+        "DexNum": 408,
+        "Name": "Cranidos",
+        "Link": "https://www.serebii.net/pokedex-sm/408.shtml"
+    },
+    {
+        "DexNum": 409,
+        "Name": "Rampardos",
+        "Link": "https://www.serebii.net/pokedex-sm/409.shtml"
+    },
+    {
+        "DexNum": 410,
+        "Name": "Shieldon",
+        "Link": "https://www.serebii.net/pokedex-sm/410.shtml"
+    },
+    {
+        "DexNum": 411,
+        "Name": "Bastiodon",
+        "Link": "https://www.serebii.net/pokedex-sm/411.shtml"
+    },
+    {
+        "DexNum": 412,
+        "Name": "Burmy",
+        "Link": "https://www.serebii.net/pokedex-sm/412.shtml"
+    },
+    {
+        "DexNum": 413,
+        "Name": "Wormadam",
+        "Link": "https://www.serebii.net/pokedex-sm/413.shtml"
+    },
+    {
+        "DexNum": 414,
+        "Name": "Mothim",
+        "Link": "https://www.serebii.net/pokedex-sm/414.shtml"
+    },
+    {
+        "DexNum": 415,
+        "Name": "Combee",
+        "Link": "https://www.serebii.net/pokedex-swsh/combee"
+    },
+    {
+        "DexNum": 416,
+        "Name": "Vespiquen",
+        "Link": "https://www.serebii.net/pokedex-swsh/vespiquen"
+    },
+    {
+        "DexNum": 417,
+        "Name": "Pachirisu",
+        "Link": "https://www.serebii.net/pokedex-sm/417.shtml"
+    },
+    {
+        "DexNum": 418,
+        "Name": "Buizel",
+        "Link": "https://www.serebii.net/pokedex-sm/418.shtml"
+    },
+    {
+        "DexNum": 419,
+        "Name": "Floatzel",
+        "Link": "https://www.serebii.net/pokedex-sm/419.shtml"
+    },
+    {
+        "DexNum": 420,
+        "Name": "Cherubi",
+        "Link": "https://www.serebii.net/pokedex-swsh/cherubi"
+    },
+    {
+        "DexNum": 421,
+        "Name": "Cherrim",
+        "Link": "https://www.serebii.net/pokedex-swsh/cherrim"
+    },
+    {
+        "DexNum": 422,
+        "Name": "Shellos",
+        "Link": "https://www.serebii.net/pokedex-swsh/shellos"
+    },
+    {
+        "DexNum": 423,
+        "Name": "Gastrodon",
+        "Link": "https://www.serebii.net/pokedex-swsh/gastrodon"
+    },
+    {
+        "DexNum": 424,
+        "Name": "Ambipom",
+        "Link": "https://www.serebii.net/pokedex-sm/424.shtml"
+    },
+    {
+        "DexNum": 425,
+        "Name": "Drifloon",
+        "Link": "https://www.serebii.net/pokedex-swsh/drifloon"
+    },
+    {
+        "DexNum": 426,
+        "Name": "Drifblim",
+        "Link": "https://www.serebii.net/pokedex-swsh/drifblim"
+    },
+    {
+        "DexNum": 427,
+        "Name": "Buneary",
+        "Link": "https://www.serebii.net/pokedex-swsh/buneary"
+    },
+    {
+        "DexNum": 428,
+        "Name": "Lopunny",
+        "Link": "https://www.serebii.net/pokedex-swsh/lopunny"
+    },
+    {
+        "DexNum": 429,
+        "Name": "Mismagius",
+        "Link": "https://www.serebii.net/pokedex-sm/429.shtml"
+    },
+    {
+        "DexNum": 430,
+        "Name": "Honchkrow",
+        "Link": "https://www.serebii.net/pokedex-sm/430.shtml"
+    },
+    {
+        "DexNum": 431,
+        "Name": "Glameow",
+        "Link": "https://www.serebii.net/pokedex-sm/431.shtml"
+    },
+    {
+        "DexNum": 432,
+        "Name": "Purugly",
+        "Link": "https://www.serebii.net/pokedex-sm/432.shtml"
+    },
+    {
+        "DexNum": 433,
+        "Name": "Chingling",
+        "Link": "https://www.serebii.net/pokedex-sm/433.shtml"
+    },
+    {
+        "DexNum": 434,
+        "Name": "Stunky",
+        "Link": "https://www.serebii.net/pokedex-swsh/stunky"
+    },
+    {
+        "DexNum": 435,
+        "Name": "Skuntank",
+        "Link": "https://www.serebii.net/pokedex-swsh/skuntank"
+    },
+    {
+        "DexNum": 436,
+        "Name": "Bronzor",
+        "Link": "https://www.serebii.net/pokedex-swsh/bronzor"
+    },
+    {
+        "DexNum": 437,
+        "Name": "Bronzong",
+        "Link": "https://www.serebii.net/pokedex-swsh/bronzong"
+    },
+    {
+        "DexNum": 438,
+        "Name": "Bonsly",
+        "Link": "https://www.serebii.net/pokedex-swsh/bonsly"
+    },
+    {
+        "DexNum": 439,
+        "Name": "Mime Jr.",
+        "Link": "https://www.serebii.net/pokedex-swsh/mimejr."
+    },
+    {
+        "DexNum": 440,
+        "Name": "Happiny",
+        "Link": "https://www.serebii.net/pokedex-swsh/happiny"
+    },
+    {
+        "DexNum": 441,
+        "Name": "Chatot",
+        "Link": "https://www.serebii.net/pokedex-sm/441.shtml"
+    },
+    {
+        "DexNum": 442,
+        "Name": "Spiritomb",
+        "Link": "https://www.serebii.net/pokedex-sm/442.shtml"
+    },
+    {
+        "DexNum": 443,
+        "Name": "Gible",
+        "Link": "https://www.serebii.net/pokedex-sm/443.shtml"
+    },
+    {
+        "DexNum": 444,
+        "Name": "Gabite",
+        "Link": "https://www.serebii.net/pokedex-sm/444.shtml"
+    },
+    {
+        "DexNum": 445,
+        "Name": "Garchomp",
+        "Link": "https://www.serebii.net/pokedex-sm/445.shtml"
+    },
+    {
+        "DexNum": 446,
+        "Name": "Munchlax",
+        "Link": "https://www.serebii.net/pokedex-swsh/munchlax"
+    },
+    {
+        "DexNum": 447,
+        "Name": "Riolu",
+        "Link": "https://www.serebii.net/pokedex-swsh/riolu"
+    },
+    {
+        "DexNum": 448,
+        "Name": "Lucario",
+        "Link": "https://www.serebii.net/pokedex-swsh/lucario"
+    },
+    {
+        "DexNum": 449,
+        "Name": "Hippopotas",
+        "Link": "https://www.serebii.net/pokedex-swsh/hippopotas"
+    },
+    {
+        "DexNum": 450,
+        "Name": "Hippowdon",
+        "Link": "https://www.serebii.net/pokedex-swsh/hippowdon"
+    },
+    {
+        "DexNum": 451,
+        "Name": "Skorupi",
+        "Link": "https://www.serebii.net/pokedex-swsh/skorupi"
+    },
+    {
+        "DexNum": 452,
+        "Name": "Drapion",
+        "Link": "https://www.serebii.net/pokedex-swsh/drapion"
+    },
+    {
+        "DexNum": 453,
+        "Name": "Croagunk",
+        "Link": "https://www.serebii.net/pokedex-swsh/croagunk"
+    },
+    {
+        "DexNum": 454,
+        "Name": "Toxicroak",
+        "Link": "https://www.serebii.net/pokedex-swsh/toxicroak"
+    },
+    {
+        "DexNum": 455,
+        "Name": "Carnivine",
+        "Link": "https://www.serebii.net/pokedex-sm/455.shtml"
+    },
+    {
+        "DexNum": 456,
+        "Name": "Finneon",
+        "Link": "https://www.serebii.net/pokedex-sm/456.shtml"
+    },
+    {
+        "DexNum": 457,
+        "Name": "Lumineon",
+        "Link": "https://www.serebii.net/pokedex-sm/457.shtml"
+    },
+    {
+        "DexNum": 458,
+        "Name": "Mantyke",
+        "Link": "https://www.serebii.net/pokedex-swsh/mantyke"
+    },
+    {
+        "DexNum": 459,
+        "Name": "Snover",
+        "Link": "https://www.serebii.net/pokedex-swsh/snover"
+    },
+    {
+        "DexNum": 460,
+        "Name": "Abomasnow",
+        "Link": "https://www.serebii.net/pokedex-swsh/abomasnow"
+    },
+    {
+        "DexNum": 461,
+        "Name": "Weavile",
+        "Link": "https://www.serebii.net/pokedex-swsh/weavile"
+    },
+    {
+        "DexNum": 462,
+        "Name": "Magnezone",
+        "Link": "https://www.serebii.net/pokedex-swsh/magnezone"
+    },
+    {
+        "DexNum": 463,
+        "Name": "Lickilicky",
+        "Link": "https://www.serebii.net/pokedex-swsh/lickilicky"
+    },
+    {
+        "DexNum": 464,
+        "Name": "Rhyperior",
+        "Link": "https://www.serebii.net/pokedex-swsh/rhyperior"
+    },
+    {
+        "DexNum": 465,
+        "Name": "Tangrowth",
+        "Link": "https://www.serebii.net/pokedex-swsh/tangrowth"
+    },
+    {
+        "DexNum": 466,
+        "Name": "Electivire",
+        "Link": "https://www.serebii.net/pokedex-sm/466.shtml"
+    },
+    {
+        "DexNum": 467,
+        "Name": "Magmortar",
+        "Link": "https://www.serebii.net/pokedex-sm/467.shtml"
+    },
+    {
+        "DexNum": 468,
+        "Name": "Togekiss",
+        "Link": "https://www.serebii.net/pokedex-swsh/togekiss"
+    },
+    {
+        "DexNum": 469,
+        "Name": "Yanmega",
+        "Link": "https://www.serebii.net/pokedex-sm/469.shtml"
+    },
+    {
+        "DexNum": 470,
+        "Name": "Leafeon",
+        "Link": "https://www.serebii.net/pokedex-swsh/leafeon"
+    },
+    {
+        "DexNum": 471,
+        "Name": "Glaceon",
+        "Link": "https://www.serebii.net/pokedex-swsh/glaceon"
+    },
+    {
+        "DexNum": 472,
+        "Name": "Gliscor",
+        "Link": "https://www.serebii.net/pokedex-sm/472.shtml"
+    },
+    {
+        "DexNum": 473,
+        "Name": "Mamoswine",
+        "Link": "https://www.serebii.net/pokedex-swsh/mamoswine"
+    },
+    {
+        "DexNum": 474,
+        "Name": "Porygon-Z",
+        "Link": "https://www.serebii.net/pokedex-swsh/porygon-z"
+    },
+    {
+        "DexNum": 475,
+        "Name": "Gallade",
+        "Link": "https://www.serebii.net/pokedex-swsh/gallade"
+    },
+    {
+        "DexNum": 476,
+        "Name": "Probopass",
+        "Link": "https://www.serebii.net/pokedex-sm/476.shtml"
+    },
+    {
+        "DexNum": 477,
+        "Name": "Dusknoir",
+        "Link": "https://www.serebii.net/pokedex-swsh/dusknoir"
+    },
+    {
+        "DexNum": 478,
+        "Name": "Froslass",
+        "Link": "https://www.serebii.net/pokedex-swsh/froslass"
+    },
+    {
+        "DexNum": 479,
+        "Name": "Rotom",
+        "Link": "https://www.serebii.net/pokedex-swsh/rotom"
+    },
+    {
+        "DexNum": 480,
+        "Name": "Uxie",
+        "Link": "https://www.serebii.net/pokedex-sm/480.shtml"
+    },
+    {
+        "DexNum": 481,
+        "Name": "Mesprit",
+        "Link": "https://www.serebii.net/pokedex-sm/481.shtml"
+    },
+    {
+        "DexNum": 482,
+        "Name": "Azelf",
+        "Link": "https://www.serebii.net/pokedex-sm/482.shtml"
+    },
+    {
+        "DexNum": 483,
+        "Name": "Dialga",
+        "Link": "https://www.serebii.net/pokedex-sm/483.shtml"
+    },
+    {
+        "DexNum": 484,
+        "Name": "Palkia",
+        "Link": "https://www.serebii.net/pokedex-sm/484.shtml"
+    },
+    {
+        "DexNum": 485,
+        "Name": "Heatran",
+        "Link": "https://www.serebii.net/pokedex-sm/485.shtml"
+    },
+    {
+        "DexNum": 486,
+        "Name": "Regigigas",
+        "Link": "https://www.serebii.net/pokedex-sm/486.shtml"
+    },
+    {
+        "DexNum": 487,
+        "Name": "Giratina",
+        "Link": "https://www.serebii.net/pokedex-sm/487.shtml"
+    },
+    {
+        "DexNum": 488,
+        "Name": "Cresselia",
+        "Link": "https://www.serebii.net/pokedex-sm/488.shtml"
+    },
+    {
+        "DexNum": 489,
+        "Name": "Phione",
+        "Link": "https://www.serebii.net/pokedex-sm/489.shtml"
+    },
+    {
+        "DexNum": 490,
+        "Name": "Manaphy",
+        "Link": "https://www.serebii.net/pokedex-sm/490.shtml"
+    },
+    {
+        "DexNum": 491,
+        "Name": "Darkrai",
+        "Link": "https://www.serebii.net/pokedex-sm/491.shtml"
+    },
+    {
+        "DexNum": 492,
+        "Name": "Shaymin",
+        "Link": "https://www.serebii.net/pokedex-sm/492.shtml"
+    },
+    {
+        "DexNum": 493,
+        "Name": "Arceus",
+        "Link": "https://www.serebii.net/pokedex-sm/493.shtml"
+    },
+    {
+        "DexNum": 494,
+        "Name": "Victini",
+        "Link": "https://www.serebii.net/pokedex-sm/494.shtml"
+    },
+    {
+        "DexNum": 495,
+        "Name": "Snivy",
+        "Link": "https://www.serebii.net/pokedex-sm/495.shtml"
+    },
+    {
+        "DexNum": 496,
+        "Name": "Servine",
+        "Link": "https://www.serebii.net/pokedex-sm/496.shtml"
+    },
+    {
+        "DexNum": 497,
+        "Name": "Serperior",
+        "Link": "https://www.serebii.net/pokedex-sm/497.shtml"
+    },
+    {
+        "DexNum": 498,
+        "Name": "Tepig",
+        "Link": "https://www.serebii.net/pokedex-sm/498.shtml"
+    },
+    {
+        "DexNum": 499,
+        "Name": "Pignite",
+        "Link": "https://www.serebii.net/pokedex-sm/499.shtml"
+    },
+    {
+        "DexNum": 500,
+        "Name": "Emboar",
+        "Link": "https://www.serebii.net/pokedex-sm/500.shtml"
+    },
+    {
+        "DexNum": 501,
+        "Name": "Oshawott",
+        "Link": "https://www.serebii.net/pokedex-sm/501.shtml"
+    },
+    {
+        "DexNum": 502,
+        "Name": "Dewott",
+        "Link": "https://www.serebii.net/pokedex-sm/502.shtml"
+    },
+    {
+        "DexNum": 503,
+        "Name": "Samurott",
+        "Link": "https://www.serebii.net/pokedex-sm/503.shtml"
+    },
+    {
+        "DexNum": 504,
+        "Name": "Patrat",
+        "Link": "https://www.serebii.net/pokedex-sm/504.shtml"
+    },
+    {
+        "DexNum": 505,
+        "Name": "Watchog",
+        "Link": "https://www.serebii.net/pokedex-sm/505.shtml"
+    },
+    {
+        "DexNum": 506,
+        "Name": "Lillipup",
+        "Link": "https://www.serebii.net/pokedex-swsh/lillipup"
+    },
+    {
+        "DexNum": 507,
+        "Name": "Herdier",
+        "Link": "https://www.serebii.net/pokedex-swsh/herdier"
+    },
+    {
+        "DexNum": 508,
+        "Name": "Stoutland",
+        "Link": "https://www.serebii.net/pokedex-swsh/stoutland"
+    },
+    {
+        "DexNum": 509,
+        "Name": "Purrloin",
+        "Link": "https://www.serebii.net/pokedex-swsh/purrloin"
+    },
+    {
+        "DexNum": 510,
+        "Name": "Liepard",
+        "Link": "https://www.serebii.net/pokedex-swsh/liepard"
+    },
+    {
+        "DexNum": 511,
+        "Name": "Pansage",
+        "Link": "https://www.serebii.net/pokedex-sm/511.shtml"
+    },
+    {
+        "DexNum": 512,
+        "Name": "Simisage",
+        "Link": "https://www.serebii.net/pokedex-sm/512.shtml"
+    },
+    {
+        "DexNum": 513,
+        "Name": "Pansear",
+        "Link": "https://www.serebii.net/pokedex-sm/513.shtml"
+    },
+    {
+        "DexNum": 514,
+        "Name": "Simisear",
+        "Link": "https://www.serebii.net/pokedex-sm/514.shtml"
+    },
+    {
+        "DexNum": 515,
+        "Name": "Panpour",
+        "Link": "https://www.serebii.net/pokedex-sm/515.shtml"
+    },
+    {
+        "DexNum": 516,
+        "Name": "Simipour",
+        "Link": "https://www.serebii.net/pokedex-sm/516.shtml"
+    },
+    {
+        "DexNum": 517,
+        "Name": "Munna",
+        "Link": "https://www.serebii.net/pokedex-swsh/munna"
+    },
+    {
+        "DexNum": 518,
+        "Name": "Musharna",
+        "Link": "https://www.serebii.net/pokedex-swsh/musharna"
+    },
+    {
+        "DexNum": 519,
+        "Name": "Pidove",
+        "Link": "https://www.serebii.net/pokedex-swsh/pidove"
+    },
+    {
+        "DexNum": 520,
+        "Name": "Tranquill",
+        "Link": "https://www.serebii.net/pokedex-swsh/tranquill"
+    },
+    {
+        "DexNum": 521,
+        "Name": "Unfezant",
+        "Link": "https://www.serebii.net/pokedex-swsh/unfezant"
+    },
+    {
+        "DexNum": 522,
+        "Name": "Blitzle",
+        "Link": "https://www.serebii.net/pokedex-sm/522.shtml"
+    },
+    {
+        "DexNum": 523,
+        "Name": "Zebstrika",
+        "Link": "https://www.serebii.net/pokedex-sm/523.shtml"
+    },
+    {
+        "DexNum": 524,
+        "Name": "Roggenrola",
+        "Link": "https://www.serebii.net/pokedex-swsh/roggenrola"
+    },
+    {
+        "DexNum": 525,
+        "Name": "Boldore",
+        "Link": "https://www.serebii.net/pokedex-swsh/boldore"
+    },
+    {
+        "DexNum": 526,
+        "Name": "Gigalith",
+        "Link": "https://www.serebii.net/pokedex-swsh/gigalith"
+    },
+    {
+        "DexNum": 527,
+        "Name": "Woobat",
+        "Link": "https://www.serebii.net/pokedex-swsh/woobat"
+    },
+    {
+        "DexNum": 528,
+        "Name": "Swoobat",
+        "Link": "https://www.serebii.net/pokedex-swsh/swoobat"
+    },
+    {
+        "DexNum": 529,
+        "Name": "Drilbur",
+        "Link": "https://www.serebii.net/pokedex-swsh/drilbur"
+    },
+    {
+        "DexNum": 530,
+        "Name": "Excadrill",
+        "Link": "https://www.serebii.net/pokedex-swsh/excadrill"
+    },
+    {
+        "DexNum": 531,
+        "Name": "Audino",
+        "Link": "https://www.serebii.net/pokedex-sm/531.shtml"
+    },
+    {
+        "DexNum": 532,
+        "Name": "Timburr",
+        "Link": "https://www.serebii.net/pokedex-swsh/timburr"
+    },
+    {
+        "DexNum": 533,
+        "Name": "Gurdurr",
+        "Link": "https://www.serebii.net/pokedex-swsh/gurdurr"
+    },
+    {
+        "DexNum": 534,
+        "Name": "Conkeldurr",
+        "Link": "https://www.serebii.net/pokedex-swsh/conkeldurr"
+    },
+    {
+        "DexNum": 535,
+        "Name": "Tympole",
+        "Link": "https://www.serebii.net/pokedex-swsh/tympole"
+    },
+    {
+        "DexNum": 536,
+        "Name": "Palpitoad",
+        "Link": "https://www.serebii.net/pokedex-swsh/palpitoad"
+    },
+    {
+        "DexNum": 537,
+        "Name": "Seismitoad",
+        "Link": "https://www.serebii.net/pokedex-swsh/seismitoad"
+    },
+    {
+        "DexNum": 538,
+        "Name": "Throh",
+        "Link": "https://www.serebii.net/pokedex-swsh/throh"
+    },
+    {
+        "DexNum": 539,
+        "Name": "Sawk",
+        "Link": "https://www.serebii.net/pokedex-swsh/sawk"
+    },
+    {
+        "DexNum": 540,
+        "Name": "Sewaddle",
+        "Link": "https://www.serebii.net/pokedex-sm/540.shtml"
+    },
+    {
+        "DexNum": 541,
+        "Name": "Swadloon",
+        "Link": "https://www.serebii.net/pokedex-sm/541.shtml"
+    },
+    {
+        "DexNum": 542,
+        "Name": "Leavanny",
+        "Link": "https://www.serebii.net/pokedex-sm/542.shtml"
+    },
+    {
+        "DexNum": 543,
+        "Name": "Venipede",
+        "Link": "https://www.serebii.net/pokedex-swsh/venipede"
+    },
+    {
+        "DexNum": 544,
+        "Name": "Whirlipede",
+        "Link": "https://www.serebii.net/pokedex-swsh/whirlipede"
+    },
+    {
+        "DexNum": 545,
+        "Name": "Scolipede",
+        "Link": "https://www.serebii.net/pokedex-swsh/scolipede"
+    },
+    {
+        "DexNum": 546,
+        "Name": "Cottonee",
+        "Link": "https://www.serebii.net/pokedex-swsh/cottonee"
+    },
+    {
+        "DexNum": 547,
+        "Name": "Whimsicott",
+        "Link": "https://www.serebii.net/pokedex-swsh/whimsicott"
+    },
+    {
+        "DexNum": 548,
+        "Name": "Petilil",
+        "Link": "https://www.serebii.net/pokedex-swsh/petilil"
+    },
+    {
+        "DexNum": 549,
+        "Name": "Lilligant",
+        "Link": "https://www.serebii.net/pokedex-swsh/lilligant"
+    },
+    {
+        "DexNum": 550,
+        "Name": "Basculin",
+        "Link": "https://www.serebii.net/pokedex-swsh/basculin"
+    },
+    {
+        "DexNum": 551,
+        "Name": "Sandile",
+        "Link": "https://www.serebii.net/pokedex-swsh/sandile"
+    },
+    {
+        "DexNum": 552,
+        "Name": "Krokorok",
+        "Link": "https://www.serebii.net/pokedex-swsh/krokorok"
+    },
+    {
+        "DexNum": 553,
+        "Name": "Krookodile",
+        "Link": "https://www.serebii.net/pokedex-swsh/krookodile"
+    },
+    {
+        "DexNum": 554,
+        "Name": "Darumaka",
+        "Link": "https://www.serebii.net/pokedex-swsh/darumaka"
+    },
+    {
+        "DexNum": 555,
+        "Name": "Darmanitan",
+        "Link": "https://www.serebii.net/pokedex-swsh/darmanitan"
+    },
+    {
+        "DexNum": 556,
+        "Name": "Maractus",
+        "Link": "https://www.serebii.net/pokedex-swsh/maractus"
+    },
+    {
+        "DexNum": 557,
+        "Name": "Dwebble",
+        "Link": "https://www.serebii.net/pokedex-swsh/dwebble"
+    },
+    {
+        "DexNum": 558,
+        "Name": "Crustle",
+        "Link": "https://www.serebii.net/pokedex-swsh/crustle"
+    },
+    {
+        "DexNum": 559,
+        "Name": "Scraggy",
+        "Link": "https://www.serebii.net/pokedex-swsh/scraggy"
+    },
+    {
+        "DexNum": 560,
+        "Name": "Scrafty",
+        "Link": "https://www.serebii.net/pokedex-swsh/scrafty"
+    },
+    {
+        "DexNum": 561,
+        "Name": "Sigilyph",
+        "Link": "https://www.serebii.net/pokedex-swsh/sigilyph"
+    },
+    {
+        "DexNum": 562,
+        "Name": "Yamask",
+        "Link": "https://www.serebii.net/pokedex-swsh/yamask"
+    },
+    {
+        "DexNum": 563,
+        "Name": "Cofagrigus",
+        "Link": "https://www.serebii.net/pokedex-swsh/cofagrigus"
+    },
+    {
+        "DexNum": 564,
+        "Name": "Tirtouga",
+        "Link": "https://www.serebii.net/pokedex-sm/564.shtml"
+    },
+    {
+        "DexNum": 565,
+        "Name": "Carracosta",
+        "Link": "https://www.serebii.net/pokedex-sm/565.shtml"
+    },
+    {
+        "DexNum": 566,
+        "Name": "Archen",
+        "Link": "https://www.serebii.net/pokedex-sm/566.shtml"
+    },
+    {
+        "DexNum": 567,
+        "Name": "Archeops",
+        "Link": "https://www.serebii.net/pokedex-sm/567.shtml"
+    },
+    {
+        "DexNum": 568,
+        "Name": "Trubbish",
+        "Link": "https://www.serebii.net/pokedex-swsh/trubbish"
+    },
+    {
+        "DexNum": 569,
+        "Name": "Garbodor",
+        "Link": "https://www.serebii.net/pokedex-swsh/garbodor"
+    },
+    {
+        "DexNum": 570,
+        "Name": "Zorua",
+        "Link": "https://www.serebii.net/pokedex-swsh/zorua"
+    },
+    {
+        "DexNum": 571,
+        "Name": "Zoroark",
+        "Link": "https://www.serebii.net/pokedex-swsh/zoroark"
+    },
+    {
+        "DexNum": 572,
+        "Name": "Minccino",
+        "Link": "https://www.serebii.net/pokedex-swsh/minccino"
+    },
+    {
+        "DexNum": 573,
+        "Name": "Cinccino",
+        "Link": "https://www.serebii.net/pokedex-swsh/cinccino"
+    },
+    {
+        "DexNum": 574,
+        "Name": "Gothita",
+        "Link": "https://www.serebii.net/pokedex-swsh/gothita"
+    },
+    {
+        "DexNum": 575,
+        "Name": "Gothorita",
+        "Link": "https://www.serebii.net/pokedex-swsh/gothorita"
+    },
+    {
+        "DexNum": 576,
+        "Name": "Gothitelle",
+        "Link": "https://www.serebii.net/pokedex-swsh/gothitelle"
+    },
+    {
+        "DexNum": 577,
+        "Name": "Solosis",
+        "Link": "https://www.serebii.net/pokedex-swsh/solosis"
+    },
+    {
+        "DexNum": 578,
+        "Name": "Duosion",
+        "Link": "https://www.serebii.net/pokedex-swsh/duosion"
+    },
+    {
+        "DexNum": 579,
+        "Name": "Reuniclus",
+        "Link": "https://www.serebii.net/pokedex-swsh/reuniclus"
+    },
+    {
+        "DexNum": 580,
+        "Name": "Ducklett",
+        "Link": "https://www.serebii.net/pokedex-sm/580.shtml"
+    },
+    {
+        "DexNum": 581,
+        "Name": "Swanna",
+        "Link": "https://www.serebii.net/pokedex-sm/581.shtml"
+    },
+    {
+        "DexNum": 582,
+        "Name": "Vanillite",
+        "Link": "https://www.serebii.net/pokedex-swsh/vanillite"
+    },
+    {
+        "DexNum": 583,
+        "Name": "Vanillish",
+        "Link": "https://www.serebii.net/pokedex-swsh/vanillish"
+    },
+    {
+        "DexNum": 584,
+        "Name": "Vanilluxe",
+        "Link": "https://www.serebii.net/pokedex-swsh/vanilluxe"
+    },
+    {
+        "DexNum": 585,
+        "Name": "Deerling",
+        "Link": "https://www.serebii.net/pokedex-sm/585.shtml"
+    },
+    {
+        "DexNum": 586,
+        "Name": "Sawsbuck",
+        "Link": "https://www.serebii.net/pokedex-sm/586.shtml"
+    },
+    {
+        "DexNum": 587,
+        "Name": "Emolga",
+        "Link": "https://www.serebii.net/pokedex-swsh/emolga"
+    },
+    {
+        "DexNum": 588,
+        "Name": "Karrablast",
+        "Link": "https://www.serebii.net/pokedex-swsh/karrablast"
+    },
+    {
+        "DexNum": 589,
+        "Name": "Escavalier",
+        "Link": "https://www.serebii.net/pokedex-swsh/escavalier"
+    },
+    {
+        "DexNum": 590,
+        "Name": "Foongus",
+        "Link": "https://www.serebii.net/pokedex-swsh/foongus"
+    },
+    {
+        "DexNum": 591,
+        "Name": "Amoonguss",
+        "Link": "https://www.serebii.net/pokedex-swsh/amoonguss"
+    },
+    {
+        "DexNum": 592,
+        "Name": "Frillish",
+        "Link": "https://www.serebii.net/pokedex-swsh/frillish"
+    },
+    {
+        "DexNum": 593,
+        "Name": "Jellicent",
+        "Link": "https://www.serebii.net/pokedex-swsh/jellicent"
+    },
+    {
+        "DexNum": 594,
+        "Name": "Alomomola",
+        "Link": "https://www.serebii.net/pokedex-sm/594.shtml"
+    },
+    {
+        "DexNum": 595,
+        "Name": "Joltik",
+        "Link": "https://www.serebii.net/pokedex-swsh/joltik"
+    },
+    {
+        "DexNum": 596,
+        "Name": "Galvantula",
+        "Link": "https://www.serebii.net/pokedex-swsh/galvantula"
+    },
+    {
+        "DexNum": 597,
+        "Name": "Ferroseed",
+        "Link": "https://www.serebii.net/pokedex-swsh/ferroseed"
+    },
+    {
+        "DexNum": 598,
+        "Name": "Ferrothorn",
+        "Link": "https://www.serebii.net/pokedex-swsh/ferrothorn"
+    },
+    {
+        "DexNum": 599,
+        "Name": "Klink",
+        "Link": "https://www.serebii.net/pokedex-swsh/klink"
+    },
+    {
+        "DexNum": 600,
+        "Name": "Klang",
+        "Link": "https://www.serebii.net/pokedex-swsh/klang"
+    },
+    {
+        "DexNum": 601,
+        "Name": "Klinklang",
+        "Link": "https://www.serebii.net/pokedex-swsh/klinklang"
+    },
+    {
+        "DexNum": 602,
+        "Name": "Tynamo",
+        "Link": "https://www.serebii.net/pokedex-sm/602.shtml"
+    },
+    {
+        "DexNum": 603,
+        "Name": "Eelektrik",
+        "Link": "https://www.serebii.net/pokedex-sm/603.shtml"
+    },
+    {
+        "DexNum": 604,
+        "Name": "Eelektross",
+        "Link": "https://www.serebii.net/pokedex-sm/604.shtml"
+    },
+    {
+        "DexNum": 605,
+        "Name": "Elgyem",
+        "Link": "https://www.serebii.net/pokedex-swsh/elgyem"
+    },
+    {
+        "DexNum": 606,
+        "Name": "Beheeyem",
+        "Link": "https://www.serebii.net/pokedex-swsh/beheeyem"
+    },
+    {
+        "DexNum": 607,
+        "Name": "Litwick",
+        "Link": "https://www.serebii.net/pokedex-swsh/litwick"
+    },
+    {
+        "DexNum": 608,
+        "Name": "Lampent",
+        "Link": "https://www.serebii.net/pokedex-swsh/lampent"
+    },
+    {
+        "DexNum": 609,
+        "Name": "Chandelure",
+        "Link": "https://www.serebii.net/pokedex-swsh/chandelure"
+    },
+    {
+        "DexNum": 610,
+        "Name": "Axew",
+        "Link": "https://www.serebii.net/pokedex-swsh/axew"
+    },
+    {
+        "DexNum": 611,
+        "Name": "Fraxure",
+        "Link": "https://www.serebii.net/pokedex-swsh/fraxure"
+    },
+    {
+        "DexNum": 612,
+        "Name": "Haxorus",
+        "Link": "https://www.serebii.net/pokedex-swsh/haxorus"
+    },
+    {
+        "DexNum": 613,
+        "Name": "Cubchoo",
+        "Link": "https://www.serebii.net/pokedex-swsh/cubchoo"
+    },
+    {
+        "DexNum": 614,
+        "Name": "Beartic",
+        "Link": "https://www.serebii.net/pokedex-swsh/beartic"
+    },
+    {
+        "DexNum": 615,
+        "Name": "Cryogonal",
+        "Link": "https://www.serebii.net/pokedex-sm/615.shtml"
+    },
+    {
+        "DexNum": 616,
+        "Name": "Shelmet",
+        "Link": "https://www.serebii.net/pokedex-swsh/shelmet"
+    },
+    {
+        "DexNum": 617,
+        "Name": "Accelgor",
+        "Link": "https://www.serebii.net/pokedex-swsh/accelgor"
+    },
+    {
+        "DexNum": 618,
+        "Name": "Stunfisk",
+        "Link": "https://www.serebii.net/pokedex-swsh/stunfisk"
+    },
+    {
+        "DexNum": 619,
+        "Name": "Mienfoo",
+        "Link": "https://www.serebii.net/pokedex-swsh/mienfoo"
+    },
+    {
+        "DexNum": 620,
+        "Name": "Mienshao",
+        "Link": "https://www.serebii.net/pokedex-swsh/mienshao"
+    },
+    {
+        "DexNum": 621,
+        "Name": "Druddigon",
+        "Link": "https://www.serebii.net/pokedex-swsh/druddigon"
+    },
+    {
+        "DexNum": 622,
+        "Name": "Golett",
+        "Link": "https://www.serebii.net/pokedex-swsh/golett"
+    },
+    {
+        "DexNum": 623,
+        "Name": "Golurk",
+        "Link": "https://www.serebii.net/pokedex-swsh/golurk"
+    },
+    {
+        "DexNum": 624,
+        "Name": "Pawniard",
+        "Link": "https://www.serebii.net/pokedex-swsh/pawniard"
+    },
+    {
+        "DexNum": 625,
+        "Name": "Bisharp",
+        "Link": "https://www.serebii.net/pokedex-swsh/bisharp"
+    },
+    {
+        "DexNum": 626,
+        "Name": "Bouffalant",
+        "Link": "https://www.serebii.net/pokedex-swsh/bouffalant"
+    },
+    {
+        "DexNum": 627,
+        "Name": "Rufflet",
+        "Link": "https://www.serebii.net/pokedex-swsh/rufflet"
+    },
+    {
+        "DexNum": 628,
+        "Name": "Braviary",
+        "Link": "https://www.serebii.net/pokedex-swsh/braviary"
+    },
+    {
+        "DexNum": 629,
+        "Name": "Vullaby",
+        "Link": "https://www.serebii.net/pokedex-swsh/vullaby"
+    },
+    {
+        "DexNum": 630,
+        "Name": "Mandibuzz",
+        "Link": "https://www.serebii.net/pokedex-swsh/mandibuzz"
+    },
+    {
+        "DexNum": 631,
+        "Name": "Heatmor",
+        "Link": "https://www.serebii.net/pokedex-swsh/heatmor"
+    },
+    {
+        "DexNum": 632,
+        "Name": "Durant",
+        "Link": "https://www.serebii.net/pokedex-swsh/durant"
+    },
+    {
+        "DexNum": 633,
+        "Name": "Deino",
+        "Link": "https://www.serebii.net/pokedex-swsh/deino"
+    },
+    {
+        "DexNum": 634,
+        "Name": "Zweilous",
+        "Link": "https://www.serebii.net/pokedex-swsh/zweilous"
+    },
+    {
+        "DexNum": 635,
+        "Name": "Hydreigon",
+        "Link": "https://www.serebii.net/pokedex-swsh/hydreigon"
+    },
+    {
+        "DexNum": 636,
+        "Name": "Larvesta",
+        "Link": "https://www.serebii.net/pokedex-swsh/larvesta"
+    },
+    {
+        "DexNum": 637,
+        "Name": "Volcarona",
+        "Link": "https://www.serebii.net/pokedex-swsh/volcarona"
+    },
+    {
+        "DexNum": 638,
+        "Name": "Cobalion",
+        "Link": "https://www.serebii.net/pokedex-swsh/cobalion"
+    },
+    {
+        "DexNum": 639,
+        "Name": "Terrakion",
+        "Link": "https://www.serebii.net/pokedex-swsh/terrakion"
+    },
+    {
+        "DexNum": 640,
+        "Name": "Virizion",
+        "Link": "https://www.serebii.net/pokedex-swsh/virizion"
+    },
+    {
+        "DexNum": 641,
+        "Name": "Tornadus",
+        "Link": "https://www.serebii.net/pokedex-sm/641.shtml"
+    },
+    {
+        "DexNum": 642,
+        "Name": "Thundurus",
+        "Link": "https://www.serebii.net/pokedex-sm/642.shtml"
+    },
+    {
+        "DexNum": 643,
+        "Name": "Reshiram",
+        "Link": "https://www.serebii.net/pokedex-swsh/reshiram"
+    },
+    {
+        "DexNum": 644,
+        "Name": "Zekrom",
+        "Link": "https://www.serebii.net/pokedex-swsh/zekrom"
+    },
+    {
+        "DexNum": 645,
+        "Name": "Landorus",
+        "Link": "https://www.serebii.net/pokedex-sm/645.shtml"
+    },
+    {
+        "DexNum": 646,
+        "Name": "Kyurem",
+        "Link": "https://www.serebii.net/pokedex-swsh/kyurem"
+    },
+    {
+        "DexNum": 647,
+        "Name": "Keldeo",
+        "Link": "https://www.serebii.net/pokedex-swsh/keldeo"
+    },
+    {
+        "DexNum": 648,
+        "Name": "Meloetta",
+        "Link": "https://www.serebii.net/pokedex-sm/648.shtml"
+    },
+    {
+        "DexNum": 649,
+        "Name": "Genesect",
+        "Link": "https://www.serebii.net/pokedex-sm/649.shtml"
+    },
+    {
+        "DexNum": 650,
+        "Name": "Chespin",
+        "Link": "https://www.serebii.net/pokedex-sm/650.shtml"
+    },
+    {
+        "DexNum": 651,
+        "Name": "Quilladin",
+        "Link": "https://www.serebii.net/pokedex-sm/651.shtml"
+    },
+    {
+        "DexNum": 652,
+        "Name": "Chesnaught",
+        "Link": "https://www.serebii.net/pokedex-sm/652.shtml"
+    },
+    {
+        "DexNum": 653,
+        "Name": "Fennekin",
+        "Link": "https://www.serebii.net/pokedex-sm/653.shtml"
+    },
+    {
+        "DexNum": 654,
+        "Name": "Braixen",
+        "Link": "https://www.serebii.net/pokedex-sm/654.shtml"
+    },
+    {
+        "DexNum": 655,
+        "Name": "Delphox",
+        "Link": "https://www.serebii.net/pokedex-sm/655.shtml"
+    },
+    {
+        "DexNum": 656,
+        "Name": "Froakie",
+        "Link": "https://www.serebii.net/pokedex-sm/656.shtml"
+    },
+    {
+        "DexNum": 657,
+        "Name": "Frogadier",
+        "Link": "https://www.serebii.net/pokedex-sm/657.shtml"
+    },
+    {
+        "DexNum": 658,
+        "Name": "Greninja",
+        "Link": "https://www.serebii.net/pokedex-sm/658.shtml"
+    },
+    {
+        "DexNum": 659,
+        "Name": "Bunnelby",
+        "Link": "https://www.serebii.net/pokedex-swsh/bunnelby"
+    },
+    {
+        "DexNum": 660,
+        "Name": "Diggersby",
+        "Link": "https://www.serebii.net/pokedex-swsh/diggersby"
+    },
+    {
+        "DexNum": 661,
+        "Name": "Fletchling",
+        "Link": "https://www.serebii.net/pokedex-swsh/fletchling"
+    },
+    {
+        "DexNum": 662,
+        "Name": "Fletchinder",
+        "Link": "https://www.serebii.net/pokedex-swsh/fletchinder"
+    },
+    {
+        "DexNum": 663,
+        "Name": "Talonflame",
+        "Link": "https://www.serebii.net/pokedex-swsh/talonflame"
+    },
+    {
+        "DexNum": 664,
+        "Name": "Scatterbug",
+        "Link": "https://www.serebii.net/pokedex-sm/664.shtml"
+    },
+    {
+        "DexNum": 665,
+        "Name": "Spewpa",
+        "Link": "https://www.serebii.net/pokedex-sm/665.shtml"
+    },
+    {
+        "DexNum": 666,
+        "Name": "Vivillon",
+        "Link": "https://www.serebii.net/pokedex-sm/666.shtml"
+    },
+    {
+        "DexNum": 667,
+        "Name": "Litleo",
+        "Link": "https://www.serebii.net/pokedex-sm/667.shtml"
+    },
+    {
+        "DexNum": 668,
+        "Name": "Pyroar",
+        "Link": "https://www.serebii.net/pokedex-sm/668.shtml"
+    },
+    {
+        "DexNum": 669,
+        "Name": "Flabébé",
+        "Link": "https://www.serebii.net/pokedex-sm/669.shtml"
+    },
+    {
+        "DexNum": 670,
+        "Name": "Floette",
+        "Link": "https://www.serebii.net/pokedex-sm/670.shtml"
+    },
+    {
+        "DexNum": 671,
+        "Name": "Florges",
+        "Link": "https://www.serebii.net/pokedex-sm/671.shtml"
+    },
+    {
+        "DexNum": 672,
+        "Name": "Skiddo",
+        "Link": "https://www.serebii.net/pokedex-sm/672.shtml"
+    },
+    {
+        "DexNum": 673,
+        "Name": "Gogoat",
+        "Link": "https://www.serebii.net/pokedex-sm/673.shtml"
+    },
+    {
+        "DexNum": 674,
+        "Name": "Pancham",
+        "Link": "https://www.serebii.net/pokedex-swsh/pancham"
+    },
+    {
+        "DexNum": 675,
+        "Name": "Pangoro",
+        "Link": "https://www.serebii.net/pokedex-swsh/pangoro"
+    },
+    {
+        "DexNum": 676,
+        "Name": "Furfrou",
+        "Link": "https://www.serebii.net/pokedex-sm/676.shtml"
+    },
+    {
+        "DexNum": 677,
+        "Name": "Espurr",
+        "Link": "https://www.serebii.net/pokedex-swsh/espurr"
+    },
+    {
+        "DexNum": 678,
+        "Name": "Meowstic",
+        "Link": "https://www.serebii.net/pokedex-swsh/meowstic"
+    },
+    {
+        "DexNum": 679,
+        "Name": "Honedge",
+        "Link": "https://www.serebii.net/pokedex-swsh/honedge"
+    },
+    {
+        "DexNum": 680,
+        "Name": "Doublade",
+        "Link": "https://www.serebii.net/pokedex-swsh/doublade"
+    },
+    {
+        "DexNum": 681,
+        "Name": "Aegislash",
+        "Link": "https://www.serebii.net/pokedex-swsh/aegislash"
+    },
+    {
+        "DexNum": 682,
+        "Name": "Spritzee",
+        "Link": "https://www.serebii.net/pokedex-swsh/spritzee"
+    },
+    {
+        "DexNum": 683,
+        "Name": "Aromatisse",
+        "Link": "https://www.serebii.net/pokedex-swsh/aromatisse"
+    },
+    {
+        "DexNum": 684,
+        "Name": "Swirlix",
+        "Link": "https://www.serebii.net/pokedex-swsh/swirlix"
+    },
+    {
+        "DexNum": 685,
+        "Name": "Slurpuff",
+        "Link": "https://www.serebii.net/pokedex-swsh/slurpuff"
+    },
+    {
+        "DexNum": 686,
+        "Name": "Inkay",
+        "Link": "https://www.serebii.net/pokedex-swsh/inkay"
+    },
+    {
+        "DexNum": 687,
+        "Name": "Malamar",
+        "Link": "https://www.serebii.net/pokedex-swsh/malamar"
+    },
+    {
+        "DexNum": 688,
+        "Name": "Binacle",
+        "Link": "https://www.serebii.net/pokedex-swsh/binacle"
+    },
+    {
+        "DexNum": 689,
+        "Name": "Barbaracle",
+        "Link": "https://www.serebii.net/pokedex-swsh/barbaracle"
+    },
+    {
+        "DexNum": 690,
+        "Name": "Skrelp",
+        "Link": "https://www.serebii.net/pokedex-swsh/skrelp"
+    },
+    {
+        "DexNum": 691,
+        "Name": "Dragalge",
+        "Link": "https://www.serebii.net/pokedex-swsh/dragalge"
+    },
+    {
+        "DexNum": 692,
+        "Name": "Clauncher",
+        "Link": "https://www.serebii.net/pokedex-swsh/clauncher"
+    },
+    {
+        "DexNum": 693,
+        "Name": "Clawitzer",
+        "Link": "https://www.serebii.net/pokedex-swsh/clawitzer"
+    },
+    {
+        "DexNum": 694,
+        "Name": "Helioptile",
+        "Link": "https://www.serebii.net/pokedex-swsh/helioptile"
+    },
+    {
+        "DexNum": 695,
+        "Name": "Heliolisk",
+        "Link": "https://www.serebii.net/pokedex-swsh/heliolisk"
+    },
+    {
+        "DexNum": 696,
+        "Name": "Tyrunt",
+        "Link": "https://www.serebii.net/pokedex-sm/696.shtml"
+    },
+    {
+        "DexNum": 697,
+        "Name": "Tyrantrum",
+        "Link": "https://www.serebii.net/pokedex-sm/697.shtml"
+    },
+    {
+        "DexNum": 698,
+        "Name": "Amaura",
+        "Link": "https://www.serebii.net/pokedex-sm/698.shtml"
+    },
+    {
+        "DexNum": 699,
+        "Name": "Aurorus",
+        "Link": "https://www.serebii.net/pokedex-sm/699.shtml"
+    },
+    {
+        "DexNum": 700,
+        "Name": "Sylveon",
+        "Link": "https://www.serebii.net/pokedex-swsh/sylveon"
+    },
+    {
+        "DexNum": 701,
+        "Name": "Hawlucha",
+        "Link": "https://www.serebii.net/pokedex-swsh/hawlucha"
+    },
+    {
+        "DexNum": 702,
+        "Name": "Dedenne",
+        "Link": "https://www.serebii.net/pokedex-swsh/dedenne"
+    },
+    {
+        "DexNum": 703,
+        "Name": "Carbink",
+        "Link": "https://www.serebii.net/pokedex-sm/703.shtml"
+    },
+    {
+        "DexNum": 704,
+        "Name": "Goomy",
+        "Link": "https://www.serebii.net/pokedex-swsh/goomy"
+    },
+    {
+        "DexNum": 705,
+        "Name": "Sliggoo",
+        "Link": "https://www.serebii.net/pokedex-swsh/sliggoo"
+    },
+    {
+        "DexNum": 706,
+        "Name": "Goodra",
+        "Link": "https://www.serebii.net/pokedex-swsh/goodra"
+    },
+    {
+        "DexNum": 707,
+        "Name": "Klefki",
+        "Link": "https://www.serebii.net/pokedex-swsh/klefki"
+    },
+    {
+        "DexNum": 708,
+        "Name": "Phantump",
+        "Link": "https://www.serebii.net/pokedex-swsh/phantump"
+    },
+    {
+        "DexNum": 709,
+        "Name": "Trevenant",
+        "Link": "https://www.serebii.net/pokedex-swsh/trevenant"
+    },
+    {
+        "DexNum": 710,
+        "Name": "Pumpkaboo",
+        "Link": "https://www.serebii.net/pokedex-swsh/pumpkaboo"
+    },
+    {
+        "DexNum": 711,
+        "Name": "Gourgeist",
+        "Link": "https://www.serebii.net/pokedex-swsh/gourgeist"
+    },
+    {
+        "DexNum": 712,
+        "Name": "Bergmite",
+        "Link": "https://www.serebii.net/pokedex-swsh/bergmite"
+    },
+    {
+        "DexNum": 713,
+        "Name": "Avalugg",
+        "Link": "https://www.serebii.net/pokedex-swsh/avalugg"
+    },
+    {
+        "DexNum": 714,
+        "Name": "Noibat",
+        "Link": "https://www.serebii.net/pokedex-swsh/noibat"
+    },
+    {
+        "DexNum": 715,
+        "Name": "Noivern",
+        "Link": "https://www.serebii.net/pokedex-swsh/noivern"
+    },
+    {
+        "DexNum": 716,
+        "Name": "Xerneas",
+        "Link": "https://www.serebii.net/pokedex-sm/716.shtml"
+    },
+    {
+        "DexNum": 717,
+        "Name": "Yveltal",
+        "Link": "https://www.serebii.net/pokedex-sm/717.shtml"
+    },
+    {
+        "DexNum": 718,
+        "Name": "Zygarde",
+        "Link": "https://www.serebii.net/pokedex-sm/718.shtml"
+    },
+    {
+        "DexNum": 719,
+        "Name": "Diancie",
+        "Link": "https://www.serebii.net/pokedex-sm/719.shtml"
+    },
+    {
+        "DexNum": 720,
+        "Name": "Hoopa",
+        "Link": "https://www.serebii.net/pokedex-sm/720.shtml"
+    },
+    {
+        "DexNum": 721,
+        "Name": "Volcanion",
+        "Link": "https://www.serebii.net/pokedex-sm/721.shtml"
+    },
+    {
+        "DexNum": 722,
+        "Name": "Rowlet",
+        "Link": "https://www.serebii.net/pokedex-swsh/rowlet"
+    },
+    {
+        "DexNum": 723,
+        "Name": "Dartrix",
+        "Link": "https://www.serebii.net/pokedex-swsh/dartrix"
+    },
+    {
+        "DexNum": 724,
+        "Name": "Decidueye",
+        "Link": "https://www.serebii.net/pokedex-swsh/decidueye"
+    },
+    {
+        "DexNum": 725,
+        "Name": "Litten",
+        "Link": "https://www.serebii.net/pokedex-swsh/litten"
+    },
+    {
+        "DexNum": 726,
+        "Name": "Torracat",
+        "Link": "https://www.serebii.net/pokedex-swsh/torracat"
+    },
+    {
+        "DexNum": 727,
+        "Name": "Incineroar",
+        "Link": "https://www.serebii.net/pokedex-swsh/incineroar"
+    },
+    {
+        "DexNum": 728,
+        "Name": "Popplio",
+        "Link": "https://www.serebii.net/pokedex-swsh/popplio"
+    },
+    {
+        "DexNum": 729,
+        "Name": "Brionne",
+        "Link": "https://www.serebii.net/pokedex-swsh/brionne"
+    },
+    {
+        "DexNum": 730,
+        "Name": "Primarina",
+        "Link": "https://www.serebii.net/pokedex-swsh/primarina"
+    },
+    {
+        "DexNum": 731,
+        "Name": "Pikipek",
+        "Link": "https://www.serebii.net/pokedex-sm/731.shtml"
+    },
+    {
+        "DexNum": 732,
+        "Name": "Trumbeak",
+        "Link": "https://www.serebii.net/pokedex-sm/732.shtml"
+    },
+    {
+        "DexNum": 733,
+        "Name": "Toucannon",
+        "Link": "https://www.serebii.net/pokedex-sm/733.shtml"
+    },
+    {
+        "DexNum": 734,
+        "Name": "Yungoos",
+        "Link": "https://www.serebii.net/pokedex-sm/734.shtml"
+    },
+    {
+        "DexNum": 735,
+        "Name": "Gumshoos",
+        "Link": "https://www.serebii.net/pokedex-sm/735.shtml"
+    },
+    {
+        "DexNum": 736,
+        "Name": "Grubbin",
+        "Link": "https://www.serebii.net/pokedex-swsh/grubbin"
+    },
+    {
+        "DexNum": 737,
+        "Name": "Charjabug",
+        "Link": "https://www.serebii.net/pokedex-swsh/charjabug"
+    },
+    {
+        "DexNum": 738,
+        "Name": "Vikavolt",
+        "Link": "https://www.serebii.net/pokedex-swsh/vikavolt"
+    },
+    {
+        "DexNum": 739,
+        "Name": "Crabrawler",
+        "Link": "https://www.serebii.net/pokedex-sm/739.shtml"
+    },
+    {
+        "DexNum": 740,
+        "Name": "Crabominable",
+        "Link": "https://www.serebii.net/pokedex-sm/740.shtml"
+    },
+    {
+        "DexNum": 741,
+        "Name": "Oricorio",
+        "Link": "https://www.serebii.net/pokedex-sm/741.shtml"
+    },
+    {
+        "DexNum": 742,
+        "Name": "Cutiefly",
+        "Link": "https://www.serebii.net/pokedex-swsh/cutiefly"
+    },
+    {
+        "DexNum": 743,
+        "Name": "Ribombee",
+        "Link": "https://www.serebii.net/pokedex-swsh/ribombee"
+    },
+    {
+        "DexNum": 744,
+        "Name": "Rockruff",
+        "Link": "https://www.serebii.net/pokedex-swsh/rockruff"
+    },
+    {
+        "DexNum": 745,
+        "Name": "Lycanroc",
+        "Link": "https://www.serebii.net/pokedex-swsh/lycanroc"
+    },
+    {
+        "DexNum": 746,
+        "Name": "Wishiwashi",
+        "Link": "https://www.serebii.net/pokedex-swsh/wishiwashi"
+    },
+    {
+        "DexNum": 747,
+        "Name": "Mareanie",
+        "Link": "https://www.serebii.net/pokedex-swsh/mareanie"
+    },
+    {
+        "DexNum": 748,
+        "Name": "Toxapex",
+        "Link": "https://www.serebii.net/pokedex-swsh/toxapex"
+    },
+    {
+        "DexNum": 749,
+        "Name": "Mudbray",
+        "Link": "https://www.serebii.net/pokedex-swsh/mudbray"
+    },
+    {
+        "DexNum": 750,
+        "Name": "Mudsdale",
+        "Link": "https://www.serebii.net/pokedex-swsh/mudsdale"
+    },
+    {
+        "DexNum": 751,
+        "Name": "Dewpider",
+        "Link": "https://www.serebii.net/pokedex-swsh/dewpider"
+    },
+    {
+        "DexNum": 752,
+        "Name": "Araquanid",
+        "Link": "https://www.serebii.net/pokedex-swsh/araquanid"
+    },
+    {
+        "DexNum": 753,
+        "Name": "Fomantis",
+        "Link": "https://www.serebii.net/pokedex-swsh/fomantis"
+    },
+    {
+        "DexNum": 754,
+        "Name": "Lurantis",
+        "Link": "https://www.serebii.net/pokedex-swsh/lurantis"
+    },
+    {
+        "DexNum": 755,
+        "Name": "Morelull",
+        "Link": "https://www.serebii.net/pokedex-swsh/morelull"
+    },
+    {
+        "DexNum": 756,
+        "Name": "Shiinotic",
+        "Link": "https://www.serebii.net/pokedex-swsh/shiinotic"
+    },
+    {
+        "DexNum": 757,
+        "Name": "Salandit",
+        "Link": "https://www.serebii.net/pokedex-swsh/salandit"
+    },
+    {
+        "DexNum": 758,
+        "Name": "Salazzle",
+        "Link": "https://www.serebii.net/pokedex-swsh/salazzle"
+    },
+    {
+        "DexNum": 759,
+        "Name": "Stufful",
+        "Link": "https://www.serebii.net/pokedex-swsh/stufful"
+    },
+    {
+        "DexNum": 760,
+        "Name": "Bewear",
+        "Link": "https://www.serebii.net/pokedex-swsh/bewear"
+    },
+    {
+        "DexNum": 761,
+        "Name": "Bounsweet",
+        "Link": "https://www.serebii.net/pokedex-swsh/bounsweet"
+    },
+    {
+        "DexNum": 762,
+        "Name": "Steenee",
+        "Link": "https://www.serebii.net/pokedex-swsh/steenee"
+    },
+    {
+        "DexNum": 763,
+        "Name": "Tsareena",
+        "Link": "https://www.serebii.net/pokedex-swsh/tsareena"
+    },
+    {
+        "DexNum": 764,
+        "Name": "Comfey",
+        "Link": "https://www.serebii.net/pokedex-swsh/comfey"
+    },
+    {
+        "DexNum": 765,
+        "Name": "Oranguru",
+        "Link": "https://www.serebii.net/pokedex-swsh/oranguru"
+    },
+    {
+        "DexNum": 766,
+        "Name": "Passimian",
+        "Link": "https://www.serebii.net/pokedex-swsh/passimian"
+    },
+    {
+        "DexNum": 767,
+        "Name": "Wimpod",
+        "Link": "https://www.serebii.net/pokedex-swsh/wimpod"
+    },
+    {
+        "DexNum": 768,
+        "Name": "Golisopod",
+        "Link": "https://www.serebii.net/pokedex-swsh/golisopod"
+    },
+    {
+        "DexNum": 769,
+        "Name": "Sandygast",
+        "Link": "https://www.serebii.net/pokedex-swsh/sandygast"
+    },
+    {
+        "DexNum": 770,
+        "Name": "Palossand",
+        "Link": "https://www.serebii.net/pokedex-swsh/palossand"
+    },
+    {
+        "DexNum": 771,
+        "Name": "Pyukumuku",
+        "Link": "https://www.serebii.net/pokedex-swsh/pyukumuku"
+    },
+    {
+        "DexNum": 772,
+        "Name": "Type: Null",
+        "Link": "https://www.serebii.net/pokedex-swsh/type:null"
+    },
+    {
+        "DexNum": 773,
+        "Name": "Silvally",
+        "Link": "https://www.serebii.net/pokedex-swsh/silvally"
+    },
+    {
+        "DexNum": 774,
+        "Name": "Minior",
+        "Link": "https://www.serebii.net/pokedex-sm/774.shtml"
+    },
+    {
+        "DexNum": 775,
+        "Name": "Komala",
+        "Link": "https://www.serebii.net/pokedex-sm/775.shtml"
+    },
+    {
+        "DexNum": 776,
+        "Name": "Turtonator",
+        "Link": "https://www.serebii.net/pokedex-swsh/turtonator"
+    },
+    {
+        "DexNum": 777,
+        "Name": "Togedemaru",
+        "Link": "https://www.serebii.net/pokedex-swsh/togedemaru"
+    },
+    {
+        "DexNum": 778,
+        "Name": "Mimikyu",
+        "Link": "https://www.serebii.net/pokedex-swsh/mimikyu"
+    },
+    {
+        "DexNum": 779,
+        "Name": "Bruxish",
+        "Link": "https://www.serebii.net/pokedex-sm/779.shtml"
+    },
+    {
+        "DexNum": 780,
+        "Name": "Drampa",
+        "Link": "https://www.serebii.net/pokedex-swsh/drampa"
+    },
+    {
+        "DexNum": 781,
+        "Name": "Dhelmise",
+        "Link": "https://www.serebii.net/pokedex-swsh/dhelmise"
+    },
+    {
+        "DexNum": 782,
+        "Name": "Jangmo-o",
+        "Link": "https://www.serebii.net/pokedex-swsh/jangmo-o"
+    },
+    {
+        "DexNum": 783,
+        "Name": "Hakamo-o",
+        "Link": "https://www.serebii.net/pokedex-swsh/hakamo-o"
+    },
+    {
+        "DexNum": 784,
+        "Name": "Kommo-o",
+        "Link": "https://www.serebii.net/pokedex-swsh/kommo-o"
+    },
+    {
+        "DexNum": 785,
+        "Name": "Tapu Koko",
+        "Link": "https://www.serebii.net/pokedex-sm/785.shtml"
+    },
+    {
+        "DexNum": 786,
+        "Name": "Tapu Lele",
+        "Link": "https://www.serebii.net/pokedex-sm/786.shtml"
+    },
+    {
+        "DexNum": 787,
+        "Name": "Tapu Bulu",
+        "Link": "https://www.serebii.net/pokedex-sm/787.shtml"
+    },
+    {
+        "DexNum": 788,
+        "Name": "Tapu Fini",
+        "Link": "https://www.serebii.net/pokedex-sm/788.shtml"
+    },
+    {
+        "DexNum": 789,
+        "Name": "Cosmog",
+        "Link": "https://www.serebii.net/pokedex-swsh/cosmog"
+    },
+    {
+        "DexNum": 790,
+        "Name": "Cosmoem",
+        "Link": "https://www.serebii.net/pokedex-swsh/cosmoem"
+    },
+    {
+        "DexNum": 791,
+        "Name": "Solgaleo",
+        "Link": "https://www.serebii.net/pokedex-swsh/solgaleo"
+    },
+    {
+        "DexNum": 792,
+        "Name": "Lunala",
+        "Link": "https://www.serebii.net/pokedex-swsh/lunala"
+    },
+    {
+        "DexNum": 793,
+        "Name": "Nihilego",
+        "Link": "https://www.serebii.net/pokedex-sm/793.shtml"
+    },
+    {
+        "DexNum": 794,
+        "Name": "Buzzwole",
+        "Link": "https://www.serebii.net/pokedex-sm/794.shtml"
+    },
+    {
+        "DexNum": 795,
+        "Name": "Pheromosa",
+        "Link": "https://www.serebii.net/pokedex-sm/795.shtml"
+    },
+    {
+        "DexNum": 796,
+        "Name": "Xurkitree",
+        "Link": "https://www.serebii.net/pokedex-sm/796.shtml"
+    },
+    {
+        "DexNum": 797,
+        "Name": "Celesteela",
+        "Link": "https://www.serebii.net/pokedex-sm/797.shtml"
+    },
+    {
+        "DexNum": 798,
+        "Name": "Kartana",
+        "Link": "https://www.serebii.net/pokedex-sm/798.shtml"
+    },
+    {
+        "DexNum": 799,
+        "Name": "Guzzlord",
+        "Link": "https://www.serebii.net/pokedex-sm/799.shtml"
+    },
+    {
+        "DexNum": 800,
+        "Name": "Necrozma",
+        "Link": "https://www.serebii.net/pokedex-swsh/necrozma"
+    },
+    {
+        "DexNum": 801,
+        "Name": "Magearna",
+        "Link": "https://www.serebii.net/pokedex-swsh/magearna"
+    },
+    {
+        "DexNum": 802,
+        "Name": "Marshadow",
+        "Link": "https://www.serebii.net/pokedex-swsh/marshadow"
+    },
+    {
+        "DexNum": 803,
+        "Name": "Poipole",
+        "Link": "https://www.serebii.net/pokedex-sm/803.shtml"
+    },
+    {
+        "DexNum": 804,
+        "Name": "Naganadel",
+        "Link": "https://www.serebii.net/pokedex-sm/804.shtml"
+    },
+    {
+        "DexNum": 805,
+        "Name": "Stakataka",
+        "Link": "https://www.serebii.net/pokedex-sm/805.shtml"
+    },
+    {
+        "DexNum": 806,
+        "Name": "Blacephalon",
+        "Link": "https://www.serebii.net/pokedex-sm/806.shtml"
+    },
+    {
+        "DexNum": 807,
+        "Name": "Zeraora",
+        "Link": "https://www.serebii.net/pokedex-swsh/zeraora"
+    },
+    {
+        "DexNum": 808,
+        "Name": "Meltan",
+        "Link": "https://www.serebii.net/pokedex-swsh/meltan"
+    },
+    {
+        "DexNum": 809,
+        "Name": "Melmetal",
+        "Link": "https://www.serebii.net/pokedex-swsh/melmetal"
+    },
+    {
+        "DexNum": 810,
+        "Name": "Grookey",
+        "Link": "https://www.serebii.net/pokedex-swsh/grookey"
+    },
+    {
+        "DexNum": 811,
+        "Name": "Thwackey",
+        "Link": "https://www.serebii.net/pokedex-swsh/thwackey"
+    },
+    {
+        "DexNum": 812,
+        "Name": "Rillaboom",
+        "Link": "https://www.serebii.net/pokedex-swsh/rillaboom"
+    },
+    {
+        "DexNum": 813,
+        "Name": "Scorbunny",
+        "Link": "https://www.serebii.net/pokedex-swsh/scorbunny"
+    },
+    {
+        "DexNum": 814,
+        "Name": "Raboot",
+        "Link": "https://www.serebii.net/pokedex-swsh/raboot"
+    },
+    {
+        "DexNum": 815,
+        "Name": "Cinderace",
+        "Link": "https://www.serebii.net/pokedex-swsh/cinderace"
+    },
+    {
+        "DexNum": 816,
+        "Name": "Sobble",
+        "Link": "https://www.serebii.net/pokedex-swsh/sobble"
+    },
+    {
+        "DexNum": 817,
+        "Name": "Drizzile",
+        "Link": "https://www.serebii.net/pokedex-swsh/drizzile"
+    },
+    {
+        "DexNum": 818,
+        "Name": "Inteleon",
+        "Link": "https://www.serebii.net/pokedex-swsh/inteleon"
+    },
+    {
+        "DexNum": 819,
+        "Name": "Skwovet",
+        "Link": "https://www.serebii.net/pokedex-swsh/skwovet"
+    },
+    {
+        "DexNum": 820,
+        "Name": "Greedent",
+        "Link": "https://www.serebii.net/pokedex-swsh/greedent"
+    },
+    {
+        "DexNum": 821,
+        "Name": "Rookidee",
+        "Link": "https://www.serebii.net/pokedex-swsh/rookidee"
+    },
+    {
+        "DexNum": 822,
+        "Name": "Corvisquire",
+        "Link": "https://www.serebii.net/pokedex-swsh/corvisquire"
+    },
+    {
+        "DexNum": 823,
+        "Name": "Corviknight",
+        "Link": "https://www.serebii.net/pokedex-swsh/corviknight"
+    },
+    {
+        "DexNum": 824,
+        "Name": "Blipbug",
+        "Link": "https://www.serebii.net/pokedex-swsh/blipbug"
+    },
+    {
+        "DexNum": 825,
+        "Name": "Dottler",
+        "Link": "https://www.serebii.net/pokedex-swsh/dottler"
+    },
+    {
+        "DexNum": 826,
+        "Name": "Orbeetle",
+        "Link": "https://www.serebii.net/pokedex-swsh/orbeetle"
+    },
+    {
+        "DexNum": 827,
+        "Name": "Nickit",
+        "Link": "https://www.serebii.net/pokedex-swsh/nickit"
+    },
+    {
+        "DexNum": 828,
+        "Name": "Thievul",
+        "Link": "https://www.serebii.net/pokedex-swsh/thievul"
+    },
+    {
+        "DexNum": 829,
+        "Name": "Gossifleur",
+        "Link": "https://www.serebii.net/pokedex-swsh/gossifleur"
+    },
+    {
+        "DexNum": 830,
+        "Name": "Eldegoss",
+        "Link": "https://www.serebii.net/pokedex-swsh/eldegoss"
+    },
+    {
+        "DexNum": 831,
+        "Name": "Wooloo",
+        "Link": "https://www.serebii.net/pokedex-swsh/wooloo"
+    },
+    {
+        "DexNum": 832,
+        "Name": "Dubwool",
+        "Link": "https://www.serebii.net/pokedex-swsh/dubwool"
+    },
+    {
+        "DexNum": 833,
+        "Name": "Chewtle",
+        "Link": "https://www.serebii.net/pokedex-swsh/chewtle"
+    },
+    {
+        "DexNum": 834,
+        "Name": "Drednaw",
+        "Link": "https://www.serebii.net/pokedex-swsh/drednaw"
+    },
+    {
+        "DexNum": 835,
+        "Name": "Yamper",
+        "Link": "https://www.serebii.net/pokedex-swsh/yamper"
+    },
+    {
+        "DexNum": 836,
+        "Name": "Boltund",
+        "Link": "https://www.serebii.net/pokedex-swsh/boltund"
+    },
+    {
+        "DexNum": 837,
+        "Name": "Rolycoly",
+        "Link": "https://www.serebii.net/pokedex-swsh/rolycoly"
+    },
+    {
+        "DexNum": 838,
+        "Name": "Carkol",
+        "Link": "https://www.serebii.net/pokedex-swsh/carkol"
+    },
+    {
+        "DexNum": 839,
+        "Name": "Coalossal",
+        "Link": "https://www.serebii.net/pokedex-swsh/coalossal"
+    },
+    {
+        "DexNum": 840,
+        "Name": "Applin",
+        "Link": "https://www.serebii.net/pokedex-swsh/applin"
+    },
+    {
+        "DexNum": 841,
+        "Name": "Flapple",
+        "Link": "https://www.serebii.net/pokedex-swsh/flapple"
+    },
+    {
+        "DexNum": 842,
+        "Name": "Appletun",
+        "Link": "https://www.serebii.net/pokedex-swsh/appletun"
+    },
+    {
+        "DexNum": 843,
+        "Name": "Silicobra",
+        "Link": "https://www.serebii.net/pokedex-swsh/silicobra"
+    },
+    {
+        "DexNum": 844,
+        "Name": "Sandaconda",
+        "Link": "https://www.serebii.net/pokedex-swsh/sandaconda"
+    },
+    {
+        "DexNum": 845,
+        "Name": "Cramorant",
+        "Link": "https://www.serebii.net/pokedex-swsh/cramorant"
+    },
+    {
+        "DexNum": 846,
+        "Name": "Arrokuda",
+        "Link": "https://www.serebii.net/pokedex-swsh/arrokuda"
+    },
+    {
+        "DexNum": 847,
+        "Name": "Barraskewda",
+        "Link": "https://www.serebii.net/pokedex-swsh/barraskewda"
+    },
+    {
+        "DexNum": 848,
+        "Name": "Toxel",
+        "Link": "https://www.serebii.net/pokedex-swsh/toxel"
+    },
+    {
+        "DexNum": 849,
+        "Name": "Toxtricity",
+        "Link": "https://www.serebii.net/pokedex-swsh/toxtricity"
+    },
+    {
+        "DexNum": 850,
+        "Name": "Sizzlipede",
+        "Link": "https://www.serebii.net/pokedex-swsh/sizzlipede"
+    },
+    {
+        "DexNum": 851,
+        "Name": "Centiskorch",
+        "Link": "https://www.serebii.net/pokedex-swsh/centiskorch"
+    },
+    {
+        "DexNum": 852,
+        "Name": "Clobbopus",
+        "Link": "https://www.serebii.net/pokedex-swsh/clobbopus"
+    },
+    {
+        "DexNum": 853,
+        "Name": "Grapploct",
+        "Link": "https://www.serebii.net/pokedex-swsh/grapploct"
+    },
+    {
+        "DexNum": 854,
+        "Name": "Sinistea",
+        "Link": "https://www.serebii.net/pokedex-swsh/sinistea"
+    },
+    {
+        "DexNum": 855,
+        "Name": "Polteageist",
+        "Link": "https://www.serebii.net/pokedex-swsh/polteageist"
+    },
+    {
+        "DexNum": 856,
+        "Name": "Hatenna",
+        "Link": "https://www.serebii.net/pokedex-swsh/hatenna"
+    },
+    {
+        "DexNum": 857,
+        "Name": "Hattrem",
+        "Link": "https://www.serebii.net/pokedex-swsh/hattrem"
+    },
+    {
+        "DexNum": 858,
+        "Name": "Hatterene",
+        "Link": "https://www.serebii.net/pokedex-swsh/hatterene"
+    },
+    {
+        "DexNum": 859,
+        "Name": "Impidimp",
+        "Link": "https://www.serebii.net/pokedex-swsh/impidimp"
+    },
+    {
+        "DexNum": 860,
+        "Name": "Morgrem",
+        "Link": "https://www.serebii.net/pokedex-swsh/morgrem"
+    },
+    {
+        "DexNum": 861,
+        "Name": "Grimmsnarl",
+        "Link": "https://www.serebii.net/pokedex-swsh/grimmsnarl"
+    },
+    {
+        "DexNum": 862,
+        "Name": "Obstagoon",
+        "Link": "https://www.serebii.net/pokedex-swsh/obstagoon"
+    },
+    {
+        "DexNum": 863,
+        "Name": "Perrserker",
+        "Link": "https://www.serebii.net/pokedex-swsh/perrserker"
+    },
+    {
+        "DexNum": 864,
+        "Name": "Cursola",
+        "Link": "https://www.serebii.net/pokedex-swsh/cursola"
+    },
+    {
+        "DexNum": 865,
+        "Name": "Sirfetch'd",
+        "Link": "https://www.serebii.net/pokedex-swsh/sirfetch'd"
+    },
+    {
+        "DexNum": 866,
+        "Name": "Mr. Rime",
+        "Link": "https://www.serebii.net/pokedex-swsh/mr.rime"
+    },
+    {
+        "DexNum": 867,
+        "Name": "Runerigus",
+        "Link": "https://www.serebii.net/pokedex-swsh/runerigus"
+    },
+    {
+        "DexNum": 868,
+        "Name": "Milcery",
+        "Link": "https://www.serebii.net/pokedex-swsh/milcery"
+    },
+    {
+        "DexNum": 869,
+        "Name": "Alcremie",
+        "Link": "https://www.serebii.net/pokedex-swsh/alcremie"
+    },
+    {
+        "DexNum": 870,
+        "Name": "Falinks",
+        "Link": "https://www.serebii.net/pokedex-swsh/falinks"
+    },
+    {
+        "DexNum": 871,
+        "Name": "Pincurchin",
+        "Link": "https://www.serebii.net/pokedex-swsh/pincurchin"
+    },
+    {
+        "DexNum": 872,
+        "Name": "Snom",
+        "Link": "https://www.serebii.net/pokedex-swsh/snom"
+    },
+    {
+        "DexNum": 873,
+        "Name": "Frosmoth",
+        "Link": "https://www.serebii.net/pokedex-swsh/frosmoth"
+    },
+    {
+        "DexNum": 874,
+        "Name": "Stonjourner",
+        "Link": "https://www.serebii.net/pokedex-swsh/stonjourner"
+    },
+    {
+        "DexNum": 875,
+        "Name": "Eiscue",
+        "Link": "https://www.serebii.net/pokedex-swsh/eiscue"
+    },
+    {
+        "DexNum": 876,
+        "Name": "Indeedee",
+        "Link": "https://www.serebii.net/pokedex-swsh/indeedee"
+    },
+    {
+        "DexNum": 877,
+        "Name": "Morpeko",
+        "Link": "https://www.serebii.net/pokedex-swsh/morpeko"
+    },
+    {
+        "DexNum": 878,
+        "Name": "Cufant",
+        "Link": "https://www.serebii.net/pokedex-swsh/cufant"
+    },
+    {
+        "DexNum": 879,
+        "Name": "Copperajah",
+        "Link": "https://www.serebii.net/pokedex-swsh/copperajah"
+    },
+    {
+        "DexNum": 880,
+        "Name": "Dracozolt",
+        "Link": "https://www.serebii.net/pokedex-swsh/dracozolt"
+    },
+    {
+        "DexNum": 881,
+        "Name": "Arctozolt",
+        "Link": "https://www.serebii.net/pokedex-swsh/arctozolt"
+    },
+    {
+        "DexNum": 882,
+        "Name": "Dracovish",
+        "Link": "https://www.serebii.net/pokedex-swsh/dracovish"
+    },
+    {
+        "DexNum": 883,
+        "Name": "Arctovish",
+        "Link": "https://www.serebii.net/pokedex-swsh/arctovish"
+    },
+    {
+        "DexNum": 884,
+        "Name": "Duraludon",
+        "Link": "https://www.serebii.net/pokedex-swsh/duraludon"
+    },
+    {
+        "DexNum": 885,
+        "Name": "Dreepy",
+        "Link": "https://www.serebii.net/pokedex-swsh/dreepy"
+    },
+    {
+        "DexNum": 886,
+        "Name": "Drakloak",
+        "Link": "https://www.serebii.net/pokedex-swsh/drakloak"
+    },
+    {
+        "DexNum": 887,
+        "Name": "Dragapult",
+        "Link": "https://www.serebii.net/pokedex-swsh/dragapult"
+    },
+    {
+        "DexNum": 888,
+        "Name": "Zacian",
+        "Link": "https://www.serebii.net/pokedex-swsh/zacian"
+    },
+    {
+        "DexNum": 889,
+        "Name": "Zamazenta",
+        "Link": "https://www.serebii.net/pokedex-swsh/zamazenta"
+    },
+    {
+        "DexNum": 890,
+        "Name": "Eternatus",
+        "Link": "https://www.serebii.net/pokedex-swsh/eternatus"
+    },
+    {
+        "DexNum": 891,
+        "Name": "Kubfu",
+        "Link": "https://www.serebii.net/pokedex-swsh/kubfu"
+    },
+    {
+        "DexNum": 892,
+        "Name": "Urshifu",
+        "Link": "https://www.serebii.net/pokedex-swsh/urshifu"
+    },
+    {
+        "DexNum": 893,
+        "Name": "Zarude",
+        "Link": "https://www.serebii.net/pokedex-swsh/zarude"
+    }
+]

@@ -1,0 +1,41 @@
+{
+  "name": "fizzybubblesdex",
+  "version": "1.0.0",
+  "description": "An all-in-one pokedex for use by the Fizzy Bubbles roleplaying community.",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "buildProduction": "webpack --mode=production",
+    "watch": "webpack --watch",
+    "devServer": "webpack-dev-server --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisClark13/FizzyBubblesMoveSetViewer.git"
+  },
+  "author": "ChrisClark13",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisClark13/FizzyBubblesMoveSetViewer/issues"
+  },
+  "homepage": "https://github.com/ChrisClark13/FizzyBubblesMoveSetViewer#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "moment": "^2.27.0",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.8.6",
+    "css-loader": "^4.2.1",
+    "exports-loader": "^1.1.0",
+    "node-sass": "^4.14.1",
+    "postcss-loader": "^3.0.0",
+    "sass-loader": "^9.0.3",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
