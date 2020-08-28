@@ -1168,7 +1168,7 @@
             {
                 "Name": "Marowak",
                 "DexNum": 105,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Corsola",
@@ -2138,7 +2138,7 @@
             {
                 "Name": "Exeggutor",
                 "DexNum": 103,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Sentret",
@@ -2253,7 +2253,7 @@
             {
                 "Name": "Persian",
                 "DexNum": 53,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Furfrou",
@@ -2290,17 +2290,17 @@
             {
                 "Name": "Geodude",
                 "DexNum": 74,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Graveler",
                 "DexNum": 75,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Golem",
                 "DexNum": 76,
-                "Form": "Alola"
+                "Form": "Alolan"
             }
         ]
     },
@@ -2313,12 +2313,12 @@
             {
                 "Name": "Rattata",
                 "DexNum": 19,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Raticate",
                 "DexNum": 20,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Bellsprout",
@@ -2340,12 +2340,12 @@
             {
                 "Name": "Grimer",
                 "DexNum": 88,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Muk",
                 "DexNum": 89,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Snorlax",
@@ -2641,7 +2641,7 @@
             {
                 "Name": "Exeggutor",
                 "DexNum": 103,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Tropius",
@@ -2840,7 +2840,7 @@
             {
                 "Name": "Rattata",
                 "DexNum": 19,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Raticate",
@@ -2849,7 +2849,7 @@
             {
                 "Name": "Raticate",
                 "DexNum": 20,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Nidoran♀",
@@ -4387,7 +4387,7 @@
             {
                 "Name": "Marowak",
                 "DexNum": 105,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Rhyhorn",
@@ -4710,17 +4710,17 @@
             {
                 "Name": "Geodude",
                 "DexNum": 74,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Graveler",
                 "DexNum": 75,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Golem",
                 "DexNum": 76,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Magnemite",
@@ -5764,7 +5764,7 @@
             {
                 "Name": "Meowth",
                 "DexNum": 52,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Meowth",
@@ -6008,7 +6008,7 @@
             {
                 "Name": "Grimer",
                 "DexNum": 88,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Muk",
@@ -6017,7 +6017,7 @@
             {
                 "Name": "Muk",
                 "DexNum": 89,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Croagunk",
@@ -6060,12 +6060,12 @@
             {
                 "Name": "Grimer",
                 "DexNum": 88,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Muk",
                 "DexNum": 89,
-                "Form": "Alola"
+                "Form": "Alolan"
             }
         ]
     },
@@ -6521,12 +6521,12 @@
             {
                 "Name": "Meowth",
                 "DexNum": 52,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Persian",
                 "DexNum": 53,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Magikarp",
@@ -6919,7 +6919,7 @@
             {
                 "Name": "Marowak",
                 "DexNum": 105,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Rhyhorn",
@@ -7146,7 +7146,7 @@
             {
                 "Name": "Diglett",
                 "DexNum": 50,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Dugtrio",
@@ -7155,7 +7155,7 @@
             {
                 "Name": "Dugtrio",
                 "DexNum": 51,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Nosepass",
@@ -7311,7 +7311,7 @@
             {
                 "Name": "Diglett",
                 "DexNum": 50,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Dugtrio",
@@ -7320,7 +7320,7 @@
             {
                 "Name": "Dugtrio",
                 "DexNum": 51,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Geodude",
@@ -8119,12 +8119,12 @@
             {
                 "Name": "Sandshrew",
                 "DexNum": 27,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Sandslash",
                 "DexNum": 28,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Cubchoo",
@@ -8229,22 +8229,22 @@
             {
                 "Name": "Sandshrew",
                 "DexNum": 27,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Sandslash",
                 "DexNum": 28,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Vulpix",
                 "DexNum": 37,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Ninetales",
                 "DexNum": 38,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Articuno",
@@ -8297,12 +8297,12 @@
             {
                 "Name": "Vulpix",
                 "DexNum": 37,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Ninetales",
                 "DexNum": 38,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Snover",
@@ -8955,7 +8955,7 @@
             {
                 "Name": "Geodude",
                 "DexNum": 74,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Graveler",
@@ -8964,7 +8964,7 @@
             {
                 "Name": "Graveler",
                 "DexNum": 75,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Golem",
@@ -8973,7 +8973,7 @@
             {
                 "Name": "Golem",
                 "DexNum": 76,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Magnemite",
@@ -9197,7 +9197,7 @@
             {
                 "Name": "Raichu",
                 "DexNum": 26,
-                "Form": "Alola"
+                "Form": "Alolan"
             }
         ]
     },
@@ -9690,12 +9690,12 @@
             {
                 "Name": "Diglett",
                 "DexNum": 50,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Dugtrio",
                 "DexNum": 51,
-                "Form": "Alola"
+                "Form": "Alolan"
             }
         ]
     },
@@ -9712,7 +9712,7 @@
             {
                 "Name": "Meowth",
                 "DexNum": 52,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Persian",
@@ -9721,7 +9721,7 @@
             {
                 "Name": "Persian",
                 "DexNum": 53,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Mr. Mime",
@@ -9923,12 +9923,12 @@
             {
                 "Name": "Rattata",
                 "DexNum": 19,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Raticate",
                 "DexNum": 20,
-                "Form": "Alola"
+                "Form": "Alolan"
             },
             {
                 "Name": "Seel",
