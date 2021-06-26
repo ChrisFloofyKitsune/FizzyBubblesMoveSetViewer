@@ -1,0 +1,46 @@
+.DexTable {
+    border-radius: 0.5rem;
+    border-color: gray;
+    border-width: 0.15rem;
+    border-style: solid;
+    width: fit-content;
+    max-width: 100%;
+}
+
+.HeaderTable {
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+    overflow-x: hidden;
+    width: fit-content;
+    max-width: 100%;
+    border-top-left-radius: 0.4rem;
+    border-top-right-radius: 0.4rem;
+    background-color: #242a30;
+    padding-right: 0.5rem;
+}
+
+.Table {
+    position: relative;
+    box-sizing: border-box;
+}
+
+.TableHeadCell {
+    top: 0;
+    position: sticky;
+    z-index: 2;
+}
+
+.BodyTable {
+    background-color: #343a40;
+    border-bottom-left-radius: 0.4rem;
+    border-bottom-right-radius: 0.4rem;
+    width: fit-content;
+    max-width: 100%;
+    max-height: 50vh;
+    overflow-y: auto;
+}
+
+.altRow {
+    background-color: rgba(255, 255, 255, 0.05);
+}

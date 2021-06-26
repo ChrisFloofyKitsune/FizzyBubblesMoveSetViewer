@@ -1,0 +1,23 @@
+.detailsCell {
+    white-space: pre-line;
+    min-width: 80px;
+}
+
+.detailsCell p {
+    margin-top: 0;
+    margin-bottom: 0.25rem;
+}
+
+.detailsCell p:last-child {
+    margin-bottom: 0;
+}
+
+.abilityLabel {
+    text-decoration: underline;
+    white-space: pre;
+    font-weight: 500;
+}
+
+.abilityName {
+    white-space: pre;
+}

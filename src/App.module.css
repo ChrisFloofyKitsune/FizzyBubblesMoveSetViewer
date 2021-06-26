@@ -1,0 +1,54 @@
+.App {
+  margin-bottom: 5rem;
+}
+
+.paper {
+  padding: 1rem;
+}
+
+.loadingText {
+  font-size: xx-large;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 100vh;
+  height: 100%;
+  font-weight: bolder;
+}
+
+.Footer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: stretch;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 4.5rem;
+  background-color: #333;
+  z-index: 100;
+  overflow-y: auto;
+  white-space: pre;
+}
+
+::-webkit-scrollbar {
+  width: 0.5rem;
+  height: 0.5rem;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 0.25rem;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 0.25rem;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

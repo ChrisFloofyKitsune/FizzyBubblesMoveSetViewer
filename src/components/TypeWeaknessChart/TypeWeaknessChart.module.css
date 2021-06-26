@@ -1,0 +1,53 @@
+.TypeWeaknessChart table {
+    width: max-content;
+    background-color: #333;
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+
+.TypeWeaknessChart th,
+.TypeWeaknessChart td {
+    padding: 0;
+    text-align: center;
+    width: 2rem;
+    border-right-style: solid;
+    border-width: 2px;
+    border-color: #888;
+}
+
+.TypeWeaknessChart th:last-child,
+.TypeWeaknessChart td:last-child {
+    border-right-style: none;
+}
+
+.TypeWeaknessChart th {
+    height: 64px;
+    vertical-align: bottom;
+}
+
+.TypeWeaknessChart td {
+    height: 2rem;
+    border-bottom-style: none;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.TypeWeaknessChart td.noEffect {
+    background-color: black;
+}
+
+.TypeWeaknessChart td.doubleResist {
+    background-color: red;
+}
+
+.TypeWeaknessChart td.resist {
+    background-color: orange;
+}
+
+.TypeWeaknessChart td.weak {
+    background-color: green;
+}
+
+.TypeWeaknessChart td.doubleWeak {
+    background-color: blue;
+}

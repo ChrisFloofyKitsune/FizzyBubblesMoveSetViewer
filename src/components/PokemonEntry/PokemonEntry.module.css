@@ -1,0 +1,29 @@
+.PokemonEntry h1 {
+    font-size: 2.5rem;
+    font-weight: 400;
+    margin-bottom: 0.5rem;
+}
+
+.PokemonEntry h2 {
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-bottom: 0.5rem;
+}
+
+.PokemonEntry h3 {
+    font-size: 1.25rem;
+    font-weight: 400;
+    margin-bottom: 0.5rem;
+}
+
+.PokemonEntry img {
+    font-size: 10pt;
+}
+
+.humpySprite {
+    margin-left: 0.4rem;
+}
+
+.eggGroups {
+    font-size: 1.25rem;
+}

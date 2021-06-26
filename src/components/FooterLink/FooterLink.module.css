@@ -1,0 +1,23 @@
+.FooterLink button {
+    height: 100%;
+    border-radius: 0;
+    min-width: 4rem;
+    color: #ccc;
+    padding: 0.75rem;
+}
+
+.FooterLinkButtonLabel {
+    display: flex;
+    flex-direction: column;
+    text-transform: capitalize;
+}
+
+.FooterLinkActive button {
+    background-color: #393939;
+    color: #fff;
+}
+
+.FooterLinkActive button:hover {
+    background-color: #444;
+    color: #fff;
+}
