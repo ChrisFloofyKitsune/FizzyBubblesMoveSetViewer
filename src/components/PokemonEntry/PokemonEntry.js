@@ -31,7 +31,12 @@ const PokemonEntry = (props) => {
 
   const pokemon = props.pokemon;
   const form = pokemon.GetForm(props.selectedForm);
-  const moveList = form.GetMoves();  
+  const moveList = form.GetMoves();
+  let levelUpMoves = moveList.LevelUpMoves.slice();
+  if (form.ExtraMove)
+    levelUpMoves.unshift(new FizzyDex.LevelUpMove(form.ExtraMove, "Special", form));
+
+  console.log(levelUpMoves);
 
   return (
     <div className={styles.PokemonEntry} data-testid="PokemonEntry">
@@ -88,7 +93,7 @@ const PokemonEntry = (props) => {
         <Typography variant="h2">
           Level Up Moves
         </Typography>
-        <MovesTable moves={moveList.LevelUpMoves} isLevelUp/>
+        <MovesTable moves={levelUpMoves} isLevelUp/>
       </Box>
       <Box marginTop={3} top={-3} id="eggMoves">
         <Typography variant="h2">

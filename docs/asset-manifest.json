@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/FizzyBubblesMoveSetViewer/static/css/main.d227097e.chunk.css",
-    "main.js": "/FizzyBubblesMoveSetViewer/static/js/main.ca636b18.chunk.js",
-    "main.js.map": "/FizzyBubblesMoveSetViewer/static/js/main.ca636b18.chunk.js.map",
+    "main.js": "/FizzyBubblesMoveSetViewer/static/js/main.477edb8f.chunk.js",
+    "main.js.map": "/FizzyBubblesMoveSetViewer/static/js/main.477edb8f.chunk.js.map",
     "runtime-main.js": "/FizzyBubblesMoveSetViewer/static/js/runtime-main.1cd9c319.js",
     "runtime-main.js.map": "/FizzyBubblesMoveSetViewer/static/js/runtime-main.1cd9c319.js.map",
     "static/js/2.46622601.chunk.js": "/FizzyBubblesMoveSetViewer/static/js/2.46622601.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1cd9c319.js",
     "static/js/2.46622601.chunk.js",
     "static/css/main.d227097e.chunk.css",
-    "static/js/main.ca636b18.chunk.js"
+    "static/js/main.477edb8f.chunk.js"
   ]
 }
