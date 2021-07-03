@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import PropTypes from 'prop-types';
 import styles from './PokemonEntry.module.css';
 
@@ -13,35 +13,49 @@ import TypeWeaknessChart from '../TypeWeaknessChart/TypeWeaknessChart';
 
 const PokemonEntry = (props) => {
 
-  if (!props.pokemon) {
-    return (
-      <div className={styles.PokemonEntry}>
-        No Pokemon Loaded...
-      </div>
-    );
-  }
+  // const [artworkURL, setArtworkURL] = useState(null);
 
-  console.log(`PokemonEntry got: ${props.pokemon.Name} ${props.selectedForm}`);
+  // useEffect(() => {
+  //   setArtworkURL(props.pokemon.GetForm(props.selectedForm).ArtworkURL);
+  // }, [props.pokemon, props.selectedForm]);
+
+  // if (!props.pokemon) {
+  //   return (
+  //     <div className={styles.PokemonEntry}>
+  //       No Pokemon Loaded...
+  //     </div>
+  //   );
+  // }
+
+  // console.log(`PokemonEntry got: ${props.pokemon.Name} ${props.selectedForm}`);
 
   const pokemon = props.pokemon;
   const form = pokemon.GetForm(props.selectedForm);
-  const moveList = form.GetMoves();
+  const moveList = form.GetMoves();  
 
   return (
     <div className={styles.PokemonEntry} data-testid="PokemonEntry">
+      {/* { artworkURL ?
+      <img
+        className={styles.artworkImage}
+        id="pokemonArtwork"
+        alt="Pokemon Artwork"
+        src={artworkURL}
+        onError={() => setArtworkURL(null)}
+        /> : ""} */}
       <Typography variant="h1">
         <span id="pokemonName">{`${pokemon.Name}`}</span>
         <img
           className={styles.humpySprite}
           id="pokemonImage"
           alt="Pokemon Humpy Sprite"
-          src={`https://www.upnetwork.net/fb/sprites/pk${form.HumpySpriteCode}.gif`}
+          src={form.HumpySpriteURL}
         />
         <img
           className={styles.humpySprite}
           id="pokemonImageShiny"
           alt="Pokemon Shiny Humpy Sprite"
-          src={`https://www.upnetwork.net/fb/sprites/sh${form.HumpySpriteCode}.gif`}
+          src={form.HumpyShinyURL}
         />
       </Typography>
       <Typography variant="h3">

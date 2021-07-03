@@ -24,6 +24,10 @@
     margin-left: 0.4rem;
 }
 
+.artworkImage{ 
+    max-height: 150px;
+}
+
 .eggGroups {
     font-size: 1.25rem;
 }

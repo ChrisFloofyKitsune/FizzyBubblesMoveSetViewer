@@ -148,7 +148,10 @@ const Data = {
         "G-Max Depletion": "Dragon",
         "G-Max One Blow": "Dark",
         "G-Max Rapid Flow": "Water",
-    }
+    },
+    DefaultHumpySpriteSource: "https://www.upnetwork.net/fb/sprites/pk",
+    DefaultHumpyShinySource: "https://www.upnetwork.net/fb/sprites/sh",
+    DefaultArtworkURLSource: "https://www.serebii.net/art/th/"
 }
 
 var cachedDefaultMaxMoves = null;
@@ -393,7 +396,9 @@ class Form {
     MoveSet = "";
     ExtraMove = "";
     SignatureSuperMove = "";
-    HumpySpriteCode = "";
+    HumpySpriteURL = "";
+    HumpyShinyURL = "";
+    ArtworkURL = "";
     IsSuperForm = false;
     TypeWeaknesses = new TypeWeaknesses();
 
@@ -413,14 +418,38 @@ class Form {
         this.ExtraMove = (dataObject.ExtraMove) ? dataObject.ExtraMove : null;
         this.SignatureSuperMove = (dataObject.SignatureSuperMove) ? dataObject.SignatureSuperMove : null;
 
-        if (dataObject.HumpySpriteCode)
-            this.HumpySpriteCode = dataObject.HumpySpriteCode;
-        else {
-            let dexNumText = this.Pokemon.DexNum.toString().padStart(3, "0");
-            if (this.FormName === "Normal")
-                this.HumpySpriteCode = dexNumText;
-            else
-                this.HumpySpriteCode = dexNumText + (this.FormName === "Gigantamax" ? "gx" : this.FormName.charAt(0).toLowerCase());
+        if (dataObject.HumpySpriteURL) {
+            this.HumpySpriteURL = dataObject.HumpySpriteURL;
+            this.HumpyShinyURL = dataObject.HumpyShinyURL;
+            this.ArtworkURL = dataObject.ArtworkURL;
+        } else {
+            let humpyCode = "";
+            let artCode = "";
+            if (dataObject.HumpySpriteCode)
+                humpyCode = dataObject.HumpySpriteCode;
+            else {
+                let dexNumText = this.Pokemon.DexNum.toString().padStart(3, "0");
+                if (this.FormName === this.Pokemon.DefaultFormName) {
+                    humpyCode = dexNumText;
+                } else {
+                    humpyCode = dexNumText + (this.FormName === "Gigantamax" ? "gx" : this.FormName.charAt(0).toLowerCase());
+                }
+            }
+
+            if (dataObject.ArtworkCode) {
+                artCode = dataObject.ArtworkCode;
+            } else {
+                let dexNumText = this.Pokemon.DexNum.toString();
+                if (this.FormName === this.Pokemon.DefaultFormName) {
+                    artCode = dexNumText;
+                } else {
+                    artCode = dexNumText + "-" + (this.FormName === "Gigantamax" ? "gx" : this.FormName.charAt(0).toLowerCase());
+                }
+            }
+
+            this.HumpySpriteURL = `${Data.DefaultHumpySpriteSource}${humpyCode}.gif`;
+            this.HumpyShinyURL = `${Data.DefaultHumpyShinySource}${humpyCode}.gif`;
+            this.ArtworkURL = `${Data.DefaultArtworkURLSource}${artCode}.png`;
         }
 
         this.IsSuperForm = (dataObject.IsSuperForm) ? true : false;
