@@ -27,12 +27,22 @@ function createAbilityRowContents(label, ability) {
             .split('\n')
             .map((line, i) => <p key={i}>{line}</p>)
       }
+    </div>),
+    (<div className={styles.detailsCell}>
+      {
+        !abilityData.OverworldEffect ?
+          "-" :
+          abilityData.OverworldEffect
+            .replace(/(?<!Sp)\. /g, '.\n')
+            .split('\n')
+            .map((line, i) => <p key={i}>{line}</p>)
+      }
     </div>)
   ];
 }
 
 const AbilitiesTable = (props) => {
-  const headers = ['Ability', 'Effect', 'Details'];
+  const headers = ['Ability', 'Effect', 'Details', 'Overworld'];
 
   const rowProps = [
     { Prop: "ability1", Label: "Ability 1" },

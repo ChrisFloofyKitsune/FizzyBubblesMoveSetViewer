@@ -678,12 +678,14 @@ class AbilityInfo {
     Name = "";
     GameText = "";
     EffectDetail = "";
+    OverworldEffect = "";
     Link = "";
 
     constructor(dataObject) {
         this.Name = dataObject.Name;
         this.GameText = dataObject.GameText;
         this.EffectDetail = (dataObject.EffectDetail ? dataObject.EffectDetail : null);
+        this.OverworldEffect = (dataObject.EffectDetail ? dataObject.OverworldEffect : null);
         this.Link = dataObject.Link;
     }
 }
