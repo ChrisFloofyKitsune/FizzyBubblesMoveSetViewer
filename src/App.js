@@ -123,7 +123,7 @@ function App() {
     window.onhashchange = null;
 
     // eslint-disable-next-line eqeqeq
-    if (urlName !== pokeSelect.Pokemon.Name && urlDexNum == pokeSelect.Pokemon.DexNum) {
+    if (urlName !== pokeSelect.Pokemon.Name && urlDexNum === pokeSelect.Pokemon.DexNum) {
       let url = new URL(window.location);
       url.hash = newHash;
 
@@ -131,7 +131,7 @@ function App() {
       // console.log("history state replaced");
 
       // eslint-disable-next-line eqeqeq
-    } else if (urlDexNum != pokeSelect.Pokemon.DexNum || urlForm !== pokeSelect.Form) {
+    } else if (urlDexNum !== pokeSelect.Pokemon.DexNum || urlForm !== pokeSelect.Form) {
       window.location.hash = newHash;
       // console.log("new hash set");
     }
@@ -142,10 +142,10 @@ function App() {
   useLayoutEffect(() => {
     console.log("LOADING STUFF")
     Promise.all([
-      FizzyDex.LoadPokemonListJSON(process.env.PUBLIC_URL + '/data/pokemonList.json'),
-      FizzyDex.LoadPokemonMoveListJSON(process.env.PUBLIC_URL + '/data/pokemonMoveList.json'),
-      FizzyDex.LoadMoveDexJSON(process.env.PUBLIC_URL + '/data/moveDex.json'),
-      FizzyDex.LoadAbilityDexJSON(process.env.PUBLIC_URL + '/data/abilityDex.json')
+      FizzyDex.LoadPokemonListJSON('https://fizzydex.s3.us-west-1.amazonaws.com/pokemonList.json'),
+      FizzyDex.LoadPokemonMoveListJSON('https://fizzydex.s3.us-west-1.amazonaws.com/pokemonMoveList.json'),
+      FizzyDex.LoadMoveDexJSON('https://fizzydex.s3.us-west-1.amazonaws.com/moveDex.json'),
+      FizzyDex.LoadAbilityDexJSON('https://fizzydex.s3.us-west-1.amazonaws.com/abilityDex.json')
     ]).catch(err => {
       console.log("ERROR!")
       setErrorText(String(err));
